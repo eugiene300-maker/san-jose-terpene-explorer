@@ -1,0 +1,624 @@
+{
+  "guide-aroma-not-effects.html": {
+    "topics": [
+      "aroma-and-flower",
+      "labels-and-testing"
+    ],
+    "contextual_links": [
+      "story-fall-terpene-guide-pine-citrus-berry.html",
+      "story-heat-waves-storage-flower-south-bay.html"
+    ],
+    "related": [
+      "story-fall-terpene-guide-pine-citrus-berry.html",
+      "story-indica-sativa-folk-vs-hybrid-reality.html",
+      "guide-san-jose-shopping-checklist.html"
+    ]
+  },
+  "guide-aroma-vocabulary.html": {
+    "topics": [
+      "aroma-and-flower",
+      "labels-and-testing"
+    ],
+    "contextual_links": [
+      "story-fall-terpene-guide-pine-citrus-berry.html",
+      "terpene-alpha-pinene.html"
+    ],
+    "related": [
+      "story-fall-terpene-guide-pine-citrus-berry.html",
+      "story-budtenders-as-guides-ten-questions.html",
+      "terpene-alpha-pinene.html"
+    ]
+  },
+  "guide-read-a-terpene-report.html": {
+    "topics": [
+      "labels-and-testing",
+      "aroma-and-flower"
+    ],
+    "contextual_links": [
+      "story-rainy-season-harvest-supply-menus.html"
+    ],
+    "related": [
+      "story-fall-terpene-guide-pine-citrus-berry.html",
+      "story-indica-sativa-folk-vs-hybrid-reality.html",
+      "guide-aroma-not-effects.html"
+    ]
+  },
+  "guide-san-jose-shopping-checklist.html": {
+    "topics": [
+      "aroma-and-flower",
+      "labels-and-testing"
+    ],
+    "contextual_links": [
+      "story-fall-terpene-guide-pine-citrus-berry.html"
+    ],
+    "related": [
+      "story-how-to-read-ca-cannabis-label.html",
+      "story-fall-terpene-guide-pine-citrus-berry.html",
+      "guide-aroma-not-effects.html"
+    ]
+  },
+  "guide-terpene-myths.html": {
+    "topics": [
+      "aroma-and-flower",
+      "labels-and-testing"
+    ],
+    "contextual_links": [
+      "terpene-alpha-pinene.html",
+      "terpene-limonene.html"
+    ],
+    "related": [
+      "story-how-to-read-ca-cannabis-label.html",
+      "story-fall-terpene-guide-pine-citrus-berry.html",
+      "terpene-humulene.html"
+    ]
+  },
+  "guide-terpene-panel-example.html": {
+    "topics": [
+      "labels-and-testing",
+      "aroma-and-flower"
+    ],
+    "contextual_links": [
+      "terpene-limonene.html",
+      "terpene-linalool.html"
+    ],
+    "related": [
+      "story-mythbusting-all-sj-weed-same.html",
+      "story-fall-terpene-guide-pine-citrus-berry.html",
+      "guide-read-a-terpene-report.html"
+    ]
+  },
+  "index.html": {
+    "topics": [
+      "aroma-and-flower"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-fall-terpene-guide-pine-citrus-berry.html",
+      "story-mythbusting-all-sj-weed-same.html",
+      "san-jose-field-notes.html"
+    ]
+  },
+  "lab-report-tool.html": {
+    "topics": [
+      "labels-and-testing"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-how-to-read-ca-cannabis-label.html",
+      "story-track-and-trace-lab-testing.html",
+      "guide-terpene-panel-example.html"
+    ]
+  },
+  "san-jose-field-notes.html": {
+    "topics": [
+      "aroma-and-flower",
+      "labels-and-testing"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-fall-terpene-guide-pine-citrus-berry.html",
+      "story-indica-sativa-folk-vs-hybrid-reality.html",
+      "index.html"
+    ]
+  },
+  "story-beverages-nano-emulsions-hits-different.html": {
+    "topics": [
+      "edibles-and-ratios"
+    ],
+    "contextual_links": [
+      "story-budtenders-as-guides-ten-questions.html",
+      "story-heat-waves-storage-flower-south-bay.html"
+    ],
+    "related": [
+      "story-edibles-onset-dosing-first-timers.html",
+      "story-high-cbd-balanced-ratios-anxious-shoppers.html"
+    ]
+  },
+  "story-budtenders-as-guides-ten-questions.html": {
+    "topics": [
+      "labels-and-testing"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-concentrates-ladder-cure-resin-live-rosin.html",
+      "story-vape-hardware-safety-batteries-counterfeits.html",
+      "guide-aroma-not-effects.html"
+    ]
+  },
+  "story-cannabis-coffee-cafe-adjacent-rituals.html": {
+    "topics": [
+      "edibles-and-ratios"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-edibles-onset-dosing-first-timers.html",
+      "story-high-cbd-balanced-ratios-anxious-shoppers.html"
+    ]
+  },
+  "story-cannabis-prescription-meds-ask-clinician.html": {
+    "topics": [
+      "health-and-evidence"
+    ],
+    "contextual_links": [
+      "story-budtenders-as-guides-ten-questions.html",
+      "story-pregnancy-nursing-shop-conversations.html"
+    ],
+    "related": [
+      "story-pregnancy-nursing-shop-conversations.html",
+      "story-exercise-cannabis-gym-culture-questions.html"
+    ]
+  },
+  "story-cannabis-vs-cigarettes-culture-counter.html": {
+    "topics": [
+      "health-and-evidence"
+    ],
+    "contextual_links": [
+      "story-edibles-onset-dosing-first-timers.html"
+    ],
+    "related": [
+      "story-uga-medical-cannabis-sick-days-limits.html",
+      "story-wildfire-smoke-lung-conscious-alternatives.html"
+    ]
+  },
+  "story-clones-home-grow-adjacent-questions.html": {
+    "topics": [
+      "aroma-and-flower"
+    ],
+    "contextual_links": [
+      "story-pesticides-mold-what-testing-catches.html"
+    ],
+    "related": [
+      "story-rainy-season-harvest-supply-menus.html",
+      "story-mythbusting-all-sj-weed-same.html",
+      "guide-aroma-vocabulary.html"
+    ]
+  },
+  "story-concentrates-ladder-cure-resin-live-rosin.html": {
+    "topics": [
+      "labels-and-testing"
+    ],
+    "contextual_links": [
+      "story-fall-terpene-guide-pine-citrus-berry.html",
+      "story-rainy-season-harvest-supply-menus.html"
+    ],
+    "related": [
+      "story-first-timer-glossary.html",
+      "story-budtenders-as-guides-ten-questions.html",
+      "guide-san-jose-shopping-checklist.html"
+    ]
+  },
+  "story-edibles-onset-dosing-first-timers.html": {
+    "topics": [
+      "edibles-and-ratios"
+    ],
+    "contextual_links": [
+      "story-heat-waves-storage-flower-south-bay.html"
+    ],
+    "related": [
+      "story-beverages-nano-emulsions-hits-different.html",
+      "story-microdosing-culture-tech-san-jose.html"
+    ]
+  },
+  "story-exercise-cannabis-gym-culture-questions.html": {
+    "topics": [
+      "health-and-evidence"
+    ],
+    "contextual_links": [
+      "story-edibles-onset-dosing-first-timers.html",
+      "story-topicals-bath-products-can-cant.html"
+    ],
+    "related": [
+      "story-wildfire-smoke-lung-conscious-alternatives.html",
+      "story-sleep-products-labels-vs-evidence.html"
+    ]
+  },
+  "story-fall-terpene-guide-pine-citrus-berry.html": {
+    "topics": [
+      "aroma-and-flower"
+    ],
+    "contextual_links": [
+      "story-heat-waves-storage-flower-south-bay.html",
+      "story-indica-sativa-folk-vs-hybrid-reality.html"
+    ],
+    "related": [
+      "story-indica-sativa-folk-vs-hybrid-reality.html",
+      "story-heat-waves-storage-flower-south-bay.html",
+      "index.html"
+    ]
+  },
+  "story-first-timer-glossary.html": {
+    "topics": [
+      "labels-and-testing"
+    ],
+    "contextual_links": [
+      "story-budtenders-as-guides-ten-questions.html",
+      "story-fall-terpene-guide-pine-citrus-berry.html",
+      "story-mythbusting-all-sj-weed-same.html"
+    ],
+    "related": [
+      "story-concentrates-ladder-cure-resin-live-rosin.html",
+      "story-vape-hardware-safety-batteries-counterfeits.html",
+      "guide-aroma-not-effects.html"
+    ]
+  },
+  "story-heat-waves-storage-flower-south-bay.html": {
+    "topics": [
+      "aroma-and-flower"
+    ],
+    "contextual_links": [
+      "story-concentrates-ladder-cure-resin-live-rosin.html",
+      "story-fall-terpene-guide-pine-citrus-berry.html"
+    ],
+    "related": [
+      "story-fall-terpene-guide-pine-citrus-berry.html",
+      "story-mythbusting-all-sj-weed-same.html",
+      "terpene-linalool.html"
+    ]
+  },
+  "story-high-cbd-balanced-ratios-anxious-shoppers.html": {
+    "topics": [
+      "edibles-and-ratios"
+    ],
+    "contextual_links": [
+      "story-budtenders-as-guides-ten-questions.html",
+      "story-cannabis-coffee-cafe-adjacent-rituals.html"
+    ],
+    "related": [
+      "story-microdosing-culture-tech-san-jose.html",
+      "story-cannabis-coffee-cafe-adjacent-rituals.html"
+    ]
+  },
+  "story-how-to-read-ca-cannabis-label.html": {
+    "topics": [
+      "labels-and-testing"
+    ],
+    "contextual_links": [
+      "story-concentrates-ladder-cure-resin-live-rosin.html",
+      "story-track-and-trace-lab-testing.html",
+      "terpene-myrcene.html"
+    ],
+    "related": [
+      "story-track-and-trace-lab-testing.html",
+      "story-first-timer-glossary.html",
+      "guide-terpene-myths.html"
+    ]
+  },
+  "story-indica-sativa-folk-vs-hybrid-reality.html": {
+    "topics": [
+      "aroma-and-flower"
+    ],
+    "contextual_links": [
+      "story-budtenders-as-guides-ten-questions.html"
+    ],
+    "related": [
+      "story-fall-terpene-guide-pine-citrus-berry.html",
+      "story-mythbusting-all-sj-weed-same.html",
+      "guide-aroma-not-effects.html"
+    ]
+  },
+  "story-microdosing-culture-tech-san-jose.html": {
+    "topics": [
+      "edibles-and-ratios"
+    ],
+    "contextual_links": [
+      "story-cannabis-coffee-cafe-adjacent-rituals.html"
+    ],
+    "related": [
+      "story-high-cbd-balanced-ratios-anxious-shoppers.html",
+      "story-edibles-onset-dosing-first-timers.html"
+    ]
+  },
+  "story-mythbusting-all-sj-weed-same.html": {
+    "topics": [
+      "aroma-and-flower"
+    ],
+    "contextual_links": [
+      "story-budtenders-as-guides-ten-questions.html",
+      "story-clones-home-grow-adjacent-questions.html",
+      "story-fall-terpene-guide-pine-citrus-berry.html",
+      "story-heat-waves-storage-flower-south-bay.html"
+    ],
+    "related": [
+      "story-rainy-season-harvest-supply-menus.html",
+      "story-indica-sativa-folk-vs-hybrid-reality.html",
+      "guide-terpene-myths.html"
+    ]
+  },
+  "story-pesticides-mold-what-testing-catches.html": {
+    "topics": [
+      "labels-and-testing"
+    ],
+    "contextual_links": [
+      "story-heat-waves-storage-flower-south-bay.html"
+    ],
+    "related": [
+      "story-track-and-trace-lab-testing.html",
+      "story-first-timer-glossary.html",
+      "guide-san-jose-shopping-checklist.html"
+    ]
+  },
+  "story-pregnancy-nursing-shop-conversations.html": {
+    "topics": [
+      "health-and-evidence"
+    ],
+    "contextual_links": [
+      "story-budtenders-as-guides-ten-questions.html",
+      "story-high-cbd-balanced-ratios-anxious-shoppers.html",
+      "story-topicals-bath-products-can-cant.html"
+    ],
+    "related": [
+      "story-cannabis-prescription-meds-ask-clinician.html",
+      "story-exercise-cannabis-gym-culture-questions.html"
+    ]
+  },
+  "story-preroll-quality-tells-canoeing-shake.html": {
+    "topics": [
+      "aroma-and-flower"
+    ],
+    "contextual_links": [
+      "story-budtenders-as-guides-ten-questions.html"
+    ],
+    "related": [
+      "story-heat-waves-storage-flower-south-bay.html",
+      "story-mythbusting-all-sj-weed-same.html",
+      "guide-terpene-myths.html"
+    ]
+  },
+  "story-rainy-season-harvest-supply-menus.html": {
+    "topics": [
+      "aroma-and-flower"
+    ],
+    "contextual_links": [
+      "story-heat-waves-storage-flower-south-bay.html",
+      "story-pesticides-mold-what-testing-catches.html"
+    ],
+    "related": [
+      "story-mythbusting-all-sj-weed-same.html",
+      "story-clones-home-grow-adjacent-questions.html",
+      "guide-read-a-terpene-report.html"
+    ]
+  },
+  "story-seniors-shopping-cannabis-san-jose.html": {
+    "topics": [
+      "edibles-and-ratios"
+    ],
+    "contextual_links": [
+      "story-budtenders-as-guides-ten-questions.html",
+      "story-heat-waves-storage-flower-south-bay.html"
+    ],
+    "related": [
+      "story-edibles-onset-dosing-first-timers.html",
+      "story-high-cbd-balanced-ratios-anxious-shoppers.html"
+    ]
+  },
+  "story-sleep-products-labels-vs-evidence.html": {
+    "topics": [
+      "health-and-evidence"
+    ],
+    "contextual_links": [
+      "story-budtenders-as-guides-ten-questions.html",
+      "story-heat-waves-storage-flower-south-bay.html"
+    ],
+    "related": [
+      "story-exercise-cannabis-gym-culture-questions.html",
+      "story-wildfire-smoke-lung-conscious-alternatives.html"
+    ]
+  },
+  "story-tolerance-breaks-locals-talk-resets.html": {
+    "topics": [
+      "health-and-evidence"
+    ],
+    "contextual_links": [
+      "story-budtenders-as-guides-ten-questions.html",
+      "story-exercise-cannabis-gym-culture-questions.html"
+    ],
+    "related": [
+      "story-exercise-cannabis-gym-culture-questions.html",
+      "story-cannabis-vs-cigarettes-culture-counter.html"
+    ]
+  },
+  "story-topicals-bath-products-can-cant.html": {
+    "topics": [
+      "health-and-evidence"
+    ],
+    "contextual_links": [
+      "story-budtenders-as-guides-ten-questions.html"
+    ],
+    "related": [
+      "story-exercise-cannabis-gym-culture-questions.html",
+      "story-sleep-products-labels-vs-evidence.html"
+    ]
+  },
+  "story-track-and-trace-lab-testing.html": {
+    "topics": [
+      "labels-and-testing"
+    ],
+    "contextual_links": [
+      "story-pesticides-mold-what-testing-catches.html"
+    ],
+    "related": [
+      "story-pesticides-mold-what-testing-catches.html",
+      "story-how-to-read-ca-cannabis-label.html",
+      "guide-aroma-vocabulary.html"
+    ]
+  },
+  "story-ucsf-cannabis-heart-rhythm-study-caveats.html": {
+    "topics": [
+      "health-and-evidence"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-uga-medical-cannabis-sick-days-limits.html",
+      "story-sleep-products-labels-vs-evidence.html"
+    ]
+  },
+  "story-uga-medical-cannabis-sick-days-limits.html": {
+    "topics": [
+      "health-and-evidence"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-ucsf-cannabis-heart-rhythm-study-caveats.html",
+      "story-cannabis-vs-cigarettes-culture-counter.html"
+    ]
+  },
+  "story-vape-hardware-safety-batteries-counterfeits.html": {
+    "topics": [
+      "labels-and-testing"
+    ],
+    "contextual_links": [
+      "story-budtenders-as-guides-ten-questions.html",
+      "story-pesticides-mold-what-testing-catches.html"
+    ],
+    "related": [
+      "story-concentrates-ladder-cure-resin-live-rosin.html",
+      "story-first-timer-glossary.html",
+      "terpene-humulene.html"
+    ]
+  },
+  "story-wildfire-smoke-lung-conscious-alternatives.html": {
+    "topics": [
+      "health-and-evidence"
+    ],
+    "contextual_links": [
+      "story-budtenders-as-guides-ten-questions.html",
+      "story-topicals-bath-products-can-cant.html"
+    ],
+    "related": [
+      "story-exercise-cannabis-gym-culture-questions.html",
+      "story-sleep-products-labels-vs-evidence.html"
+    ]
+  },
+  "terpene-alpha-pinene.html": {
+    "topics": [
+      "aroma-and-flower",
+      "labels-and-testing"
+    ],
+    "contextual_links": [
+      "story-fall-terpene-guide-pine-citrus-berry.html"
+    ],
+    "related": [
+      "story-fall-terpene-guide-pine-citrus-berry.html",
+      "story-indica-sativa-folk-vs-hybrid-reality.html",
+      "terpene-beta-pinene.html"
+    ]
+  },
+  "terpene-beta-pinene.html": {
+    "topics": [
+      "labels-and-testing",
+      "aroma-and-flower"
+    ],
+    "contextual_links": [
+      "story-fall-terpene-guide-pine-citrus-berry.html"
+    ],
+    "related": [
+      "story-fall-terpene-guide-pine-citrus-berry.html",
+      "story-how-to-read-ca-cannabis-label.html",
+      "terpene-alpha-pinene.html"
+    ]
+  },
+  "terpene-caryophyllene.html": {
+    "topics": [
+      "labels-and-testing",
+      "aroma-and-flower"
+    ],
+    "contextual_links": [
+      "story-fall-terpene-guide-pine-citrus-berry.html"
+    ],
+    "related": [
+      "story-fall-terpene-guide-pine-citrus-berry.html",
+      "story-how-to-read-ca-cannabis-label.html",
+      "terpene-humulene.html"
+    ]
+  },
+  "terpene-humulene.html": {
+    "topics": [
+      "labels-and-testing",
+      "aroma-and-flower"
+    ],
+    "contextual_links": [
+      "story-fall-terpene-guide-pine-citrus-berry.html"
+    ],
+    "related": [
+      "story-fall-terpene-guide-pine-citrus-berry.html",
+      "story-how-to-read-ca-cannabis-label.html",
+      "terpene-caryophyllene.html"
+    ]
+  },
+  "terpene-limonene.html": {
+    "topics": [
+      "labels-and-testing",
+      "aroma-and-flower"
+    ],
+    "contextual_links": [
+      "story-fall-terpene-guide-pine-citrus-berry.html"
+    ],
+    "related": [
+      "story-fall-terpene-guide-pine-citrus-berry.html",
+      "story-how-to-read-ca-cannabis-label.html",
+      "terpene-myrcene.html"
+    ]
+  },
+  "terpene-linalool.html": {
+    "topics": [
+      "labels-and-testing",
+      "aroma-and-flower"
+    ],
+    "contextual_links": [
+      "story-fall-terpene-guide-pine-citrus-berry.html"
+    ],
+    "related": [
+      "story-fall-terpene-guide-pine-citrus-berry.html",
+      "story-how-to-read-ca-cannabis-label.html",
+      "terpene-limonene.html"
+    ]
+  },
+  "terpene-myrcene.html": {
+    "topics": [
+      "labels-and-testing",
+      "aroma-and-flower"
+    ],
+    "contextual_links": [
+      "story-fall-terpene-guide-pine-citrus-berry.html"
+    ],
+    "related": [
+      "story-fall-terpene-guide-pine-citrus-berry.html",
+      "story-how-to-read-ca-cannabis-label.html",
+      "terpene-limonene.html"
+    ]
+  },
+  "terpene-terpinolene.html": {
+    "topics": [
+      "labels-and-testing",
+      "aroma-and-flower"
+    ],
+    "contextual_links": [
+      "story-fall-terpene-guide-pine-citrus-berry.html"
+    ],
+    "related": [
+      "story-fall-terpene-guide-pine-citrus-berry.html",
+      "story-mythbusting-all-sj-weed-same.html",
+      "terpene-linalool.html"
+    ]
+  }
+}
