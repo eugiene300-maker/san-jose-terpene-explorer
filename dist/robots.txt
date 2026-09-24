@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://eugiene300-maker.github.io/san-jose-terpene-explorer/sitemap.xml
+Sitemap: https://san-jose-terpene-explorer.onrender.com/sitemap.xml
