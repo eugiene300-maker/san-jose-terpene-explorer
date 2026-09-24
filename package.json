@@ -1,0 +1,10 @@
+{
+  "name": "san-jose-terpene-explorer",
+  "private": true,
+  "scripts": {
+    "build": "python3 scripts/build.py",
+    "refresh": "python3 scripts/refresh.py",
+    "check": "python3 scripts/check.py",
+    "test": "node scripts/test-tools.cjs && node scripts/test-sharing.cjs"
+  }
+}
