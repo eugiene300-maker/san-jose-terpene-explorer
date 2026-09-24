@@ -2,7 +2,7 @@
 
 Purple Lotus sponsored San Jose consumer resource. Static, multipage site.
 
-Live: https://eugiene300-maker.github.io/san-jose-terpene-explorer
+Live: https://san-jose-terpene-explorer.onrender.com
 
 ## Structure
 
@@ -22,9 +22,7 @@ npm test                     # calculator and sharing tests
 
 ## Deployment
 
-Primary address: https://eugiene300-maker.github.io/san-jose-terpene-explorer/ (GitHub Pages, published by `.github/workflows/pages.yml` on every push to `main` and after each scheduled refresh). Canonical URLs, the sitemap and llms.txt point to this address; it is set in `data/config.json`.
-
-Mirrors on other static hosts: output directory `dist`. To keep the canonical pointing at the primary address, use no build command. To give a mirror its own canonical and sitemap, use build command `python3 scripts/build.py` with Python 3.12+ and set the `SITE_URL` environment variable to that host's address.
+Live at https://san-jose-terpene-explorer.onrender.com/ on Render, which publishes `dist/` on every push to `main`. Canonical URLs, the sitemap and llms.txt use the address set in `data/config.json`; change it there and run `python3 scripts/build.py` (Python 3.12+) if the site moves.
 
 ## Content boundaries
 
