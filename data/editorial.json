@@ -1,0 +1,330 @@
+{
+  "brands": [
+    {
+      "id": "raw-garden",
+      "name": "Raw Garden",
+      "region": "Santa Barbara County",
+      "origin": "California",
+      "formats": [
+        "Vapes",
+        "Extracts",
+        "Pre-rolls"
+      ],
+      "color": "#dceb80",
+      "short": "From the farm to the extract.",
+      "source": "https://rawgarden.farm/our-story/",
+      "text": "Raw Garden traces its start to Santa Barbara County in 2015. Its own farm and extraction story is central to the brand: the company describes a seed-to-oil approach rather than sourcing a finished oil and placing a label on it.",
+      "tip": "Start with the extraction type. Refined live resin, live sauce and solventless live rosin are different product descriptions. Match the exact package to its published specifications before comparing price.",
+      "question": "Is this a cartridge, an all-in-one, or an extract that needs separate equipment?",
+      "tags": [
+        "Single-source story",
+        "Live resin",
+        "California roots"
+      ]
+    },
+    {
+      "id": "kiva",
+      "name": "Kiva Confections",
+      "region": "California",
+      "origin": "California",
+      "formats": [
+        "Edibles"
+      ],
+      "color": "#e7cfad",
+      "short": "A confectioner\u2019s approach to cannabis.",
+      "source": "https://www.kivaconfections.com/about-us",
+      "text": "Kiva is a California cannabis confectionery company with a portfolio spanning chocolates, gummies, mints and bites. Its product families include Kiva, Camino, Lost Farm, Petra and Terra. The name on the front of a package may therefore be a product family within a larger company.",
+      "tip": "Compare the individual piece and the whole package separately. Chocolate squares, mints and gummies are different formats, and a familiar brand name does not establish the amount in your particular package.",
+      "question": "What are the labeled milligrams per piece, and how many pieces are in this package?",
+      "tags": [
+        "Chocolate",
+        "Gummies & mints",
+        "Brand family"
+      ]
+    },
+    {
+      "id": "camino",
+      "name": "Camino",
+      "region": "Kiva brand family",
+      "origin": "California",
+      "formats": [
+        "Edibles"
+      ],
+      "color": "#c9dbfa",
+      "short": "Know the gummy behind the name.",
+      "source": "https://www.kivaconfections.com/brand/camino",
+      "text": "Camino is part of the Kiva portfolio. Its range includes gummies, sour gummies and fruit chews. The brand uses flavor, cannabinoid combinations and experience-oriented product names to distinguish its lines. Those names describe positioning, not a guaranteed personal response.",
+      "tip": "Read the exact variant. Products with similar artwork can carry different THC quantities or additional cannabinoids. Market-specific versions also differ, so use the California package and current local menu.",
+      "question": "Does this version contain CBD, CBN, CBG or another cannabinoid in addition to THC?",
+      "tags": [
+        "Gummies",
+        "Fruit chews",
+        "Label-first comparison"
+      ]
+    },
+    {
+      "id": "wyld",
+      "name": "WYLD",
+      "region": "Multi-state brand",
+      "origin": "Beyond California",
+      "formats": [
+        "Edibles"
+      ],
+      "color": "#e6caef",
+      "short": "Fruit-forward, with a label worth reading.",
+      "source": "https://wyldcanna.com/why-in-wyld/wyld-story/",
+      "text": "WYLD presents itself as a nature-inspired edible brand built around fruit flavors. Its product range extends across multiple markets. For a San Jose shopper, the relevant comparison is the exact regulated California product rather than a package pictured on another state\u2019s website.",
+      "tip": "Use ingredient lists to check dietary preferences. Compare cannabinoid ratios and package quantities before deciding that two flavors are equivalent. Flavor alone does not describe the full formulation.",
+      "question": "Am I comparing the same cannabinoid ratio and package size?",
+      "tags": [
+        "Fruit flavors",
+        "Gummies",
+        "Multi-state range"
+      ]
+    },
+    {
+      "id": "pax",
+      "name": "PAX",
+      "region": "California market",
+      "origin": "California market",
+      "formats": [
+        "Vapes",
+        "Devices"
+      ],
+      "color": "#cedbfe",
+      "short": "The device is part of the decision.",
+      "source": "https://www.pax.com/",
+      "text": "PAX offers dry-herb vaporizers alongside oil-pod devices and cannabis products. Those are distinct systems. A device that uses loose flower is not the same as a battery designed for a prefilled oil pod.",
+      "tip": "Confirm hardware compatibility before buying. Look at the full device and pod names, whether a battery is included, and whether the item is a consumable product or reusable hardware.",
+      "question": "Will this product work with the device I already own?",
+      "tags": [
+        "Device compatibility",
+        "Oil pods",
+        "Dry-herb hardware"
+      ]
+    },
+    {
+      "id": "jeeter",
+      "name": "Jeeter",
+      "region": "California market",
+      "origin": "California market",
+      "formats": [
+        "Pre-rolls",
+        "Vapes"
+      ],
+      "color": "#244b48",
+      "short": "Look inside the pre-roll category.",
+      "source": "https://www.jeeter.com/",
+      "text": "Jeeter\u2019s range includes pre-rolls and all-in-one vape products. Its own brand story emphasizes events, design and cannabis culture. When comparing its offerings, product construction is more informative than the size or color of a package.",
+      "tip": "Distinguish infused pre-rolls from flower-only products. Compare the number of units, total weight and ingredients. An all-in-one vape also has different replacement and disposal considerations from a rechargeable battery with a separate cartridge.",
+      "question": "What is added to the flower, and is the listed weight for one unit or the entire pack?",
+      "tags": [
+        "Pre-rolls",
+        "All-in-one vapes",
+        "Format matters"
+      ]
+    },
+    {
+      "id": "connected",
+      "name": "Connected",
+      "region": "Sacramento roots",
+      "origin": "California",
+      "formats": [
+        "Flower",
+        "Pre-rolls"
+      ],
+      "color": "#bed6c4",
+      "short": "A Northern California cultivation story.",
+      "source": "https://connectedcannabisco.com/pages/new-about",
+      "text": "Connected traces its roots to Sacramento\u2019s Fruitridge Health & Wellness Dispensary and describes launching the Connected brand in 2018. Its published history centers on cultivation and proprietary genetics, with a longstanding relationship with Alien Labs.",
+      "tip": "For flower, compare package date, batch information and weight alongside the cultivar name. A brand\u2019s cultivation story gives context, but it cannot tell you the measured composition of every jar.",
+      "question": "Can I see the package date and the lab information for this exact batch?",
+      "tags": [
+        "Cultivation",
+        "Northern California",
+        "Genetics"
+      ]
+    },
+    {
+      "id": "alien-labs",
+      "name": "Alien Labs",
+      "region": "Northern California connection",
+      "origin": "California",
+      "formats": [
+        "Flower",
+        "Pre-rolls"
+      ],
+      "color": "#d8ceff",
+      "short": "Genetics, culture, and the actual batch.",
+      "source": "https://connectedcannabisco.com/pages/new-about",
+      "text": "Connected\u2019s official history identifies Alien Labs as a longtime partner and a cultivation and lifestyle brand. The relationship is useful context for shoppers who see both names in a San Jose menu, but the brands should still be compared at the individual product level.",
+      "tip": "Do not treat cultivar names as fixed lab results. Check the product type, weight and batch documentation. Two packages with the same cultivar name can come from different harvests.",
+      "question": "Which characteristics are measured on the current batch, and which are general brand descriptions?",
+      "tags": [
+        "Cultivars",
+        "Flower",
+        "Brand relationships"
+      ]
+    }
+  ],
+  "terpenes": [
+    {
+      "id": "limonene",
+      "name": "Limonene",
+      "cid": 22311,
+      "aromas": [
+        "Citrus",
+        "Fresh"
+      ],
+      "note": "Citrus peel",
+      "text": "Limonene is a useful starting point if you enjoy bright, peel-like aromas. This profile refers to the compound record identified below; limonene also has stereoisomers, which matter when interpreting chemical references.",
+      "tip": "A lemon-sounding cultivar name is not a limonene measurement. Ask for the terpene panel for the actual batch.",
+      "color": "#ffce56",
+      "source": "https://pubchem.ncbi.nlm.nih.gov/compound/22311"
+    },
+    {
+      "id": "myrcene",
+      "name": "Myrcene",
+      "cid": 31253,
+      "aromas": [
+        "Earthy",
+        "Herbal"
+      ],
+      "note": "Earthy & herbal",
+      "text": "Myrcene is frequently discussed when people describe earthy, herbal cannabis aromas. Its presence is a chemical observation, not a reliable instruction about how a product will feel.",
+      "tip": "Compare its reported concentration with the rest of the panel. The largest individual terpene is only one part of a mixture.",
+      "color": "#cbd68e",
+      "source": "https://pubchem.ncbi.nlm.nih.gov/compound/31253"
+    },
+    {
+      "id": "alpha-pinene",
+      "name": "Alpha-pinene",
+      "cid": 6654,
+      "aromas": [
+        "Pine",
+        "Fresh"
+      ],
+      "note": "Pine & resin",
+      "text": "Alpha-pinene belongs to the pine-like end of the aroma vocabulary. Alpha-pinene and beta-pinene are distinct compounds, so a lab report may list them separately.",
+      "tip": "Keep alpha-pinene and beta-pinene separate when copying lab results. A combined pinene figure should say clearly that it combines both.",
+      "color": "#b6d8c7",
+      "source": "https://pubchem.ncbi.nlm.nih.gov/compound/6654"
+    },
+    {
+      "id": "linalool",
+      "name": "Linalool",
+      "cid": 6549,
+      "aromas": [
+        "Floral",
+        "Fresh"
+      ],
+      "note": "Floral & soft",
+      "text": "Linalool is associated with floral fragrance descriptions. This guide uses floral as a sensory reference, not a claim that a cannabis product treats anxiety, sleep problems or any other condition.",
+      "tip": "Read the measured amount and the report units. A familiar floral association does not establish the dominant aroma of a whole product.",
+      "color": "#ddc6f0",
+      "source": "https://pubchem.ncbi.nlm.nih.gov/compound/6549"
+    },
+    {
+      "id": "caryophyllene",
+      "name": "Beta-caryophyllene",
+      "cid": 5281515,
+      "aromas": [
+        "Spicy",
+        "Woody"
+      ],
+      "note": "Pepper & wood",
+      "text": "Beta-caryophyllene sits in the spicy, woody part of this explorer. PubChem identifies it as a sesquiterpene, a different molecular class from monoterpenes such as myrcene.",
+      "tip": "Check whether the panel lists beta-caryophyllene or caryophyllene oxide. They are separate compounds and should not be merged without explanation.",
+      "color": "#e5b398",
+      "source": "https://pubchem.ncbi.nlm.nih.gov/compound/5281515"
+    },
+    {
+      "id": "humulene",
+      "name": "Humulene",
+      "cid": 5281520,
+      "aromas": [
+        "Woody",
+        "Earthy"
+      ],
+      "note": "Woody & earthy",
+      "text": "Humulene, also called alpha-caryophyllene, is a sesquiterpene. Its naming makes it easy to confuse with beta-caryophyllene, which has a different compound record.",
+      "tip": "Look for alternate names on reports. Avoid double-counting humulene and alpha-caryophyllene if a source uses both for the same compound.",
+      "color": "#c6ca91",
+      "source": "https://pubchem.ncbi.nlm.nih.gov/compound/5281520"
+    },
+    {
+      "id": "terpinolene",
+      "name": "Terpinolene",
+      "cid": 11463,
+      "aromas": [
+        "Herbal",
+        "Pine",
+        "Floral"
+      ],
+      "note": "Herbal, pine & floral",
+      "text": "Terpinolene spans several aroma descriptors rather than fitting neatly into one box. The aroma chips in this explorer are editorial categories that help compare descriptions, not measured intensity scores.",
+      "tip": "A product can contain several terpenes with overlapping descriptors. Choose a profile to investigate, then check the current lab panel.",
+      "color": "#bddce2",
+      "source": "https://pubchem.ncbi.nlm.nih.gov/compound/11463"
+    },
+    {
+      "id": "beta-pinene",
+      "name": "Beta-pinene",
+      "cid": 14896,
+      "aromas": [
+        "Pine",
+        "Woody"
+      ],
+      "note": "Resinous & woody",
+      "text": "Beta-pinene is a distinct isomer of pinene. Sharing a molecular formula with another compound does not make the compounds identical or their sensory contributions interchangeable.",
+      "tip": "If a report says only pinene, ask whether it identifies an isomer or combines values. Record the laboratory\u2019s wording exactly.",
+      "color": "#b7c9b2",
+      "source": "https://pubchem.ncbi.nlm.nih.gov/compound/14896"
+    }
+  ],
+  "cities": [
+    {
+      "id": "san-jose",
+      "name": "San Jose",
+      "headline": "Start with the delivery address, not the store address.",
+      "text": "San Jose is part of the South Bay. Compare the location, timing, and full cost of any plan before choosing convenience over a trip.",
+      "tip": "Use the business and location you actually intend to visit. City names alone do not establish a delivery area or an arrival time."
+    },
+    {
+      "id": "santa-clara",
+      "name": "Santa Clara",
+      "headline": "Check the city and street together.",
+      "text": "Santa Clara is part of the South Bay. Compare the location, timing, and full cost of any plan before choosing convenience over a trip.",
+      "tip": "Use the business and location you actually intend to visit. City names alone do not establish a delivery area or an arrival time."
+    },
+    {
+      "id": "sunnyvale",
+      "name": "Sunnyvale",
+      "headline": "Plan around the handoff window.",
+      "text": "Sunnyvale is part of the South Bay. Compare the location, timing, and full cost of any plan before choosing convenience over a trip.",
+      "tip": "Use the business and location you actually intend to visit. City names alone do not establish a delivery area or an arrival time."
+    },
+    {
+      "id": "milpitas",
+      "name": "Milpitas",
+      "headline": "Let the address checker select the service.",
+      "text": "Milpitas is part of the South Bay. Compare the location, timing, and full cost of any plan before choosing convenience over a trip.",
+      "tip": "Use the business and location you actually intend to visit. City names alone do not establish a delivery area or an arrival time."
+    },
+    {
+      "id": "campbell",
+      "name": "Campbell",
+      "headline": "Make the minimum part of your plan.",
+      "text": "Campbell is part of the South Bay. Compare the location, timing, and full cost of any plan before choosing convenience over a trip.",
+      "tip": "Use the business and location you actually intend to visit. City names alone do not establish a delivery area or an arrival time."
+    },
+    {
+      "id": "cupertino",
+      "name": "Cupertino",
+      "headline": "Check availability before choosing a product.",
+      "text": "Cupertino is part of the South Bay. Compare the location, timing, and full cost of any plan before choosing convenience over a trip.",
+      "tip": "Use the business and location you actually intend to visit. City names alone do not establish a delivery area or an arrival time."
+    }
+  ],
+  "editorial_reviewed": "2026-09-23"
+}

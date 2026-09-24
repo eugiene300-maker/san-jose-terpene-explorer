@@ -1,0 +1,42 @@
+{
+  "reviewed": "2026-09-24",
+  "businesses": [
+    {
+      "name": "Purple Lotus",
+      "category": "Dispensary",
+      "sponsored": true,
+      "source": "https://plpcsanjose.com/",
+      "id": "purple-lotus"
+    },
+    {
+      "id": "roys",
+      "name": "Roy’s Station",
+      "category": "Coffee",
+      "description": "Coffee and tea in a former gas station at Fifth and Jackson in Japantown.",
+      "image": "business-roys-station.webp",
+      "alt": "Roy’s Station storefront in San Jose Japantown",
+      "source": "https://roysstation.com/",
+      "sponsored": false
+    },
+    {
+      "id": "academic",
+      "name": "Academic Coffee",
+      "category": "Coffee",
+      "description": "Specialty coffee and espresso drinks in San Jose’s SoFA District.",
+      "image": "business-academic.webp",
+      "alt": "Coffee and a green tea latte photographed for Academic Coffee",
+      "source": "https://www.sanjose.org/listings/academic-coffee",
+      "sponsored": false
+    },
+    {
+      "id": "luna",
+      "name": "LUNA Mexican Kitchen",
+      "category": "Mexican",
+      "description": "Farm-to-table Mexican cooking on The Alameda in San Jose.",
+      "image": "business-luna.webp",
+      "alt": "LUNA Mexican Kitchen’s white storefront and outdoor patio on The Alameda",
+      "source": "https://www.lunamexicankitchen.com/location/luna-mexican-kitchen-san-jose/",
+      "sponsored": false
+    }
+  ]
+}

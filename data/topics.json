@@ -1,0 +1,230 @@
+{
+  "topics": [
+    {
+      "id": "aroma-and-flower",
+      "title": "Aroma and flower",
+      "description": "Scent vocabulary, flower quality, harvest changes and what a strain name can tell you.",
+      "articles": [
+        40,
+        41,
+        42,
+        43,
+        71,
+        76,
+        85
+      ],
+      "keywords": [
+        "aroma",
+        "terpene",
+        "flower",
+        "scent",
+        "pine",
+        "citrus",
+        "harvest",
+        "storage",
+        "strain"
+      ]
+    },
+    {
+      "id": "labels-and-testing",
+      "title": "Labels and testing",
+      "description": "Read a batch label, understand a lab panel and recognize the limits of product claims.",
+      "articles": [
+        21,
+        22,
+        23,
+        24,
+        44,
+        45,
+        57
+      ],
+      "keywords": [
+        "label",
+        "testing",
+        "lab",
+        "batch",
+        "report",
+        "panel",
+        "quality",
+        "format",
+        "vape"
+      ]
+    },
+    {
+      "id": "edibles-and-ratios",
+      "title": "Edibles, drinks and ratios",
+      "description": "Onset, drinks, CBD ratios and the questions that come with unfamiliar products.",
+      "articles": [
+        28,
+        31,
+        32,
+        33,
+        48,
+        49
+      ],
+      "keywords": [
+        "edible",
+        "drink",
+        "beverage",
+        "onset",
+        "ratio",
+        "cbd",
+        "coffee",
+        "microdosing"
+      ]
+    },
+    {
+      "id": "health-and-evidence",
+      "title": "Health and evidence",
+      "description": "Research findings, medication questions and a closer look at wellness claims.",
+      "articles": [
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        46,
+        47,
+        66,
+        67
+      ],
+      "keywords": [
+        "health",
+        "research",
+        "evidence",
+        "sleep",
+        "lung",
+        "heart",
+        "medication",
+        "effect",
+        "tolerance"
+      ]
+    }
+  ],
+  "tool_topics": {
+    "index.html": [
+      "aroma-and-flower"
+    ],
+    "lab-report-tool.html": [
+      "labels-and-testing"
+    ]
+  },
+  "aliases": {
+    "21": [
+      "rosin",
+      "RSO",
+      "product formats"
+    ],
+    "22": [
+      "cannabis label",
+      "batch number"
+    ],
+    "23": [
+      "track-and-trace",
+      "lab testing"
+    ],
+    "24": [
+      "pesticides",
+      "mold"
+    ],
+    "28": [
+      "older adults",
+      "seniors"
+    ],
+    "31": [
+      "edible onset",
+      "edibles onset",
+      "first-time edible"
+    ],
+    "32": [
+      "cannabis beverages",
+      "nano-emulsions"
+    ],
+    "33": [
+      "balanced ratios",
+      "high-CBD"
+    ],
+    "34": [
+      "sleep products",
+      "sleep claims"
+    ],
+    "35": [
+      "exercise"
+    ],
+    "36": [
+      "heart rhythm",
+      "heart-rhythm"
+    ],
+    "37": [
+      "cigarettes"
+    ],
+    "38": [
+      "sick days"
+    ],
+    "39": [
+      "wildfire smoke",
+      "air quality"
+    ],
+    "40": [
+      "storage",
+      "storing flower"
+    ],
+    "41": [
+      "terpenes",
+      "aroma"
+    ],
+    "42": [
+      "indica",
+      "sativa"
+    ],
+    "43": [
+      "pre-roll quality",
+      "canoeing"
+    ],
+    "44": [
+      "vape hardware",
+      "batteries"
+    ],
+    "45": [
+      "concentrates",
+      "live rosin"
+    ],
+    "46": [
+      "topicals"
+    ],
+    "47": [
+      "tolerance breaks",
+      "tolerance break"
+    ],
+    "48": [
+      "microdosing"
+    ],
+    "49": [
+      "coffee",
+      "caffeine"
+    ],
+    "57": [
+      "budtenders",
+      "budtender"
+    ],
+    "66": [
+      "prescription medications",
+      "prescription meds"
+    ],
+    "67": [
+      "pregnancy",
+      "nursing"
+    ],
+    "71": [
+      "clones"
+    ],
+    "76": [
+      "harvest",
+      "seasonal menus"
+    ],
+    "85": [
+      "same flower"
+    ]
+  }
+}

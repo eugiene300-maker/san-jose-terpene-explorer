@@ -1,0 +1,1218 @@
+{
+  "name": "NOSE NOTES",
+  "dir": "san-jose-terpene-explorer",
+  "strap": "A San Jose journal of aroma, appetite, and very specific taste.",
+  "section_title": "Follow your curiosity.",
+  "team_title": "Good taste has a point of view.",
+  "team_intro": "Three voices on the things worth slowing down to notice.",
+  "about_title": "Pay attention. It gets interesting.",
+  "about": [
+    "A coffee menu. A fistful of herbs. A label that promises the entire universe in one aroma word. NOSE NOTES lives in the space between what we are sold and what we actually notice.",
+    "Our terpene explorer turns scent vocabulary into something you can use. Our journal takes that curiosity into San Jose: coffee counters, markets, gardens, food, and the design of everyday rituals. Cannabis is part of the conversation, not the explanation for everything.",
+    "We prefer precise observations to grand promises. Expect opinionated essays, practical experiments, and local places that give the ideas somewhere to land. Advertising appears in labeled placements."
+  ],
+  "authors": [
+    {
+      "name": "Milo Reyes",
+      "beat": "Aroma, labels & products",
+      "bio": "Milo covers aroma, product labels and the distinctions between cannabis formats."
+    },
+    {
+      "name": "Sienna Hart",
+      "beat": "Food, drink & consumer health",
+      "bio": "Sienna covers food, beverages and the health questions readers bring to cannabis shopping."
+    },
+    {
+      "name": "Theo Mercado",
+      "beat": "Research, design & everyday use",
+      "bio": "Theo covers cannabis research, packaging, storage and the design of everyday products."
+    }
+  ],
+  "tool": {
+    "eyebrow": "FIND YOUR SCENT SIGNATURE",
+    "title": "Citrus? Forest? Something stranger?",
+    "text": "Pick the aromas you recognize and explore the compounds behind the vocabulary.",
+    "url": "index.html#scent-studio",
+    "label": "Try the aroma explorer"
+  },
+  "articles": [
+    {
+      "id": "first-timer-glossary",
+      "title": "First-Timer Glossary: Flower, Preroll, Cart, Rosin, RSO",
+      "dek": "A plain-language map of the shelf so a first San Jose counter visit is less overwhelming.",
+      "body": [
+        "A first visit to a licensed San Jose cannabis retailer can feel like landing in a new dialect. Menus mix chemistry, slang, and brand names. This glossary covers five formats shoppers actually meet at the counter, without turning the trip into a chemistry seminar.",
+        "Flower is dried cannabis buds sold by weight, typically in eighths (about 3.5 grams) or other listed amounts. Labels show THC and CBD percentages by weight for the batch. Flower is smoked or vaporized in a dry-herb device. It is the baseline format many people compare everything else against. Smell, moisture, and grind affect the experience as much as the percentage on the jar.",
+        "A preroll is flower (sometimes mixed with concentrate) rolled into a ready-to-smoke cigarette-style product. Convenience is the pitch. Quality varies: some prerolls use the same flower you would buy loose; others use trim. Infused prerolls include concentrate and hit harder, read the milligrams if listed and start slow.",
+        "A cart (cartridge) is usually a distillate or other extract in a sealed unit that attaches to a battery. “Live resin” or “rosin” carts claim different extraction styles; prices track those claims. Counterfeit carts outside licensed shops have been a national safety story, buy only sealed, labeled hardware from SJPD-registered retailers. Batteries matter: use the hardware the product was designed for, and do not charge unattended on a couch cushion.",
+        "Rosin is a concentrate made by pressing cannabis with heat and pressure, typically without hydrocarbon solvents. “Live rosin” starts from fresh-frozen material. Rosin is often dabbed or used in devices designed for concentrates; potency is high compared with flower. A rice-grain-sized amount can be plenty for a new concentrate consumer.",
+        "RSO (Rick Simpson Oil style preparations and similarly labeled full-extract products) appears in some medical-leaning conversations as a highly concentrated oil, often in syringes. Potency and intended use vary. This is not a DIY instruction article, ask a budtender how a specific labeled product is meant to be measured, and talk with a clinician if you are using cannabis alongside medications. Do not invent homemade solvent extracts; volatile solvents are dangerous and outside consumer retail norms.",
+        "Other words you will hear: terpenes (aromatic compounds that shape smell and may influence effect), indica/sativa (folk labels that are imperfect predictors in modern hybrid markets), and mg THC on edibles (milligrams of delta-9 THC per package and per serving, California adult-use packages are capped by regulation).",
+        "First-timer habits that beat jargon: tell the budtender your experience level; ask for lower-THC flower or a 2.5–5 mg edible serving if you are new; buy less than you think you need; keep the receipt; and check the retailer on SJPD’s registered list. Formats are tools. Start with the tool you can measure.",
+        "Adults who already prefer licensed San Jose retailers can treat the guidance above as maintenance, not conversion: verify the shop, read the label, budget for tax, and leave gray-market shortcuts alone.",
+        "When in doubt, reopen SJPD’s registered cannabis businesses page and the Department of Cannabis Control’s consumer “what’s legal” guide."
+      ],
+      "author": "Milo Reyes",
+      "beat": "Aroma, labels & products",
+      "type": "Local guide",
+      "topic_date": "2026-08-01",
+      "published": "2026-08-01",
+      "updated": "2026-09-23",
+      "photo": "article-21",
+      "sources": [
+        [
+          "cannabis.ca.gov",
+          "https://www.cannabis.ca.gov/consumers/whats-legal/"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses"
+        ],
+        [
+          "mercurynews.com",
+          "https://www.mercurynews.com/2026/04/16/prop-64-at-10-why-the-illicit-cannabis-market-still-dominates/"
+        ],
+        [
+          "cdph.ca.gov",
+          "https://www.cdph.ca.gov/Programs/CCDPHP/sapb/Pages/Cannabis.aspx"
+        ]
+      ],
+      "import_number": 21,
+      "source_file": "21-first-timer-glossary.md"
+    },
+    {
+      "id": "how-to-read-ca-cannabis-label",
+      "title": "How to Read a California Cannabis Label (THC, Terpenes, Batch)",
+      "dek": "The sticker is the product’s résumé, THC, CBD, batch ID, and warnings beat the strain nickname on the shelf talker.",
+      "body": [
+        "California’s legal cannabis label is denser than a soda bottle and more useful than a strain nickname. Department of Cannabis Control labeling rules require licensed goods to carry identity, potency, and tracking information so consumers can see what they bought and regulators can follow the batch.",
+        "Start with the product identity: name, type (flower, edible, vape, topical), net weight or volume, and the manufacturer or distributor information the package lists. Adult-use packages carry an adult-use designation; medicinal packages carry medicinal designation. UID or batch identifiers link the item to California’s track-and-trace system, keep that string if you ever need to report a problem.",
+        "Potency is usually listed as THC and CBD percentages for flower and concentrates, or as milligrams of THC (and CBD, if claimed) per serving and per package for edibles. California edible rules limit how much THC can appear in a single package and require clear serving sizes. If a gummy bag says 100 mg total with 10 mg servings, that is ten servings, not one casual snack. First-timers should treat milligrams seriously; delayed onset causes many overconsumption stories.",
+        "Terpene listings, when present, are optional marketing-adjacent chemistry: myrcene, limonene, caryophyllene, and others describe aroma more reliably than they guarantee a mood. Use them as a nose guide, not a medical claim. Ignore informal medical promises on a sticker; licensed packaging must follow warning and claim rules.",
+        "Mandatory warnings matter. California packages carry health warnings about impairment, delayed edible effects, keeping products away from children, and other required statements. The universal symbol for cannabis goods is a quick visual cue that the item is regulated cannabis, not a vitamin gummy.",
+        "What the label cannot do: tell you how you personally will feel after a stressful workday, guarantee sleep, or erase apartment no-smoking clauses. What it can do: help you compare strength, avoid accidental double dosing, and identify a batch during a recall.",
+        "San Jose shopping tip: photograph the label of products you like. In a scarce storefront market, the same brand may appear at multiple registered retailers; matching batch dates and packaging helps you compare freshness. If a social-media “menu” shows product without California labeling cues, walk away.",
+        "Reading the label is the adult version of smelling a jar through glass. The nickname gets you to the shelf. The sticker decides whether the purchase matches your plan.",
+        "Adults who already prefer licensed San Jose retailers can treat the guidance above as maintenance, not conversion: verify the shop, read the label, budget for tax, and leave gray-market shortcuts alone.",
+        "When in doubt, reopen SJPD’s registered cannabis businesses page and the Department of Cannabis Control’s consumer “what’s legal” guide."
+      ],
+      "author": "Milo Reyes",
+      "beat": "Aroma, labels & products",
+      "type": "Local guide",
+      "topic_date": "2026-08-03",
+      "published": "2026-08-03",
+      "updated": "2026-09-23",
+      "photo": "article-22",
+      "sources": [
+        [
+          "cannabis.ca.gov",
+          "https://www.cannabis.ca.gov/consumers/whats-legal/"
+        ],
+        [
+          "cannabis.ca.gov",
+          "https://www.cannabis.ca.gov/resources/file-a-complaint/"
+        ],
+        [
+          "govt.westlaw.com",
+          "https://govt.westlaw.com/calregs/Browse/Home/California/CaliforniaCodeofRegulations?guid=ICD121243543B11ECAE2D000D3A7C4BC3"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/be-confident-buy-legal"
+        ]
+      ],
+      "import_number": 22,
+      "source_file": "22-how-to-read-ca-cannabis-label.md"
+    },
+    {
+      "id": "track-and-trace-lab-testing",
+      "title": "Track-and-Trace and Lab Testing: Why the Sticker Matters",
+      "dek": "METRC-era tracking and mandatory testing are the quiet infrastructure behind every legal San Jose jar.",
+      "body": [
+        "The least glamorous part of a cannabis purchase is the most important: the product’s path through California’s track-and-trace system and required laboratory testing. That infrastructure is why an SJPD-registered retailer’s shelf differs from an unmarked bag.",
+        "California’s Department of Cannabis Control requires licensed cannabis goods to be tested by licensed laboratories for category-specific standards before retail sale. Testing panels generally address potency and contaminants such as residual solvents (for some extracts), pesticides, microbials, mycotoxins, and heavy metals within the regulatory framework. Failing batches are not supposed to reach consumers as compliant retail goods. When problems are discovered later, recall pathways depend on being able to identify the batch, hence the label identifiers shoppers should not peel off and trash immediately.",
+        "Track-and-trace systems assign unique identifiers so plant material and derived products can be followed from cultivation through manufacturing and distribution to retail. Consumers do not need a METRC login. They need the practical outcome: a package that can be tied to a licensed chain if something goes wrong. SJPD’s buy-legal messaging emphasizes that registered businesses sell products subject to state testing and labeling rules, accountability that informal sellers do not provide.",
+        "What testing is not: a guarantee that you will enjoy the product, a certification of organic farming in the grocery sense, or a federal FDA drug approval for adult-use flower. Lab results are regulatory compliance snapshots for listed analytes within stated methods and detection limits. They reduce risk; they do not create risk-free cannabis.",
+        "Why San Jose shoppers should care: scarce storefronts already push some people toward delivery apps and social-media sellers. Those channels advertise price. They rarely advertise ISO-style lab transparency. A cheaper illicit eighth can skip pesticide screening entirely. Mercury News reporting on California’s illicit market dominance at Prop. 64’s tenth year underscores the gap between legal shelf economics and untested product.",
+        "Practical habits: buy from SJPD-registered retailers; keep labels until you finish the product; report suspected contamination to the retailer and, if needed, DCC’s complaint channels; and treat “my cousin’s outdoor” as a hospitality choice, not a regulated purchase.",
+        "The sticker is not bureaucracy for its own sake. It is how a legal market remembers where a product came from when a consumer, or a lab, has a problem.",
+        "Adults who already prefer licensed San Jose retailers can treat the guidance above as maintenance, not conversion: verify the shop, read the label, budget for tax, and leave gray-market shortcuts alone.",
+        "When in doubt, reopen SJPD’s registered cannabis businesses page and the Department of Cannabis Control’s consumer “what’s legal” guide."
+      ],
+      "author": "Milo Reyes",
+      "beat": "Aroma, labels & products",
+      "type": "Local guide",
+      "topic_date": "2026-08-05",
+      "published": "2026-08-05",
+      "updated": "2026-09-23",
+      "photo": "article-23",
+      "sources": [
+        [
+          "cannabis.ca.gov",
+          "https://www.cannabis.ca.gov/consumers/whats-legal/"
+        ],
+        [
+          "cannabis.ca.gov",
+          "https://www.cannabis.ca.gov/resources/file-a-complaint/"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/be-confident-buy-legal"
+        ],
+        [
+          "mercurynews.com",
+          "https://www.mercurynews.com/2026/04/16/prop-64-at-10-why-the-illicit-cannabis-market-still-dominates/"
+        ]
+      ],
+      "import_number": 23,
+      "source_file": "23-track-and-trace-lab-testing.md"
+    },
+    {
+      "id": "pesticides-mold-what-testing-catches",
+      "title": "Pesticides, Mold, and What Cannabis Testing Is Supposed to Catch",
+      "dek": "Lab panels are a safety net, not a flavor guarantee, and illicit product skips the net entirely.",
+      "body": [
+        "When San Jose shoppers pay legal-market prices, part of the premium is invisible: laboratory screening meant to catch contaminants before product hits a registered counter. Understanding what testing is designed to catch, and what it cannot promise, helps explain why untested bargains are a poor trade.",
+        "California requires licensed cannabis goods to pass category-appropriate tests at licensed labs before retail sale. Contaminant categories described in state regulatory materials include pesticides, residual solvents for certain extracts, microbial impurities, mycotoxins, and heavy metals, alongside potency analysis for cannabinoid content. Exact analyte lists and action levels live in California Code of Regulations and DCC guidance; consumers do not need to memorize chemical tables, but they should know the direction of the policy: keep unsafe lots off shelves.",
+        "Mold and moisture problems show up in microbial and mycotoxin contexts. Flower that was poorly dried or stored can develop issues that legal testing is designed to flag. Illicit product can look fine and still carry mold risk, eyesight is not a lab. Pesticide residue is similarly invisible. Agricultural chemicals that may be inappropriate for inhaled products are a core reason regulated markets require screening.",
+        "What testing does not catch: every possible adulterant imaginable, future storage abuse after you take product home, or counterfeit packaging that never entered the legal chain. A legal label describes a batch that passed required panels at a point in time. Leaving a cart in a hot car can create new problems the lab never saw. Buying a lookalike cart from a social-media seller can skip testing entirely.",
+        "San Jose’s buy-legal messaging from SJPD ties registration to tested, labeled product and complaint pathways. That is consumer protection language, not marketing fluff. If a product smells harshly chemical, looks fuzzy, or makes you unexpectedly ill, stop using it, keep the package, contact the retailer, and consider DCC’s complaint process.",
+        "Home storage extends the safety chain: cool, dry, dark, child-resistant, and sealed. Testing cannot save product you store badly. Budtenders can discuss fresher harvest dates; they cannot reverse illicit supply chains.",
+        "The practical takeaway is sober rather than scary. Legal testing reduces specific, documented risks. It is one of the clearest differences between an SJPD-registered retailer and an informal bag. If price is the only scoreboard, untested product will often win. If lungs and accountability matter, the lab sticker is part of the product.",
+        "Adults who already prefer licensed San Jose retailers can treat the guidance above as maintenance, not conversion: verify the shop, read the label, budget for tax, and leave gray-market shortcuts alone.",
+        "When in doubt, reopen SJPD’s registered cannabis businesses page and the Department of Cannabis Control’s consumer “what’s legal” guide."
+      ],
+      "author": "Milo Reyes",
+      "beat": "Aroma, labels & products",
+      "type": "Local guide",
+      "topic_date": "2026-08-06",
+      "published": "2026-08-06",
+      "updated": "2026-09-23",
+      "photo": "article-24",
+      "sources": [
+        [
+          "cannabis.ca.gov",
+          "https://www.cannabis.ca.gov/consumers/whats-legal/"
+        ],
+        [
+          "cdph.ca.gov",
+          "https://www.cdph.ca.gov/Programs/CCDPHP/sapb/Pages/Cannabis.aspx"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/be-confident-buy-legal"
+        ],
+        [
+          "cannabis.ca.gov",
+          "https://www.cannabis.ca.gov/resources/file-a-complaint/"
+        ]
+      ],
+      "import_number": 24,
+      "source_file": "24-pesticides-mold-what-testing-catches.md"
+    },
+    {
+      "id": "seniors-shopping-cannabis-san-jose",
+      "title": "Seniors Shopping Cannabis in San Jose: Pacing, Edibles, Questions",
+      "dek": "Start low, go slow, read milligrams, and bring a clinician into the conversation when medications are involved.",
+      "body": [
+        "San Jose’s senior population includes longtime medical patients, curious newcomers, and adults managing sleep, appetite, or discomfort who want clear information without youth-culture marketing. Licensed retail can serve that audience, if pacing and labeling lead the visit.",
+        "Start with registration and ID. Adult-use purchases require age 21 and older; medicinal purchases with a physician’s recommendation can begin at 18 under state rules, which matters more for younger caregivers than for seniors themselves. The retailer should appear on SJPD’s registered list. Bring a clear government ID and, if shopping medicinal, current recommendation paperwork.",
+        "Edibles deserve special respect. California labels list THC in milligrams per serving and per package. Delayed onset, often one to two hours or more, causes many first-timer overconsumption stories. A 2.5 mg or 5 mg serving is a wiser first experiment than a 50 mg chocolate bar. “Start low, go slow” is cliché because it is true. Flower and vapor hit faster; that can be easier to titrate for some people and harsher on lungs for others. Discuss lung and heart concerns with a clinician, not only a budtender.",
+        "Medications matter. Cannabis can interact with prescriptions. Budtenders can explain product formats; they are not your pharmacist or physician. Bring a medication list to a clinician before mixing THC with sedatives, blood thinners, or other drugs. This paper will not invent interaction charts.",
+        "Practical senior-friendly shopping habits:\n1. Visit at mid-morning on weekdays when stores are quieter. 2. Ask staff to explain label milligrams out loud. 3. Prefer child-resistant storage even in empty-nest homes, grandkids visit. 4. Budget for San Jose’s tax stack; legal prices surprise first-timers. 5. Arrange a ride if you plan to sample; do not drive impaired.",
+        "Mobility and sensory needs are legitimate. Ask about seating, quieter corners, or larger-print menus if available. Accessibility varies by location in San Jose’s industrial-corridor retail map.",
+        "Seniors also face stigma in both directions, dismissed as too old for cannabis or pressured by wellness hype. Neutral journalism’s job is neither. Legal retail offers tested product and labels. Your job is pacing, medical consultation when needed, and private consumption that respects leases and roommates.",
+        "A calm first purchase is a small amount of a clearly labeled product from a registered shop, not a bulk deal inspired by a coupon board. Curiosity is allowed. Rushing is optional.",
+        "Adults who already prefer licensed San Jose retailers can treat the guidance above as maintenance, not conversion: verify the shop, read the label, budget for tax, and leave gray-market shortcuts alone.",
+        "When in doubt, reopen SJPD’s registered cannabis businesses page and the Department of Cannabis Control’s consumer “what’s legal” guide."
+      ],
+      "author": "Sienna Hart",
+      "beat": "Food, drink & consumer health",
+      "type": "Local guide",
+      "topic_date": "2026-08-08",
+      "published": "2026-08-08",
+      "updated": "2026-09-23",
+      "photo": "article-28",
+      "sources": [
+        [
+          "cannabis.ca.gov",
+          "https://www.cannabis.ca.gov/consumers/whats-legal/"
+        ],
+        [
+          "cdph.ca.gov",
+          "https://www.cdph.ca.gov/Programs/CCDPHP/sapb/Pages/Cannabis.aspx"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses"
+        ],
+        [
+          "cdc.gov",
+          "https://www.cdc.gov/cannabis/about/index.html"
+        ]
+      ],
+      "import_number": 28,
+      "source_file": "28-seniors-shopping-cannabis-san-jose.md"
+    },
+    {
+      "id": "edibles-onset-dosing-first-timers",
+      "title": "Edibles Onset and Dosing for Bay Area First-Timers",
+      "dek": "Delayed effects, milligram labels, and patience beat folklore. San Jose’s licensed shelves reward adults who start low and wait.",
+      "body": [
+        "Edibles confuse first-timers for a simple reason: they do not behave like smoked flower. Public-health guidance from the Centers for Disease Control and Prevention notes that cannabis-infused foods and drinks can take from 30 minutes to 2 hours to produce intoxicating effects, that those effects can last longer than expected, and that delayed onset is a common pathway to overconsumption. British Columbia’s consumer fact sheet, aligned with widely used harm-reduction messaging, adds that full effects may take up to about 4 hours and that residual effects can linger into the next day. New Jersey’s Cannabis Regulatory Commission summarizes the consumer rule in four words: start low, go slow.",
+        "For Bay Area adults shopping licensed San Jose counters, that caution becomes label literacy. California adult-use packages list milligrams of THC per serving and per package. A common beginner approach in public education materials is starting around 2.5 milligrams of THC from a clearly labeled product, then waiting before redosing. Ten-milligram pieces are widely sold; that does not make 10 milligrams an automatic starter dose for someone new, returning after a long break, or sensitive to oral THC. Choosing a lower-dose SKU, splitting a scored piece when packaging allows, or buying a multipack with smaller servings is usually wiser than finishing a friendly-looking piece because the branding felt gentle.",
+        "Onset timing is not a shared stopwatch. Empty versus full stomach, body weight, sex, medications, alcohol, and individual metabolism all matter. CDC materials emphasize that combining cannabis with alcohol or other drugs can increase risk. The practical shopper version is dull and useful: clear driving obligations, keep water nearby, and do not stack a second edible because the first “did nothing” at the 40-minute mark. Dose stacking, taking more before the first serving peaks, is still the classic edible mistake.",
+        "Licensed San Jose retail helps in ways informal sellers do not. Tested products carry batch information and stated potencies under California rules. ID checks keep adult-use sales to customers 21 and older. Receipts and child-resistant packaging make home storage clearer. None of that turns a budtender into a clinician. Ask which products are traditional versus marketed as faster-acting, what the milligrams per piece are, and how the store suggests beginners read the label. Then set your personal dose cap before you leave the lot.",
+        "Fast-acting or nano-emulsified formulas, often sold as beverages or specially formulated gummies, may begin sooner for some people. They still deserve the same redose discipline. Keep cannabis edibles and beverages away from children, pets, and guests who did not consent. Store them in original packaging when possible so nobody mistakes them for ordinary candy or soda. San Jose’s scarce storefront map means many adults travel across town for a legal purchase, a good moment to buy less than a sale encourages. Percentage-off weekends change price, not pharmacokinetics.",
+        "If you live with roommates, label your shelf. If you are hosting, tell guests what is infused. If someone becomes severely confused, unresponsive, or short of breath after an edible, seek urgent medical help and say what was consumed. Public consumption rules still apply after checkout: eating a gummy on a downtown sidewalk is not a café exception. Plan private property with permission, or go home. Rideshare beats impaired driving. First-timer success looks ordinary: one low dose, one long wait, one notes-app entry about what worked. In San Jose’s limited storefront market, preparation beats impulse: verify the shop on SJPD’s registered cannabis businesses list, bring ID, read the package yourself after any recommendation, and keep consumption on private property with permission. Adult-use sales require customers 21 and older. Tax totals at checkout still apply. None of those retail realities replace clinician advice when health questions are personal. Quiet morning visits can leave more time for label reading than Saturday afternoon rushes after neighborhood events. Keep a simple personal log of milligrams, format, and how you felt the next day; pattern recognition beats lore. Share products only with other adults who consented, and store anything that looks like candy or soda away from kids and pets. If a sale tempts you to stock up, remember that discounts change cost, not onset time, impairment risk, or your calendar."
+      ],
+      "author": "Sienna Hart",
+      "beat": "Food, drink & consumer health",
+      "type": "Local guide",
+      "topic_date": "2026-08-10",
+      "published": "2026-08-10",
+      "updated": "2026-09-23",
+      "photo": "article-31",
+      "sources": [
+        [
+          "cdc.gov",
+          "https://www.cdc.gov/cannabis/health-effects/poisoning.html"
+        ],
+        [
+          "cdc.gov",
+          "https://www.cdc.gov/cannabis/faq/index.html"
+        ],
+        [
+          "www2.gov.bc.ca",
+          "https://www2.gov.bc.ca/assets/gov/public-safety-and-emergency-services/public-safety/csu/cannabis-edibles-safe-use-fact-sheet.pdf"
+        ],
+        [
+          "nj.gov",
+          "https://www.nj.gov/cannabis/adult-personal/safe-responsible-consumption/"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses"
+        ],
+        [
+          "library.municode.com",
+          "https://library.municode.com/ca/san_jose/codes/code_of_ordinances?nodeId=TIT6BULIRE_CH6.88MENDICA"
+        ]
+      ],
+      "import_number": 31,
+      "source_file": "31-edibles-onset-dosing-first-timers.md"
+    },
+    {
+      "id": "beverages-nano-emulsions-hits-different",
+      "title": "Cannabis Beverages and Nano-Emulsions: Why a Drink Can Hit Differently",
+      "dek": "Emulsified drinks promise faster onset than classic baked edibles. Pharmacokinetic studies support faster absorption for some nanoformulations, without turning cans into soft drinks.",
+      "body": [
+        "Walk the beverage cooler in a licensed San Jose dispensary and you will see a category built for adults who want a measured serving without smoke. Cannabis sodas, seltzers, tonics, and teas advertise social convenience and, increasingly, “fast-acting” or nano-emulsified formulas. Shoppers hear that a drink “hits different.” The responsible local question is what that phrase can mean, and what it cannot promise.",
+        "THC and CBD are lipophilic: they dissolve in fats and oils more readily than in water. Classic edibles often rely on digestion and liver metabolism, including conversion of THC to 11-hydroxy-THC, which helps explain delayed and sometimes intense oral effects. Nano-emulsion and related self-emulsifying approaches disperse cannabinoids into very small droplets so they behave more like water-compatible ingredients. Peer-reviewed formulation research, including nanoemulsion studies of CBD and cannabis extracts, describes improved solubility and, in animal work and early human pharmacokinetic comparisons, shorter time-to-peak and higher relative bioavailability versus some oil-based products.",
+        "A 2025 human crossover study in the Journal of Cannabis Research compared a self-nanoemulsifying THC/CBD powder with commercial oil drops and reported roughly two- to three-fold higher relative bioavailability for tested cannabinoids, with shorter times to peak for metabolites such as 11-hydroxy-THC. That is evidence that formulation can change absorption curves. It is not a guarantee that every San Jose shelf drink matches that specific powder, nor that every “15-minute onset” claim is independently verified for every SKU. Onset still varies with dose, food in the stomach, alcohol, and the person drinking it.",
+        "For South Bay adults, the shopping checklist stays practical. Read milligrams per can or bottle and servings per container. Ask whether a beverage is traditional or emulsified. Decide your max milligrams before you crack anything open. Wait before a second serving. Keep packaging child-resistant and out of shared refrigerators where a roommate might grab the wrong can. California adult-use sales require valid ID and age 21 or older at licensed retailers; delivery adds address and verification steps when vans are involved.",
+        "“Hits different” also has a social meaning. A labeled beverage can feel closer to ordinary hosting than unmarked brownies. That convenience raises accidental-use risk if storage is sloppy. It also tempts public-consumption mistakes: sipping an infused drink on a plaza bench remains public consumption under San Jose rules that generally prohibit public use except in limited circumstances. Buy near downtown if you like; consume on private property with permission.",
+        "Lung-conscious shoppers sometimes prefer beverages on wildfire-smoke days or when neighbors complain about odor. That trade makes sense as a route choice. It does not erase intoxication, driving impairment, or interactions with other substances. CDC materials still warn that edible and drinkable cannabis can take longer than expected and contribute to overconsumption when people redose early, even when marketing emphasizes speed. Budtenders can explain which beverage brands are stocked and how labels present onset language. They cannot personalize medical advice. If you take prescription medications, ask a clinician about interactions. If you are new, treat a low-milligram THC beverage serving as a first experiment rather than finishing a high-milligram can because it tasted like grapefruit soda. In San Jose’s limited storefront market, preparation beats impulse: verify the shop on SJPD’s registered cannabis businesses list, bring ID, read the package yourself after any recommendation, and keep consumption on private property with permission. Adult-use sales require customers 21 and older. Tax totals at checkout still apply. None of those retail realities replace clinician advice when health questions are personal. Quiet morning visits can leave more time for label reading than Saturday afternoon rushes after neighborhood events. Keep a simple personal log of milligrams, format, and how you felt the next day; pattern recognition beats lore. Share products only with other adults who consented, and store anything that looks like candy or soda away from kids and pets. If a sale tempts you to stock up, remember that discounts change cost, not onset time, impairment risk, or your calendar. South Bay adults who already shop licensed rooms know the pattern: lawful address, clear label, private use, rideshare when needed."
+      ],
+      "author": "Sienna Hart",
+      "beat": "Food, drink & consumer health",
+      "type": "Local guide",
+      "topic_date": "2026-08-12",
+      "published": "2026-08-12",
+      "updated": "2026-09-23",
+      "photo": "article-32",
+      "sources": [
+        [
+          "link.springer.com",
+          "https://link.springer.com/article/10.1186/s42238-025-00294-8"
+        ],
+        [
+          "pmc.ncbi.nlm.nih.gov",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC12166629/"
+        ],
+        [
+          "pmc.ncbi.nlm.nih.gov",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC8489317/"
+        ],
+        [
+          "cdc.gov",
+          "https://www.cdc.gov/cannabis/health-effects/poisoning.html"
+        ],
+        [
+          "library.municode.com",
+          "https://library.municode.com/ca/san_jose/codes/code_of_ordinances?nodeId=TIT6BULIRE_CH6.88MENDICA"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses"
+        ]
+      ],
+      "import_number": 32,
+      "source_file": "32-beverages-nano-emulsions-hits-different.md"
+    },
+    {
+      "id": "high-cbd-balanced-ratios-anxious-shoppers",
+      "title": "High-CBD and Balanced Ratios for Anxious Shoppers",
+      "dek": "Ratio products are a shopping language, not a diagnosis. Evidence on CBD and anxiety is promising in places and limited overall, hedge the hype at the counter.",
+      "body": [
+        "Anxious adults ask some of the most careful questions at San Jose cannabis counters: Will CBD take the edge off? Is a 1:1 safer than a high-THC cart? Can a balanced gummy replace a panic spiral? Those are human questions. They are not ones a newspaper, or a budtender, should answer as a prescription.",
+        "What the evidence currently supports is narrower. Reviews and evidence summaries through 2025 describe CBD as more often associated with short-term anxiety symptom improvement than THC-dominant products, while noting low-to-moderate certainty, heterogeneous designs, and dose questions retail shelves cannot settle. A quasi-experimental flower study in people with anxiety symptoms found CBD-dominant flower associated with larger anxiety reductions over weeks than THC-dominant flower in that naturalistic design, useful context, not a treatment protocol. Controlled research has also found that equivalent THC:CBD cannabis can produce less state anxiety than THC-dominant cannabis in some laboratory conditions, without proving that CBD reliably cancels THC for everyone, especially people with higher baseline anxiety.",
+        "Systematic reviews of cannabinoids for anxiety-related conditions repeatedly warn that samples are small, products differ, isolate CBD, enriched flower, or THC mixtures, and long-lasting cures are not established. THC can worsen anxiety for some people, particularly at higher doses. CBD is not intoxicating in the same way as THC, but commercial products still vary, and hemp-aisle purchases outside licensed cannabis retail follow a different regulatory story than California dispensary SKUs with state testing marks.",
+        "For San Jose shoppers, ratio literacy is the practical skill. Labels may show CBD:THC as 1:1, 2:1, 10:1, or CBD-dominant with only trace THC. “Balanced” usually means roughly equal milligrams, not guaranteed emotional balance. Ask for milligrams of each cannabinoid per serving, not only a vibe word on the jar. If you are THC-sensitive, say so. If a prior high-THC edible went badly, do not recreate it under a new logo. Consider non-inhaled formats if smoke or vapor itself spikes your nerves, but remember oral onset delay still applies.",
+        "Licensed retailers on SJPD’s registered list sell tested products under California rules; they are not clinics. Budtenders can compare SKUs, explain store policies, and point to lower-THC options. They should not diagnose generalized anxiety disorder, PTSD, or panic disorder. Bring clinical questions to a licensed clinician, especially if you already take SSRIs, benzodiazepines, or other medications with interaction potential.",
+        "Shopping tactics that lower pressure help anxious buyers as much as chemistry talk. Visit during quieter morning hours when lines are shorter. Bring a short written note of what you want: low THC, some CBD, edible under 5 milligrams. Buy one product, leave, and evaluate at home on a calm night. Avoid stacking caffeine, alcohol, and a new ratio product on the same first trial. Keep expectations honest: a ratio gummy is not a guarantee of calm any more than a terpene label guarantees a mood. San Jose’s capped storefront landscape means you may revisit the same few lawful shops. That continuity can help staff remember preferences without turning any retailer into a featured tour. The wellness aisle exists. The hedges belong beside it. In San Jose’s limited storefront market, preparation beats impulse: verify the shop on SJPD’s registered cannabis businesses list, bring ID, read the package yourself after any recommendation, and keep consumption on private property with permission. Adult-use sales require customers 21 and older. Tax totals at checkout still apply. None of those retail realities replace clinician advice when health questions are personal. Quiet morning visits can leave more time for label reading than Saturday afternoon rushes after neighborhood events. Keep a simple personal log of milligrams, format, and how you felt the next day; pattern recognition beats lore. Share products only with other adults who consented, and store anything that looks like candy or soda away from kids and pets. If a sale tempts you to stock up, remember that discounts change cost, not onset time, impairment risk, or your calendar. South Bay adults who already shop licensed rooms know the pattern: lawful address, clear label, private use, rideshare when needed."
+      ],
+      "author": "Sienna Hart",
+      "beat": "Food, drink & consumer health",
+      "type": "Local guide",
+      "topic_date": "2026-08-14",
+      "published": "2026-08-14",
+      "updated": "2026-09-23",
+      "photo": "article-33",
+      "sources": [
+        [
+          "pubmed.ncbi.nlm.nih.gov",
+          "https://pubmed.ncbi.nlm.nih.gov/38252547/"
+        ],
+        [
+          "cannabisevidence.org",
+          "https://www.cannabisevidence.org/wp-content/uploads/2025/08/Anxiety-and-Mood-Disorders-2025-Update.pdf"
+        ],
+        [
+          "doi.org",
+          "https://doi.org/10.1016/j.cpr.2025.102581"
+        ],
+        [
+          "doi.org",
+          "https://doi.org/10.1177/25785125251378242"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses"
+        ]
+      ],
+      "import_number": 33,
+      "source_file": "33-high-cbd-balanced-ratios-anxious-shoppers.md"
+    },
+    {
+      "id": "sleep-products-labels-vs-evidence",
+      "title": "Sleep Products: What Labels Claim vs. What Evidence Says",
+      "dek": "CBN-forward gummies and “nighttime” ratios pack shelves. Human sleep evidence is thinner than the packaging, and San Jose shoppers deserve the hedges.",
+      "body": [
+        "Nighttime cannabis aisles sell a story: rest, quiet, lights out. Labels lean on CBN, CBD, low-dose THC, melatonin blends, and words like calm or dream. For San Jose adults building an evening routine, the shopping question is not whether sleep matters, it is how much evidence sits behind the jar.",
+        "A 2021 narrative review of cannabinol and sleep concluded there was insufficient published clinical evidence to support sleep-related marketing claims, noting a lack of trials using validated sleep questionnaires or polysomnography at the time. More recent work has begun to fill gaps without erasing caution. A large 2023 randomized trial of non-psychoactive cannabinoid capsules found sleep-disturbance improvements across several formulations, yet adding 15 milligrams of CBN to CBD did not outperform CBD alone on the study’s primary sleep measure. Systematic reviews of cannabis dosing for sleep report mixed results: subjective sleep quality sometimes improves, objective sleep architecture often does not, and formulations vary widely.",
+        "Protocol papers such as the CUPID study outline rigorous plans to test isolated CBN doses in insomnia disorder with polysomnography, useful signals that researchers take the question seriously, and reminders that definitive over-the-counter certainty has not arrived. Reviews also note that cannabinoids may show more subjective sleep promise in people dealing with pain-related disruption than in healthy sleepers chasing optimization.",
+        "What does that mean at a licensed San Jose counter? Read milligrams of THC, CBD, CBN, and any melatonin or herbal adjuncts. THC can be sedating for some adults and anxiety-provoking or next-day foggy for others. CBN content on a label is not proof of a sleep drug. Melatonin is a separate compound with its own evidence and side-effect profile; combining it with cannabinoids does not automatically stack benefits. Ask whether a product is intended as a single serving or a multi-piece package. Start low on nights without early meetings. Do not mix with alcohol as a DIY sleep cocktail.",
+        "Dispensaries are not sleep clinics. Chronic insomnia, apnea symptoms, or sudden changes in sleep deserve clinician attention. Budtenders can explain which nighttime SKUs are in stock and how labels present cannabinoid ratios. They cannot interpret a sleep study. If a product helps you subjectively wind down, treat that as personal n=1 data, not a population claim. If it does not, do not escalate milligrams endlessly; change format or talk to a professional.",
+        "Storage and timing matter. Oral products need onset patience; redosing at 1 a.m. because you are still awake recreates the edible stacking problem. Keep nighttime gummies away from kids who might see candy. On wildfire-smoke weeks, non-inhaled options avoid adding combustion to irritated airways, but intoxication and next-day impairment rules still apply. San Jose public consumption limits do not create a sidewalk exception for “sleepy” beverages either. In San Jose’s limited storefront market, preparation beats impulse: verify the shop on SJPD’s registered cannabis businesses list, bring ID, read the package yourself after any recommendation, and keep consumption on private property with permission. Adult-use sales require customers 21 and older. Tax totals at checkout still apply. None of those retail realities replace clinician advice when health questions are personal. Quiet morning visits can leave more time for label reading than Saturday afternoon rushes after neighborhood events. Keep a simple personal log of milligrams, format, and how you felt the next day; pattern recognition beats lore. Share products only with other adults who consented, and store anything that looks like candy or soda away from kids and pets. If a sale tempts you to stock up, remember that discounts change cost, not onset time, impairment risk, or your calendar. South Bay adults who already shop licensed rooms know the pattern: lawful address, clear label, private use, rideshare when needed."
+      ],
+      "author": "Sienna Hart",
+      "beat": "Food, drink & consumer health",
+      "type": "Local guide",
+      "topic_date": "2026-08-16",
+      "published": "2026-08-16",
+      "updated": "2026-09-23",
+      "photo": "article-34",
+      "sources": [
+        [
+          "pmc.ncbi.nlm.nih.gov",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC8612407/"
+        ],
+        [
+          "doi.org",
+          "https://doi.org/10.1080/27697061.2023.2203221"
+        ],
+        [
+          "doi.org",
+          "https://doi.org/10.1093/sleep/zsac218"
+        ],
+        [
+          "bmjopen.bmj.com",
+          "https://bmjopen.bmj.com/content/13/8/e071148"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses"
+        ]
+      ],
+      "import_number": 34,
+      "source_file": "34-sleep-products-labels-vs-evidence.md"
+    },
+    {
+      "id": "exercise-cannabis-gym-culture-questions",
+      "title": "Exercise and Cannabis: Local Gym-Culture Questions",
+      "dek": "South Bay fitness talk meets legal cannabis at the edges, timing, lung load, and workplace rules, not at a mythical performance shortcut.",
+      "body": [
+        "San Jose gym culture runs on early alarms, lunch-break lifts, and weekend rides into the hills. Legal cannabis sits nearby in adult conversation: a wind-down edible after leg day, a topical on a sore knee, curiosity about whether THC helps or hurts a morning run. The journalism job is to keep those questions practical and hedged.",
+        "Exercise physiology and cannabis research do not deliver a simple “yes, train high” slogan. Inhaled cannabis can affect heart rate, blood pressure, coordination, and judgment in ways that matter for spotting weights, clipping into pedals, or driving to the trailhead. CDC materials note that smoking cannabis can irritate lungs and that edible onset can be delayed and unpredictable, two different problems for athletes who need clear airways or precise timing. Topicals are generally discussed as localized applications rather than intoxicating products, yet labels and ingredients still deserve a read, and they are not proven replacements for physical therapy.",
+        "South Bay adults should separate recovery talk from performance talk. Some people subjectively prefer a low-dose edible on a rest evening; that is a personal routine, not evidence-based ergogenics. Others find THC anxiety or couch-lock wrecks training consistency. CBD-forward products attract shoppers chasing less intoxication, but anxiety and recovery evidence remains limited and mixed. Hydration, sleep, protein, and progressive training still do more measurable work than a new jar.",
+        "Gym and employer policies matter as much as biomechanics. Many fitness workplaces, youth-serving facilities, and safety-sensitive jobs maintain drug-testing or impairment rules that California adult-use legality does not erase. A licensed dispensary receipt is not a free pass for on-the-job impairment. If you coach, drive a team van, or work construction by day and lift by night, read your handbook.",
+        "Practical local habits: do not consume immediately before heavy barbell work or contact sports. Prefer non-inhaled options if you are managing respiratory irritation, especially during Bay Area wildfire-smoke weeks when CDC wildfire guidance already urges cleaner indoor air and avoiding added smoke. Wait out edible onset before deciding you “need more.” Keep cannabis away from shared gym bags where teens might access it. Park legally near your licensed retailer, buy, go home, and separate the workout from the intoxicant by enough time that coordination is not a question mark.",
+        "Watching Earthquakes matches or weekend pickup soccer can coexist with adult cannabis culture without turning stadium parking lots into consumption zones. Public use rules still apply. The mature San Jose market offers flower, edibles, beverages, and topicals for adults who want options; none of those formats turn cannabis into a certified training plan. In San Jose’s limited storefront market, preparation beats impulse: verify the shop on SJPD’s registered cannabis businesses list, bring ID, read the package yourself after any recommendation, and keep consumption on private property with permission. Adult-use sales require customers 21 and older. Tax totals at checkout still apply. None of those retail realities replace clinician advice when health questions are personal. Quiet morning visits can leave more time for label reading than Saturday afternoon rushes after neighborhood events. Keep a simple personal log of milligrams, format, and how you felt the next day; pattern recognition beats lore. Share products only with other adults who consented, and store anything that looks like candy or soda away from kids and pets. If a sale tempts you to stock up, remember that discounts change cost, not onset time, impairment risk, or your calendar. South Bay adults who already shop licensed rooms know the pattern: lawful address, clear label, private use, rideshare when needed."
+      ],
+      "author": "Theo Mercado",
+      "beat": "Research, design & everyday use",
+      "type": "Local guide",
+      "topic_date": "2026-08-17",
+      "published": "2026-08-17",
+      "updated": "2026-09-23",
+      "photo": "article-35",
+      "sources": [
+        [
+          "cdc.gov",
+          "https://www.cdc.gov/cannabis/health-effects/lung-health.html"
+        ],
+        [
+          "cdc.gov",
+          "https://www.cdc.gov/cannabis/health-effects/poisoning.html"
+        ],
+        [
+          "cdc.gov",
+          "https://www.cdc.gov/wildfires/safety/how-to-safely-stay-safe-during-a-wildfire.html"
+        ],
+        [
+          "sjearthquakes.com",
+          "https://www.sjearthquakes.com/"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses"
+        ]
+      ],
+      "import_number": 35,
+      "source_file": "35-exercise-cannabis-gym-culture-questions.md"
+    },
+    {
+      "id": "ucsf-cannabis-heart-rhythm-study-caveats",
+      "title": "UCSF Cannabis Heart-Rhythm Study, Caveats for Wellness Readers",
+      "dek": "A Bay Area trial found fewer premature heartbeats on inhalation days among habitual users. UCSF scientists said not to treat the result as medical advice, and shoppers should echo that hedge.",
+      "body": [
+        "KTVU highlighted in mid-August 2026 a UC San Francisco cannabis study with unexpected heart-rhythm findings, coverage that sent many Bay Area adults looking for the underlying research. UCSF’s news release, dated Aug. 12, 2026, describes a randomized crossover trial in which habitual cannabis users experienced about 9 percent fewer premature heartbeats on days they inhaled cannabis compared with days they abstained. The study was published Aug. 12 in the Journal of the American College of Cardiology.",
+        "For wellness-curious dispensary shoppers in San Jose and the South Bay, the responsible frame is curiosity plus caution. Researchers reported a statistically significant association in a specific group under short-term monitoring. They did not green-light cannabis as heart medicine, and UCSF’s release states plainly that the findings should not influence medical or behavioral decisions around cannabis use.",
+        "The MARY-JANE trial enrolled 108 adults who regularly smoked or vaped cannabis and had no history of clinically diagnosed cardiac arrhythmias. Over 14 days, participants were randomly assigned each day to inhale cannabis or abstain while wearing a continuously recording electrocardiographic monitor, plus activity, sleep, and continuous glucose monitors. Participants served as their own controls.",
+        "Researchers reported that cannabis inhalation was associated with a statistically significant reduction in cardiac ectopy, extra or early heartbeats, driven by fewer premature atrial contractions (PACs). Related reporting describes about a 10 percent reduction in PAC frequency, while premature ventricular contractions (PVCs) did not show a significant change. The journal abstract describes an overall 9 percent reduction in ectopic beats (rate ratio 0.91) and no significant differences for step counts, sleep duration, or glucose levels. Those null findings surprised investigators as well.",
+        "Gregory Marcus, MD, MAS, of UCSF’s Division of Cardiology, said the team was surprised because results contradicted the original hypothesis and stressed that randomized trials matter when data challenge expectations. He emphasized that the study examined acute effects in people who already use cannabis regularly and was not designed to evaluate long-term health consequences. “The overall health effects of inhaled cannabis may still be net negative,” he said in UCSF’s release, while noting that PAC biology might still teach researchers something useful.",
+        "This trial focused on inhaled cannabis among habitual users. It was not an edibles study. Adults who prefer gummies or beverages should not assume the same short-term electrocardiographic pattern applies. San Jose licensed retailers sell multiple form factors under California testing and labeling rules, helpful for potency transparency, not a substitute for clinical guidance. People with diagnosed arrhythmias were outside the enrolled population. Accurate counter language helps: say researchers reported fewer PACs on inhalation days in this trial, not “weed fixes your heart.” Say acute, short-term monitoring, not long-term proof. In San Jose’s limited storefront market, preparation beats impulse: verify the shop on SJPD’s registered cannabis businesses list, bring ID, read the package yourself after any recommendation, and keep consumption on private property with permission. Adult-use sales require customers 21 and older. Tax totals at checkout still apply. None of those retail realities replace clinician advice when health questions are personal. Quiet morning visits can leave more time for label reading than Saturday afternoon rushes after neighborhood events. Keep a simple personal log of milligrams, format, and how you felt the next day; pattern recognition beats lore. Share products only with other adults who consented, and store anything that looks like candy or soda away from kids and pets. If a sale tempts you to stock up, remember that discounts change cost, not onset time, impairment risk, or your calendar. South Bay adults who already shop licensed rooms know the pattern: lawful address, clear label, private use, rideshare when needed."
+      ],
+      "author": "Theo Mercado",
+      "beat": "Research, design & everyday use",
+      "type": "News & features",
+      "topic_date": "2026-08-19",
+      "published": "2026-08-19",
+      "updated": "2026-09-23",
+      "photo": "article-36",
+      "sources": [
+        [
+          "ucsf.edu",
+          "https://www.ucsf.edu/news/2026/08/432341/unexpected-findings-add-new-insight-cannabis-and-heart-health"
+        ],
+        [
+          "jacc.org",
+          "https://www.jacc.org/doi/10.1016/j.jacc.2026.07.014"
+        ],
+        [
+          "ktvu.com",
+          "https://www.ktvu.com/video/fmc-8l1pphej31s7yzlb"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses"
+        ]
+      ],
+      "import_number": 36,
+      "source_file": "36-ucsf-cannabis-heart-rhythm-study-caveats.md"
+    },
+    {
+      "id": "cannabis-vs-cigarettes-culture-counter",
+      "title": "Cannabis vs. Cigarettes: National Numbers, Local Stigma at the Counter",
+      "dek": "Federal survey tallies and a Gallup poll show a cultural pass for cannabis as cigarettes sit near historic lows. Prevalence is not a medical free pass.",
+      "body": [
+        "Two late-summer Bay Area television hits landed on the same cultural shift from different angles. On Aug. 5, 2026, ABC7 News Bay Area pointed to a federal study finding that marijuana use had surpassed cigarette smoking in the United States. On Sept. 3, KTVU reported that marijuana smoking among U.S. adults had reached a record high while cigarette smoking declined. Verified against open-web sources, those headlines hold, with measurement details shoppers should keep straight.",
+        "The Substance Abuse and Mental Health Services Administration’s 2025 National Survey on Drug Use and Health found that 43.8 million people ages 12 or older used marijuana in the past month, compared with 36.1 million current cigarette smokers in the same age span. ABC7’s write-up rounded that contrast to nearly 44 million marijuana users versus about 36 million cigarette smokers and noted that alcohol remained far more common, with nearly 130 million Americans reporting alcohol use. That comparison is past-month marijuana use of any kind, not only smoking, set against past-month cigarette smoking.",
+        "KTVU’s Sept. 3 package tracked Gallup’s annual Consumption Habits poll. Gallup reported that 17 percent of U.S. adults say they smoke marijuana, tying the poll’s record high first reached in 2023 and more than double the 7 percent reading when Gallup began asking in 2013. Cigarette smoking matched its record low at 11 percent. Separately, 15 percent of adults reported consuming marijuana edibles. The July 1–19, 2026, telephone survey of 1,200 adults underpins those percentages.",
+        "Together, the snapshots tell a consistent story even though the metrics differ: a large federal past-month survey ages 12 and up, and an adult poll of smoking and edible habits. Both show cannabis use ascending while cigarette smoking sits near historic lows.",
+        "In a city with a tightly limited set of registered cannabis storefronts, local reporting has placed the SJPD-registered business count near twenty, national normalization shows up as ordinary retail behavior. More adults treating cannabis like a known consumer good means more first-time questions at the counter and less whispered shopping. Workplaces, family gatherings, and federal rules still diverge from California’s adult-use framework, but the baseline has changed.",
+        "For South Bay dispensary regulars, that shift can lower social temperature without erasing health literacy. Cigarette smoking’s long decline followed decades of clear evidence about combustion and disease. Cannabis research is still catching up on products, potencies, and routes that barely existed in earlier eras. A cultural pass is not a medical free pass. Adults can acknowledge prevalence and still ask about labeling, dose, driving impairment, and smoke versus edible onset times. Say past-month marijuana use surpassed past-month cigarette smoking in the 2025 NSDUH estimates, not “everyone switched.” Keep alcohol in view: drinking still leads both categories by a wide margin. In San Jose’s limited storefront market, preparation beats impulse: verify the shop on SJPD’s registered cannabis businesses list, bring ID, read the package yourself after any recommendation, and keep consumption on private property with permission. Adult-use sales require customers 21 and older. Tax totals at checkout still apply. None of those retail realities replace clinician advice when health questions are personal. Quiet morning visits can leave more time for label reading than Saturday afternoon rushes after neighborhood events. Keep a simple personal log of milligrams, format, and how you felt the next day; pattern recognition beats lore. Share products only with other adults who consented, and store anything that looks like candy or soda away from kids and pets. If a sale tempts you to stock up, remember that discounts change cost, not onset time, impairment risk, or your calendar. South Bay adults who already shop licensed rooms know the pattern: lawful address, clear label, private use, rideshare when needed."
+      ],
+      "author": "Theo Mercado",
+      "beat": "Research, design & everyday use",
+      "type": "News & features",
+      "topic_date": "2026-09-20",
+      "published": "2026-09-20",
+      "updated": "2026-09-23",
+      "photo": "article-37",
+      "sources": [
+        [
+          "abc7news.com",
+          "https://abc7news.com/story/marijuana-use-surpasses-cigarette-smoking-us-study-finds/19627655/"
+        ],
+        [
+          "samhsa.gov",
+          "https://www.samhsa.gov/data/data-we-collect/nsduh-national-survey-drug-use-and-health/national-releases/2025"
+        ],
+        [
+          "news.gallup.com",
+          "https://news.gallup.com/poll/713645/marijuana-smoking-record-high-cigarettes-low.aspx"
+        ],
+        [
+          "ktvu.com",
+          "https://www.ktvu.com/video/fmc-safdzk9rwiys82vr"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses"
+        ]
+      ],
+      "import_number": 37,
+      "source_file": "37-cannabis-vs-cigarettes-culture-counter.md"
+    },
+    {
+      "id": "uga-medical-cannabis-sick-days-limits",
+      "title": "UGA Study: Legal Medical Cannabis and Sick Days, Limits Included",
+      "dek": "University of Georgia researchers linked medical cannabis law timing to fewer health-related absences. Recreational laws did not show the same effect, and the paper is not a doctor’s note.",
+      "body": [
+        "KTVU on Aug. 29, 2026, highlighted a University of Georgia study linking legal marijuana access to fewer sick days, a workplace-wellness angle that travels easily through Bay Area feeds. Open-web coverage from FOX 5 Atlanta, GPB, and the study’s journal home fill in the details: medical cannabis decriminalization was associated with about a 6.9 percent reduction in the likelihood of health-related work absences, while recreational cannabis laws showed no statistically significant effect.",
+        "The paper, “Cannabis laws and health-related workplace absenteeism in the United States,” was published June 10, 2026, in the Journal of Workplace Behavioral Health. Authors Eklou R. Amendah, Patryk Babiarz, and Kavitha Rabindran used monthly Current Population Survey data from January 1990 through March 2025, coverage FOX 5 described as spanning responses connected to more than 20 million people in Census Bureau and Bureau of Labor Statistics data. They applied a difference-in-differences approach that leveraged state-level timing of cannabis law changes and the onset of regulated sales.",
+        "According to the journal abstract, medical cannabis decriminalization reduced the probability of reporting health-related work absenteeism by about 6.9 percent when evaluated at the sample mean. Decriminalization showed a larger quantitative effect and greater statistical significance than the commencement of regulated medical sales. Recreational cannabis legalization did not show a significant effect on health-related workplace absenteeism in their models. Effects appeared most notable in occupations and industries where physical strain, and conditions sometimes associated with cannabis treatment, such as chronic pain, are more common.",
+        "This is population-level policy research, not a clinical trial assigning cannabis to individual workers. FOX 5’s reporting notes that the dataset relied on self-reported survey responses, which prevents direct verification that any one person’s absence dropped because they used cannabis for pain. Researchers did not measure the length of each sick-leave spell the way a human-resources audit might, and they did not evaluate how employer zero-tolerance drug policies interact with attendance.",
+        "Corresponding author Patryk Babiarz framed economic stakes in interviews: work absenteeism carries large productivity costs, and he argued medical marijuana access could save hundreds of millions of dollars annually if fewer people miss work for health reasons. That is an economic interpretation, not medical advice. California’s adult-use and medical markets mean many San Jose workers already buy from licensed retailers when rules allow. This UGA paper remains useful locally because it separates medical-law associations from recreational-law associations. A licensed dispensary receipt does not rewrite an employer’s drug-testing rules or fitness-for-duty standards. In San Jose’s limited storefront market, preparation beats impulse: verify the shop on SJPD’s registered cannabis businesses list, bring ID, read the package yourself after any recommendation, and keep consumption on private property with permission. Adult-use sales require customers 21 and older. Tax totals at checkout still apply. None of those retail realities replace clinician advice when health questions are personal. Quiet morning visits can leave more time for label reading than Saturday afternoon rushes after neighborhood events. Keep a simple personal log of milligrams, format, and how you felt the next day; pattern recognition beats lore. Share products only with other adults who consented, and store anything that looks like candy or soda away from kids and pets. If a sale tempts you to stock up, remember that discounts change cost, not onset time, impairment risk, or your calendar. South Bay adults who already shop licensed rooms know the pattern: lawful address, clear label, private use, rideshare when needed."
+      ],
+      "author": "Theo Mercado",
+      "beat": "Research, design & everyday use",
+      "type": "News & features",
+      "topic_date": "2026-09-20",
+      "published": "2026-09-20",
+      "updated": "2026-09-23",
+      "photo": "article-38",
+      "sources": [
+        [
+          "fox5atlanta.com",
+          "https://www.fox5atlanta.com/news/university-georgia-study-links-legal-marijuana-use-fewer-sick-days"
+        ],
+        [
+          "tandfonline.com",
+          "https://www.tandfonline.com/doi/full/10.1080/15555240.2026.2680016"
+        ],
+        [
+          "gpb.org",
+          "https://www.gpb.org/news/2026/08/31/states-legal-medical-marijuana-saw-fewer-people-missing-work-according-uga-study"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses"
+        ]
+      ],
+      "import_number": 38,
+      "source_file": "38-uga-medical-cannabis-sick-days-limits.md"
+    },
+    {
+      "id": "wildfire-smoke-lung-conscious-alternatives",
+      "title": "Air-Quality and Wildfire Smoke Days: Lung-Conscious Alternatives",
+      "dek": "When the hills haze over, adding cannabis smoke is a choice. CDC wildfire and lung guidance points shoppers toward cleaner indoor air and non-inhaled options.",
+      "body": [
+        "Bay Area autumn still carries the muscle memory of orange skies. On wildfire-smoke days, San Jose adults check Air Quality Index apps, seal windows, and debate whether an evening joint is worth the extra lung load. Public-health framing is clearer than cannabis folklore: wildfire smoke already irritates airways, and smoking or vaping adds exposure you can choose to skip.",
+        "CDC wildfire safety guidance emphasizes protecting indoor air, closing windows when outdoor air is hazardous, using filtration when available, and avoiding indoor smoking or other combustion that worsens particle levels. Separately, CDC cannabis materials note that smoking cannabis can damage lung tissue and is associated with cough and respiratory symptoms in research summaries, while edible and drinkable products introduce different risks centered on delayed onset and overconsumption rather than direct smoke inhalation.",
+        "For licensed-dispensary shoppers, the lung-conscious menu is familiar: edibles, beverages, capsules, and topicals. Those formats avoid combustion, not intoxication. Start low on edible milligrams, wait through delayed onset, and do not drive impaired because the air outside looks apocalyptic. Vaping is not a free lung pass; CDC pages on vaping-related lung injury history and cannabis lung health urge caution with inhaled products generally. If you still choose inhalation on a clear-air day, that is an adult decision, just do not pretend smoke plus smoke equals neutral.",
+        "Apartment and HOA realities intensify on smoke weeks. Neighbors notice odor more when everyone is sealed indoors. Non-odorous formats reduce conflict without changing public-consumption law: San Jose still generally prohibits public cannabis use. Stay home, keep products labeled, and check that anyone sharing your air consented.",
+        "Practical checklist for a Spare the Air–feeling afternoon: confirm your retailer on SJPD’s registered list before a quick legal purchase; prefer non-inhaled SKUs; read milligrams; skip alcohol stacking; run a filter if you have one; and postpone the outdoor sesh until the plume moves. Athletes and people with asthma or other respiratory conditions should treat clinician advice as higher priority than budtender small talk. Wildfire season is temporary. Lung tissue remembers longer than a weekend menu. In San Jose’s limited storefront market, preparation beats impulse: verify the shop on SJPD’s registered cannabis businesses list, bring ID, read the package yourself after any recommendation, and keep consumption on private property with permission. Adult-use sales require customers 21 and older. Tax totals at checkout still apply. None of those retail realities replace clinician advice when health questions are personal. Quiet morning visits can leave more time for label reading than Saturday afternoon rushes after neighborhood events. Keep a simple personal log of milligrams, format, and how you felt the next day; pattern recognition beats lore. Share products only with other adults who consented, and store anything that looks like candy or soda away from kids and pets. If a sale tempts you to stock up, remember that discounts change cost, not onset time, impairment risk, or your calendar. South Bay adults who already shop licensed rooms know the pattern: lawful address, clear label, private use, rideshare when needed."
+      ],
+      "author": "Theo Mercado",
+      "beat": "Research, design & everyday use",
+      "type": "Local guide",
+      "topic_date": "2026-08-25",
+      "published": "2026-08-25",
+      "updated": "2026-09-23",
+      "photo": "article-39",
+      "sources": [
+        [
+          "cdc.gov",
+          "https://www.cdc.gov/wildfires/safety/how-to-safely-stay-safe-during-a-wildfire.html"
+        ],
+        [
+          "cdc.gov",
+          "https://www.cdc.gov/cannabis/health-effects/lung-health.html"
+        ],
+        [
+          "cdc.gov",
+          "https://www.cdc.gov/cannabis/health-effects/poisoning.html"
+        ],
+        [
+          "cdn.star.nesdis.noaa.gov",
+          "https://cdn.star.nesdis.noaa.gov/GOES19/ABI/CONUS/GEOCOLOR/"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses"
+        ]
+      ],
+      "import_number": 39,
+      "source_file": "39-wildfire-smoke-lung-conscious-alternatives.md"
+    },
+    {
+      "id": "heat-waves-storage-flower-south-bay",
+      "title": "Heat Waves and Storage: Keeping Flower Fresh in a South Bay Summer",
+      "dek": "Hot cars and sunny windowsills punish terpenes and cannabinoids. Cool, dark, airtight storage is the unglamorous half of a good eighth.",
+      "body": [
+        "South Bay summers bake dashboards, balconies, and garage shelves. Cannabis flower is an agricultural product with chemistry that does not love heat, light, oxygen, and wild humidity swings. Shoppers who spend carefully at licensed counters sometimes undo the jar between the parking lot and the couch.",
+        "Peer-reviewed storage research on cannabis secondary metabolites finds that cooler, darker, more stable conditions better preserve cannabinoid and terpene profiles over time, while heat and light accelerate degradation pathways, including shifts that can increase cannabinol as THC oxidizes. Industrial and forensic storage studies similarly warn that elevated temperature and oxygen exposure change composition. Consumer-facing guidance commonly lands near airtight, opaque containers, roughly mid-50s to low-60s percent relative humidity for short-term flower storage, and avoidance of hot cars, details that vary by source but share a theme: stop cooking your eighth.",
+        "San Jose practicalities are local. Do not leave a paper bag on a black car seat while you run errands downtown. Move product from the retail exit bag into a sealed jar at home. Keep jars out of west-facing windows. If you refrigerate for longer storage, understand condensation risk when cold jars are opened warm; many home growers and patients prefer stable room-cool cabinets over repeated fridge cycling. Freezing can preserve some chemistry but makes trichomes brittle, another reason casual shoppers may prefer simply buying amounts they will use sooner.",
+        "Concentrates, vapes, and edibles have their own heat problems. Cartridges can leak; chocolate can bloom or melt; beverages can sit forgotten in hot trunks. Child-resistant packaging still needs a cool location away from kids who explore cabinets during heat-wave indoor days. Wildfire weeks compound the issue when windows stay shut and indoor temperatures climb, pair lung-conscious product choices with storage discipline.",
+        "At the counter, ask staff which batches arrived recently if freshness matters to your nose. Smell, when stores allow, beats a THC percentage alone. Aroma fades when terpenes volatilize; that is chemistry, not a moral failing of a brand. Buy less more often if your apartment runs hot. Licensed retail receipts do not cool a glove box. The South Bay sun is free; replacing a dried-out eighth is not. In San Jose’s limited storefront market, preparation beats impulse: verify the shop on SJPD’s registered cannabis businesses list, bring ID, read the package yourself after any recommendation, and keep consumption on private property with permission. Adult-use sales require customers 21 and older. Tax totals at checkout still apply. None of those retail realities replace clinician advice when health questions are personal. Quiet morning visits can leave more time for label reading than Saturday afternoon rushes after neighborhood events. Keep a simple personal log of milligrams, format, and how you felt the next day; pattern recognition beats lore. Share products only with other adults who consented, and store anything that looks like candy or soda away from kids and pets. If a sale tempts you to stock up, remember that discounts change cost, not onset time, impairment risk, or your calendar. South Bay adults who already shop licensed rooms know the pattern: lawful address, clear label, private use, rideshare when needed."
+      ],
+      "author": "Theo Mercado",
+      "beat": "Research, design & everyday use",
+      "type": "Local guide",
+      "topic_date": "2026-08-27",
+      "published": "2026-08-27",
+      "updated": "2026-09-23",
+      "photo": "article-40",
+      "sources": [
+        [
+          "frontiersin.org",
+          "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2020.583605/full"
+        ],
+        [
+          "pubs.acs.org",
+          "https://pubs.acs.org/doi/10.1021/acs.iecr.2c02071"
+        ],
+        [
+          "doi.org",
+          "https://doi.org/10.1007/s00216-020-03098-2"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses"
+        ]
+      ],
+      "import_number": 40,
+      "source_file": "40-heat-waves-storage-flower-south-bay.md"
+    },
+    {
+      "id": "fall-terpene-guide-pine-citrus-berry",
+      "title": "Fall Terpene Guide: Pine, Citrus, Berry, Shopping by Nose",
+      "dek": "Seasonal shopping language, woodsy pine, bright citrus, dessert berry, helps budtender chats without pretending THC percent equals flavor.",
+      "body": [
+        "When San Jose shoppers talk about “fall flower,” they often mean a feeling more than a single cultivar name: cooler evenings, woodsy air, citrus that cuts through gray mornings, berry-sweet jars that sound like dessert. Local retail culture and seasonal education posts have leaned into that sensory map, pine, citrus, berry, as shared vocabulary for adults comparing jars when menus look similar across a scarce storefront landscape.",
+        "Terpenes are aromatic compounds found in cannabis and many other plants. Limonene is associated with citrus notes familiar from lemon and orange peels. Pinene can contribute fresh, pine-like aromas also found in rosemary, basil, and conifers. Myrcene often reads as earthy, herbal, or musky. Beta-caryophyllene, also present in black pepper and cloves, can add peppery or woody spice. The consumer point is simple: THC percentage does not equal flavor intensity. A jar testing lower in THC can still smell louder than a higher-THC option if the aromatic profile is richer or fresher.",
+        "Genetic research has also complicated folk categories: widely assumed indica/sativa phenotype stories do not map cleanly onto shared genetics in modern commercial cannabis, which is one reason aroma and lab terpene panels can be more useful shopping tools than legacy labels alone. Still, terpene-effect claims remain preliminary; smelling good is not a medical mechanism you should treat as proven.",
+        "How should a San Jose adult use a pine-citrus-berry guide in a licensed shop? Start with the nose when stores allow jar interaction under their policies, or ask staff which current batches lean woodsy, bright, or dessert-like. Compare two eighths instead of defaulting to the highest THC number. Keep a short phone note about what smelled right. If you are shopping with a friend, split two contrasting eighths rather than buying duplicates. Early hours can help the conversation when lines are shorter.",
+        "Named cultivars and vape flavors on September menus often echo the same map, Haze-leaning citrus spice, Gelato-family berry dessert, gas-and-pine funk, but batch labels remain authoritative. Heat and poor storage mute the very aromas you paid for, so pair this guide with cool, dark jars at home. Fall aroma shopping is not medical advice and does not claim effects. It is consumer journalism about smell, taste, and clearer questions at the counter. In San Jose’s limited storefront market, preparation beats impulse: verify the shop on SJPD’s registered cannabis businesses list, bring ID, read the package yourself after any recommendation, and keep consumption on private property with permission. Adult-use sales require customers 21 and older. Tax totals at checkout still apply. None of those retail realities replace clinician advice when health questions are personal. Quiet morning visits can leave more time for label reading than Saturday afternoon rushes after neighborhood events. Keep a simple personal log of milligrams, format, and how you felt the next day; pattern recognition beats lore. Share products only with other adults who consented, and store anything that looks like candy or soda away from kids and pets. If a sale tempts you to stock up, remember that discounts change cost, not onset time, impairment risk, or your calendar. South Bay adults who already shop licensed rooms know the pattern: lawful address, clear label, private use, rideshare when needed."
+      ],
+      "author": "Milo Reyes",
+      "beat": "Aroma, labels & products",
+      "type": "Local guide",
+      "topic_date": "2026-09-01",
+      "published": "2026-09-01",
+      "updated": "2026-09-23",
+      "photo": "article-41",
+      "sources": [
+        [
+          "pmc.ncbi.nlm.nih.gov",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC8063869/"
+        ],
+        [
+          "spartanmediagroup.net",
+          "https://spartanmediagroup.net/11126/spartan-daily/new-shop-smokes-grand-opening/"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses"
+        ]
+      ],
+      "import_number": 41,
+      "source_file": "41-fall-terpene-guide-pine-citrus-berry.md"
+    },
+    {
+      "id": "indica-sativa-folk-vs-hybrid-reality",
+      "title": "Indica/Sativa Folk Labels vs. Modern Hybrid Reality",
+      "dek": "“Indica sleepy, sativa racy” still shapes menus. Modern genetics and chemistry tell a messier story, read cannabinoids and terpenes, not just the folk tag.",
+      "body": [
+        "Walk into almost any licensed San Jose shop and you will still see indica, sativa, and hybrid headers. The folk story is sticky: indica for couch and sleep, sativa for daytime energy, hybrids for everything in between. Adult shoppers use the shorthand because it is fast. Chemistry and genetics have been trying to slow them down.",
+        "A 2021 study in Scientific Reports found that widely assumed phenotypic associations in Cannabis sativa lack a shared genetic basis across many samples, academic language for a consumer truth retailers already half-know: decades of breeding blurred the old drug-type categories, and two jars with the same folk label can smell and feel different. Cannabinoid content (THC, CBD, and minors) plus terpene patterns describe products more usefully than species folklore, even though terpene-effect science remains incomplete and expectation effects are real.",
+        "What should South Bay shoppers do with that tension? Use indica/sativa as optional starting slang, then ask better questions. What does the label list for THC and CBD? Is a terpene panel available? Does the flower smell pine, citrus, fuel, or dessert? Have you had this batch before, or only the name? If you want less intoxication, look at CBD ratios and milligrams, not the word sativa printed in green. If you want a quiet evening, a high-THC “indica” can still race an anxious brain; dose and set matter.",
+        "Budtenders who respect modern reality will admit hybrids dominate shelves and will translate your goals into formats: flower versus edible onset, cart versus resin, low dose versus heavy. They should not promise medical outcomes based on a leaf icon. Marketing that still leans hard on pure indica/sativa mythology is speaking culture, not a finished scientific taxonomy.",
+        "San Jose’s mature, capped retail market makes menu similarity common; service and education differentiate experiences more than mythical landrace purity claims. Buy smaller amounts while you learn a product. Keep notes. Ignore anyone selling certainty that a folk label will reliably deliver a specific mood. Hybrid reality is not a buzzkill, it is permission to shop with your nose, your label, and your own data. In San Jose’s limited storefront market, preparation beats impulse: verify the shop on SJPD’s registered cannabis businesses list, bring ID, read the package yourself after any recommendation, and keep consumption on private property with permission. Adult-use sales require customers 21 and older. Tax totals at checkout still apply. None of those retail realities replace clinician advice when health questions are personal. Quiet morning visits can leave more time for label reading than Saturday afternoon rushes after neighborhood events. Keep a simple personal log of milligrams, format, and how you felt the next day; pattern recognition beats lore. Share products only with other adults who consented, and store anything that looks like candy or soda away from kids and pets. If a sale tempts you to stock up, remember that discounts change cost, not onset time, impairment risk, or your calendar. South Bay adults who already shop licensed rooms know the pattern: lawful address, clear label, private use, rideshare when needed."
+      ],
+      "author": "Milo Reyes",
+      "beat": "Aroma, labels & products",
+      "type": "Local guide",
+      "topic_date": "2026-08-30",
+      "published": "2026-08-30",
+      "updated": "2026-09-23",
+      "photo": "article-42",
+      "sources": [
+        [
+          "pmc.ncbi.nlm.nih.gov",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC8063869/"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses"
+        ]
+      ],
+      "import_number": 42,
+      "source_file": "42-indica-sativa-folk-vs-hybrid-reality.md"
+    },
+    {
+      "id": "preroll-quality-tells-canoeing-shake",
+      "title": "Pre-Roll Quality Tells: Canoeing, Shake, Infused vs. Classic",
+      "dek": "Machine-rolled convenience meets uneven burns and mystery trim. A few quality tells help San Jose shoppers spend on purpose.",
+      "body": [
+        "Pre-rolls sell convenience: no grinder, no tray, no ritual. In a scarce San Jose storefront market, they also sell speed for adults who want a single session without committing to an eighth. Quality varies. Learning a few tells, canoeing, shake versus flower, infused versus classic, keeps the category honest.",
+        "Canoeing means one side of the joint burns faster, racing up like a canoe tip while the other side lags. Causes include uneven packing, moisture imbalance, windy outdoor lighting, or cheap paper. It wastes cannabis and harshens the draw. Rotating the pre-roll as you smoke, gentle even tokes, and storing sticks so they do not dry into dust can help; none of that fixes a poorly made product. If a brand consistently canoees for you, switch.",
+        "Shake-filled pre-rolls use leftover small bits rather than the same grade of whole flower you might buy in a jar. Shake is not automatically “bad,” but it is different: more stem powder risk, faster dry-out, less visually reassuring trichome coverage. Labels and budtender honesty matter. Ask whether a stick is flower-grade or trim/shake. Price often telegraphs the answer; a suspiciously cheap multipack is rarely secretly top-shelf.",
+        "Infused pre-rolls coat or fill with distillate, hash, kief, or live resin. They hit harder and cost more. Beginners who treat an infused blunt like a classic shorty are the people who suddenly need water and a quiet room. Classic pre-rolls without concentrate are usually the better first conversation. Check total THC statements carefully, infused products can pack surprising potency into a short session.",
+        "Other tells: spongy uneven density, runs of glue taste, filter tips that collapse, or packaging that sat in heat. Buy from licensed shops on SJPD’s list so testing and packaging rules apply. Smell through the tube if the store’s policy and packaging allow. Pass on brittle, hay-dry sticks. Public consumption still is not legalized by a cute filter tip; smoke on private property with permission. Pre-rolls are tools. Quality tells are how adults refuse to confuse convenience with craft. In San Jose’s limited storefront market, preparation beats impulse: verify the shop on SJPD’s registered cannabis businesses list, bring ID, read the package yourself after any recommendation, and keep consumption on private property with permission. Adult-use sales require customers 21 and older. Tax totals at checkout still apply. None of those retail realities replace clinician advice when health questions are personal. Quiet morning visits can leave more time for label reading than Saturday afternoon rushes after neighborhood events. Keep a simple personal log of milligrams, format, and how you felt the next day; pattern recognition beats lore. Share products only with other adults who consented, and store anything that looks like candy or soda away from kids and pets. If a sale tempts you to stock up, remember that discounts change cost, not onset time, impairment risk, or your calendar. South Bay adults who already shop licensed rooms know the pattern: lawful address, clear label, private use, rideshare when needed."
+      ],
+      "author": "Milo Reyes",
+      "beat": "Aroma, labels & products",
+      "type": "Local guide",
+      "topic_date": "2026-09-01",
+      "published": "2026-09-01",
+      "updated": "2026-09-23",
+      "photo": "article-43",
+      "sources": [
+        [
+          "cdc.gov",
+          "https://www.cdc.gov/cannabis/faq/index.html"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses"
+        ]
+      ],
+      "import_number": 43,
+      "source_file": "43-preroll-quality-tells-canoeing-shake.md"
+    },
+    {
+      "id": "vape-hardware-safety-batteries-counterfeits",
+      "title": "Vape Hardware Safety: Batteries, Counterfeits, Legal Carts Only",
+      "dek": "Legal carts and working batteries beat mystery hardware. Counterfeits and abused cells turn a discreet format into a hazard.",
+      "body": [
+        "Vape carts dominate discreet South Bay routines: no lingering flower smell in a condo hallway, easier dosing than a poorly rolled joint, fast onset compared with edibles. Hardware safety is the unglamorous half of that story, batteries, chargers, counterfeit packaging, and the stubborn fact that only licensed retail guarantees California’s testing pathway.",
+        "Buy cartridges and disposables from city-registered, state-licensed retailers. Counterfeit carts sold through informal channels have a long history of questionable oils, pesticides, and vitamin E acetate scandals that public-health agencies documented during prior lung-injury outbreaks. A familiar logo printed on a blister pack is not authentication. Matching packaging to a licensed shop receipt is.",
+        "Battery basics sound like phone care because they are. Use the charger that matches the device. Do not charge unattended on a couch cushion overnight. Replace swollen, dented, or overheating batteries. Keep terminals clean and dry. Pocketing a loose battery with keys and coins is how people invent short circuits. Dispose of damaged lithium cells through proper battery recycling streams, not hallway trash that can spark in a truck.",
+        "Hardware quality tells include secure 510 threads, intact mouthpieces, oil that does not look crystallized into mystery sludge after heat abuse, and devices that do not scream black-market comic-book branding. Ask budtenders which batteries the store stocks for the carts they sell. Keep firmware-free simple pens if you do not want gadget complexity. On wildfire-smoke days, remember that vaping still loads lungs; edibles remain the clearer lung-conscious alternative.",
+        "Legal does not mean risk-free. High-potency distillate carts can overshoot your intended dose in a few pulls. Start with shorter draws. Do not drive impaired. Keep devices away from teens who may confuse them with nicotine disposables. San Jose’s regulated shelves exist partly so adults can avoid the worst hardware lottery. Use that advantage; leave the mystery blister packs in the past. In San Jose’s limited storefront market, preparation beats impulse: verify the shop on SJPD’s registered cannabis businesses list, bring ID, read the package yourself after any recommendation, and keep consumption on private property with permission. Adult-use sales require customers 21 and older. Tax totals at checkout still apply. None of those retail realities replace clinician advice when health questions are personal. Quiet morning visits can leave more time for label reading than Saturday afternoon rushes after neighborhood events. Keep a simple personal log of milligrams, format, and how you felt the next day; pattern recognition beats lore. Share products only with other adults who consented, and store anything that looks like candy or soda away from kids and pets. If a sale tempts you to stock up, remember that discounts change cost, not onset time, impairment risk, or your calendar. South Bay adults who already shop licensed rooms know the pattern: lawful address, clear label, private use, rideshare when needed."
+      ],
+      "author": "Milo Reyes",
+      "beat": "Aroma, labels & products",
+      "type": "Local guide",
+      "topic_date": "2026-09-03",
+      "published": "2026-09-03",
+      "updated": "2026-09-23",
+      "photo": "article-44",
+      "sources": [
+        [
+          "cdc.gov",
+          "https://www.cdc.gov/cannabis/health-effects/lung-health.html"
+        ],
+        [
+          "archive.cdc.gov",
+          "https://archive.cdc.gov/www_cdc_gov/tobacco/basic_information/e-cigarettes/severe-lung-disease/faq/index.html"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses"
+        ]
+      ],
+      "import_number": 44,
+      "source_file": "44-vape-hardware-safety-batteries-counterfeits.md"
+    },
+    {
+      "id": "concentrates-ladder-cure-resin-live-rosin",
+      "title": "Concentrates Ladder: Cure Resin to Live Rosin Without Snobbery",
+      "dek": "From budget distillate to solventless rosin, potency climbs and prices follow. A ladder helps shoppers climb on purpose, not for status.",
+      "body": [
+        "Concentrate menus can intimidate: sauce, sugar, badder, cure resin, live resin, live rosin, diamonds, distillate. San Jose adults do not need snobbery to shop the category. They need a ladder, what changes chemically, what changes experientially, and what changes at checkout.",
+        "Distillate is highly refined THC oil, often near-flavorless until terpenes are added back. It is common in carts and some edibles feedstock. Cure resin and cured-flower extracts start from dried cannabis; live resin starts from fresh-frozen material meant to preserve a louder aromatic profile. Live rosin is typically solventless, made with heat and pressure from ice-water hash or similar inputs, and often priced like a luxury SKU. Those descriptions are industry shorthand, not purity sermons. Batch testing and your own tolerance matter more than Instagram vocabulary.",
+        "Potency is the first safety issue. Concentrates deliver more THC per inhale than most flower. Beginners who jump from a mild preroll to a hot dab risk white-knuckle anxiety. If you are new, ask for lower-temp devices, smaller tools, or stick to flower and low-dose edibles until you understand your response. Hardware, nails, e-rigs, pens, has a learning curve; burned tastes usually mean too much heat, not a moral failure.",
+        "Solventless versus hydrocarbon extraction debates generate forum heat. Licensed California products must meet testing standards regardless of method; that is the consumer floor. Beyond the floor, choose for flavor budget and ritual preference. Live products often smell louder; distillate carts often cost less per session of raw THC. Neither fact makes one adult superior.",
+        "San Jose shopping tips: verify the retailer on SJPD’s list; ask what “live” means on that specific label; check harvest and test dates; store concentrates cool and upright to reduce leaks; keep torches away from kids and curtains; and do not dab in public. Snobbery helps no one. A clear ladder does: start milder than your ego suggests, spend up only when your lungs, wallet, and calendar agree. In San Jose’s limited storefront market, preparation beats impulse: verify the shop on SJPD’s registered cannabis businesses list, bring ID, read the package yourself after any recommendation, and keep consumption on private property with permission. Adult-use sales require customers 21 and older. Tax totals at checkout still apply. None of those retail realities replace clinician advice when health questions are personal. Quiet morning visits can leave more time for label reading than Saturday afternoon rushes after neighborhood events. Keep a simple personal log of milligrams, format, and how you felt the next day; pattern recognition beats lore. Share products only with other adults who consented, and store anything that looks like candy or soda away from kids and pets. If a sale tempts you to stock up, remember that discounts change cost, not onset time, impairment risk, or your calendar. South Bay adults who already shop licensed rooms know the pattern: lawful address, clear label, private use, rideshare when needed."
+      ],
+      "author": "Milo Reyes",
+      "beat": "Aroma, labels & products",
+      "type": "Local guide",
+      "topic_date": "2026-09-05",
+      "published": "2026-09-05",
+      "updated": "2026-09-23",
+      "photo": "article-45",
+      "sources": [
+        [
+          "cdc.gov",
+          "https://www.cdc.gov/cannabis/faq/index.html"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses"
+        ]
+      ],
+      "import_number": 45,
+      "source_file": "45-concentrates-ladder-cure-resin-live-rosin.md"
+    },
+    {
+      "id": "topicals-bath-products-can-cant",
+      "title": "Topicals and Bath Products: What They Can and Can’t Do",
+      "dek": "Balms, lotions, and bath soaks occupy the wellness endcap. Localized application is the usual frame, intoxication and miracle claims are not.",
+      "body": [
+        "Topicals are the cannabis products most likely to be misunderstood in opposite directions. Some adults dismiss them as placebo lotions. Others expect a bath bomb to replace physical therapy. San Jose’s licensed shelves usually sit between those poles: creams, balms, roll-ons, transdermal patches, and bath soaks with labeled cannabinoids and clear “for external use” language.",
+        "What topicals can reasonably be discussed as, in consumer terms, are localized applications. Many products are designed so cannabinoids interact near the skin rather than delivering a classic edible-style high. That is why people sometimes use them while still needing clear heads for work, though employers’ policies and individual responses vary, and transdermal patches can be a different category with more systemic absorption potential. Always read the label. If a product warns it may be intoxicating, believe it.",
+        "What topicals cannot do is diagnose arthritis, heal ligaments on a marketing timetable, or substitute for clinician-guided care. Ingredient lists matter for allergies, scented oils, menthol, capsaicin, and botanical extracts can irritate skin. Patch-test new products. Keep bath products away from kids and pets who might treat them like toys or treats. Slippery tubs plus sedation from any concurrent edible is a household safety problem, not a spa joke.",
+        "Shopping questions for budtenders: Is this intended to be non-intoxicating? How many milligrams per container or per use? Any patch versus cream distinction? Scented or unscented? Return policies if your skin reacts? Bring your own constraints, fragrance sensitivity, pregnancy questions for a clinician rather than a cashier, gym-bag storage in heat.",
+        "San Jose adults often discover topicals during the same visit as edibles and flower. That is fine; just do not stack assumptions. A CBD cream does not make a high-THC gummy safer. A bath soak does not legalize public consumption when you step onto a balcony. Licensed retail gives you tested labels and ingredient transparency informal markets rarely match. Use them for what they are: external wellness-adjacent products with limits written in the fine print. In San Jose’s limited storefront market, preparation beats impulse: verify the shop on SJPD’s registered cannabis businesses list, bring ID, read the package yourself after any recommendation, and keep consumption on private property with permission. Adult-use sales require customers 21 and older. Tax totals at checkout still apply. None of those retail realities replace clinician advice when health questions are personal. Quiet morning visits can leave more time for label reading than Saturday afternoon rushes after neighborhood events. Keep a simple personal log of milligrams, format, and how you felt the next day; pattern recognition beats lore. Share products only with other adults who consented, and store anything that looks like candy or soda away from kids and pets. If a sale tempts you to stock up, remember that discounts change cost, not onset time, impairment risk, or your calendar. South Bay adults who already shop licensed rooms know the pattern: lawful address, clear label, private use, rideshare when needed."
+      ],
+      "author": "Milo Reyes",
+      "beat": "Aroma, labels & products",
+      "type": "Local guide",
+      "topic_date": "2026-09-07",
+      "published": "2026-09-07",
+      "updated": "2026-09-23",
+      "photo": "article-46",
+      "sources": [
+        [
+          "cdc.gov",
+          "https://www.cdc.gov/cannabis/faq/index.html"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses"
+        ]
+      ],
+      "import_number": 46,
+      "source_file": "46-topicals-bath-products-can-cant.md"
+    },
+    {
+      "id": "tolerance-breaks-locals-talk-resets",
+      "title": "Tolerance Breaks: How Locals Actually Talk About Resets",
+      "dek": "T-breaks are ordinary adult maintenance in a mature market, not a moral purge. Planning beats white-knuckle improvisation.",
+      "body": [
+        "In tech-heavy San Jose, people reboot phones, clear caches, and joke about inbox zero. Cannabis tolerance breaks, “t-breaks”, fit the same maintenance culture. Regulars notice they need more flower for the same effect, edibles feel muted, or morning fog lingers. A reset is how adults answer without pretending abstinence is the only virtuous story.",
+        "There is no single medically mandated break length for adult-use shoppers. Conversations at licensed counters and among peers often range from a few days to a few weeks, depending on prior dose, format, and goals. Higher-potency concentrate users sometimes describe longer resets than weekend flower consumers. The honest local tone skips shame: you are recalibrating, not confessing.",
+        "Practical planning matters more than slogans. Pick a start date that does not collide with travel stress or major deadlines if you can help it. Remove easy-access product from the nightstand, or ask a trusted adult roommate to hold it if that helps, with clear consent. Expect sleep and appetite changes for some people; those are reasons to be kind to yourself, not to redose in panic at 2 a.m. Exercise, hydration, and ordinary hobbies fill time better than doomscrolling dispensary menus.",
+        "When you return, do not resume at your old concentrate ceiling. Restart with lower-THC flower, a smaller edible, or fewer cart pulls. The point of a break evaporates if day one is a revenge dab. Notes help: what dose felt right after the reset becomes next month’s baseline.",
+        "Budtenders can suggest lower-potency SKUs for a soft landing. They should not police your break or invent medical withdrawal protocols. If cannabis use feels compulsive, entangled with mental-health crises, or impossible to pause, that is clinician territory, not a newspaper shopping tip. For ordinary tolerance creep in a legal adult market, the San Jose vernacular is practical: pause, reset, restart lower, keep receipts and ID habits intact when you shop again. In San Jose’s limited storefront market, preparation beats impulse: verify the shop on SJPD’s registered cannabis businesses list, bring ID, read the package yourself after any recommendation, and keep consumption on private property with permission. Adult-use sales require customers 21 and older. Tax totals at checkout still apply. None of those retail realities replace clinician advice when health questions are personal. Quiet morning visits can leave more time for label reading than Saturday afternoon rushes after neighborhood events. Keep a simple personal log of milligrams, format, and how you felt the next day; pattern recognition beats lore. Share products only with other adults who consented, and store anything that looks like candy or soda away from kids and pets. If a sale tempts you to stock up, remember that discounts change cost, not onset time, impairment risk, or your calendar. South Bay adults who already shop licensed rooms know the pattern: lawful address, clear label, private use, rideshare when needed."
+      ],
+      "author": "Theo Mercado",
+      "beat": "Research, design & everyday use",
+      "type": "Local guide",
+      "topic_date": "2026-09-08",
+      "published": "2026-09-08",
+      "updated": "2026-09-23",
+      "photo": "article-47",
+      "sources": [
+        [
+          "cdc.gov",
+          "https://www.cdc.gov/cannabis/faq/index.html"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses"
+        ]
+      ],
+      "import_number": 47,
+      "source_file": "47-tolerance-breaks-locals-talk-resets.md"
+    },
+    {
+      "id": "microdosing-culture-tech-san-jose",
+      "title": "Microdosing Culture in Tech-Heavy San Jose",
+      "dek": "Low-dose talk thrives where calendars are dense. Milligrams and honesty beat Silicon Valley mythmaking about productivity chemicals.",
+      "body": [
+        "San Jose’s tech belt loves optimization language: sprints, standups, biohacks, microdoses. Cannabis enters that dialect as 2.5-milligram gummies, half-vape pulls, and CBD-leaning ratios meant to “take the edge off” without melting a workday. Some of that culture is careful. Some of it is wishful branding.",
+        "Microdosing, in consumer cannabis talk, usually means taking amounts low enough that intoxication is subtle or barely noticeable. Public education materials that recommend starting around 2.5 milligrams of THC for new edible users overlap with that practice, even when the shopper is not chasing a trend label. The useful discipline is measurement: labeled milligrams, timers against redosing, and honest self-checks about whether you are still fit to drive, code-review, or supervise kids.",
+        "What microdosing is not: a clinically proven productivity drug, a substitute for sleep, or a workaround for untreated anxiety. Evidence on THC and performance is mixed and context-dependent; impairment can appear at doses people subjectively call small. Workplace policies in the South Bay, especially federal contractor sites, hardware labs with safety rules, and driving-heavy roles, may still treat any THC as a problem. California legality does not rewrite a handbook.",
+        "Shopping tips for the low-dose aisle: prefer products with clear per-piece milligrams; beware multipacks that invite casual stacking during a stressful deploy week; consider CBD:THC ratios if you want less intoxication; and keep caffeine interactions in mind when coffee culture collides with cannabinoids. Morning microdosing before a commute is how ordinary adults invent DUI risk. Evening low doses on private property are a different calendar choice.",
+        "Talk about microdosing without mystique. If it helps you feel slightly more at ease on a rest night, fine. If you need escalating amounts to feel anything, that is tolerance talking, not a failure of the brand. Licensed San Jose retailers give you the labels required for intentional low dosing. Use them. Leave the productivity mythology on the podcast. In San Jose’s limited storefront market, preparation beats impulse: verify the shop on SJPD’s registered cannabis businesses list, bring ID, read the package yourself after any recommendation, and keep consumption on private property with permission. Adult-use sales require customers 21 and older. Tax totals at checkout still apply. None of those retail realities replace clinician advice when health questions are personal. Quiet morning visits can leave more time for label reading than Saturday afternoon rushes after neighborhood events. Keep a simple personal log of milligrams, format, and how you felt the next day; pattern recognition beats lore. Share products only with other adults who consented, and store anything that looks like candy or soda away from kids and pets. If a sale tempts you to stock up, remember that discounts change cost, not onset time, impairment risk, or your calendar. South Bay adults who already shop licensed rooms know the pattern: lawful address, clear label, private use, rideshare when needed."
+      ],
+      "author": "Theo Mercado",
+      "beat": "Research, design & everyday use",
+      "type": "Local guide",
+      "topic_date": "2026-09-10",
+      "published": "2026-09-10",
+      "updated": "2026-09-23",
+      "photo": "article-48",
+      "sources": [
+        [
+          "cdc.gov",
+          "https://www.cdc.gov/cannabis/health-effects/poisoning.html"
+        ],
+        [
+          "nj.gov",
+          "https://www.nj.gov/cannabis/adult-personal/safe-responsible-consumption/"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses"
+        ]
+      ],
+      "import_number": 48,
+      "source_file": "48-microdosing-culture-tech-san-jose.md"
+    },
+    {
+      "id": "cannabis-coffee-cafe-adjacent-rituals",
+      "title": "Cannabis and Coffee: South Bay Cafe-Adjacent Rituals (No Public Use)",
+      "dek": "Espresso culture and cannabis culture share mornings, and must not share sidewalks. Pairing is a private ritual under San Jose rules.",
+      "body": [
+        "Coffee is the South Bay’s true municipal religion: drive-through lines, laptop cafés, and 6 a.m. openers near industrial corridors where some licensed cannabis shops also unlock early. Adults inevitably talk about pairing, a latte and a low-dose edible, a morning cart pull with a cold brew. The cultural fit is real. The legal bright line is brighter: San Jose generally prohibits public cannabis consumption, and a café patio is not a consumption lounge because someone sold you beans.",
+        "Cafe-adjacent ritual, done lawfully, looks like sequencing. Buy coffee in public. Buy cannabis at a registered retailer. Consume cannabis later on private property with permission. Some retail events have hosted coffee trucks or free drink booths as hospitality beside legal sales, hospitality is not authorization to medicate on the sidewalk. Eat the pastry, take the coffee, take the sealed bag home.",
+        "Pharmacology deserves a hedge. Caffeine is a stimulant; THC effects vary by dose and person. Stacking them can feel productive to one adult and jittery-anxious to another. Start lower on THC if you insist on same-morning experiments at home. Edible onset delay means your second espresso may arrive before the gummy does, another stacking trap. Vaping before a meeting may be discreet; it is still inhaled exposure and still potentially impairing.",
+        "Gallup’s consumption polling shows coffee remaining a daily habit for about half of U.S. adults while cannabis smoking sits far lower as a percentage, context for why the pairing conversation feels mainstream even when laws keep them spatially apart. Local shoppers can enjoy both markets without forcing them into one chair.",
+        "Practical etiquette: do not tip cannabis ash into café planters; do not open infused beverages at shared outdoor tables; do not assume a “cannabis-friendly” vibe on social media overrides city code. Early shopping hours and early espresso can share a clock. They should not share a consumption site. Rituals survive when adults keep them private and legal. In San Jose’s limited storefront market, preparation beats impulse: verify the shop on SJPD’s registered cannabis businesses list, bring ID, read the package yourself after any recommendation, and keep consumption on private property with permission. Adult-use sales require customers 21 and older. Tax totals at checkout still apply. None of those retail realities replace clinician advice when health questions are personal. Quiet morning visits can leave more time for label reading than Saturday afternoon rushes after neighborhood events. Keep a simple personal log of milligrams, format, and how you felt the next day; pattern recognition beats lore. Share products only with other adults who consented, and store anything that looks like candy or soda away from kids and pets. If a sale tempts you to stock up, remember that discounts change cost, not onset time, impairment risk, or your calendar. South Bay adults who already shop licensed rooms know the pattern: lawful address, clear label, private use, rideshare when needed."
+      ],
+      "author": "Sienna Hart",
+      "beat": "Food, drink & consumer health",
+      "type": "Local guide",
+      "topic_date": "2026-09-12",
+      "published": "2026-09-12",
+      "updated": "2026-09-23",
+      "photo": "article-49",
+      "sources": [
+        [
+          "news.gallup.com",
+          "https://news.gallup.com/poll/713645/marijuana-smoking-record-high-cigarettes-low.aspx"
+        ],
+        [
+          "library.municode.com",
+          "https://library.municode.com/ca/san_jose/codes/code_of_ordinances?nodeId=TIT6BULIRE_CH6.88MENDICA"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses"
+        ],
+        [
+          "spartanmediagroup.net",
+          "https://spartanmediagroup.net/11126/spartan-daily/new-shop-smokes-grand-opening/"
+        ]
+      ],
+      "import_number": 49,
+      "source_file": "49-cannabis-coffee-cafe-adjacent-rituals.md"
+    },
+    {
+      "id": "budtenders-as-guides-ten-questions",
+      "title": "Budtenders as Guides: Ten Questions Worth Asking",
+      "dek": "In a scarce market with overlapping menus, good questions turn cashiers into guides, without turning them into doctors.",
+      "body": [
+        "In a San Jose market where many licensed shops carry overlapping brands, the person behind the counter becomes part of the product. Budtenders are not doctors and should not be asked for diagnoses. Done well, they are local guides who translate a crowded menu into a few honest options based on format, aroma, onset, and budget.",
+        "Ten questions worth asking: (1) What formats do you suggest for a beginner versus a heavy-tolerant regular? (2) What is the THC per serving on this edible, and is it traditional or fast-acting? (3) Which current flower batches lean pine, citrus, or dessert on the nose? (4) Is this pre-roll flower or shake, classic or infused? (5) For carts, is this distillate, live resin, or another extract type? (6) Do you have CBD-forward or 1:1 options in stock today? (7) How fresh is this batch, and where do I find the test date? (8) What is the out-the-door price with tax? (9) What is your policy on returns or recalls if a product fails? (10) Are there quiet hours when you recommend first-timers visit?",
+        "Good guidance includes saying no. Staff should steer inexperienced shoppers away from high-milligram edibles or heavy infused blunts when the customer’s story suggests caution. Shoppers should bring constraints, “I got too high last month,” “I need something for a private quiet night,” “I cannot have a strong smell”, instead of only asking for whatever is popular on social media.",
+        "Local coverage of new retail openings has emphasized welcoming floor staff and career paths that started at the counter, useful culture without turning any single chain into a tour feature. Early hours sometimes mean shorter lines. Bag policies still apply. ID checks for adults 21 and older are non-negotiable. Recommendations are not prescriptions. Tip if policy and budget allow. Then leave with a plan that fits your tolerance, not the loudest demo on a patio. In San Jose’s limited storefront market, preparation beats impulse: verify the shop on SJPD’s registered cannabis businesses list, bring ID, read the package yourself after any recommendation, and keep consumption on private property with permission. Adult-use sales require customers 21 and older. Tax totals at checkout still apply. None of those retail realities replace clinician advice when health questions are personal. Quiet morning visits can leave more time for label reading than Saturday afternoon rushes after neighborhood events. Keep a simple personal log of milligrams, format, and how you felt the next day; pattern recognition beats lore. Share products only with other adults who consented, and store anything that looks like candy or soda away from kids and pets. If a sale tempts you to stock up, remember that discounts change cost, not onset time, impairment risk, or your calendar. South Bay adults who already shop licensed rooms know the pattern: lawful address, clear label, private use, rideshare when needed."
+      ],
+      "author": "Milo Reyes",
+      "beat": "Aroma, labels & products",
+      "type": "Local guide",
+      "topic_date": "2026-09-14",
+      "published": "2026-09-14",
+      "updated": "2026-09-23",
+      "photo": "article-57",
+      "sources": [
+        [
+          "spartanmediagroup.net",
+          "https://spartanmediagroup.net/11126/spartan-daily/new-shop-smokes-grand-opening/"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses"
+        ]
+      ],
+      "import_number": 57,
+      "source_file": "57-budtenders-as-guides-ten-questions.md"
+    },
+    {
+      "id": "cannabis-prescription-meds-ask-clinician",
+      "title": "Cannabis and Prescription Meds: Ask a Clinician, Not a Stranger Online",
+      "dek": "Budtenders can explain product formats. They cannot reconcile your SSRI, blood thinner, or sleep aid with a new edible. South Bay shoppers need a brighter line.",
+      "body": [
+        "San Jose dispensary counters are good at many things: translating terpene talk, comparing edible milligrams, and steering first-timers away from a 100-milligram mistake. They are not a substitute for a clinician who knows your prescription list. That boundary matters more as adult-use shopping becomes ordinary in the South Bay and more people arrive already taking medications for anxiety, pain, sleep, blood pressure, seizure disorders, or chronic conditions.",
+        "Cannabis can interact with other substances in ways that are personal, dose-dependent, and incompletely studied in everyday retail contexts. Sedating combinations can stack. Heart-rate and blood-pressure effects can matter for some patients. Metabolism pathways in the liver can change how other drugs behave. None of that turns a legal purchase into a medical prescription. It does mean “my coworker swears by this gummy with their meds” is anecdotes, not care. Forum confidence is not a titration schedule.",
+        "California’s responsible-use materials from the Department of Cannabis Control emphasize that reactions vary with body composition, tolerance, THC content, amount, and method. Edibles metabolize differently from inhaled products. If you take prescription medications, the safest consumer habit is simple: ask the clinician who already manages those prescriptions before you layer cannabis into the routine, especially if you are new, returning after a long break, changing dose forms, or adding nightly edibles to an existing sleep-medication plan.",
+        "What to ask is concrete. Bring the actual medication names and doses, or a photo of the bottles. Ask about timing, morning blood-pressure pills versus evening edibles, for example. Ask whether sedation risk means you should avoid driving the next morning after a heavy edible. Ask whether any of your meds are known to interact with cannabinoids. If your clinician is unfamiliar with cannabis details, ask for a referral or a pharmacist consult rather than filling the gap with Reddit threads. Pharmacists who already reconcile your list may be the fastest informed second opinion.",
+        "Be honest at both ends of the conversation. Clinicians cannot help if they only hear “I barely use.” Budtenders cannot safely coach drug interactions if you expect them to green-light a cart against a complex regimen. A useful shop visit still helps: choose lower-THC or balanced options if that is your clinician’s guidance, read labels carefully, and start low. Just do not outsource pharmacology to whoever is free at the register during a rush. If staff correctly decline medical advice, take that as professionalism.",
+        "Workplace and insurance realities linger even when California law allows adult use. Some employers still test. Some clinicians document carefully. None of that is a reason to hide legal adult use from the person adjusting your warfarin, lithium, or opioid taper; it is a reason to choose a private, factual conversation. Bring questions to scheduled visits instead of ambushing a primary-care slot with a vague “is weed okay?”",
+        "Special populations need sharper caution. Pregnancy and nursing belong in a separate clinical conversation, DCC advises against cannabis use when pregnant, possibly pregnant, or breastfeeding, and says to talk to a doctor. Older adults on multiple medications may feel effects longer. People with a history of psychosis or unstable cardiovascular disease should not treat a dispensary aisle as a clinic waiting room. Teen patients are not adult-use customers at all.",
+        "Online strangers will always have confident answers. San Jose shoppers deserve better. Buy legal, labeled products from registered retailers. Use budtenders for product literacy. Use clinicians for medication safety. Keep the roles separate, and your evening is less likely to become an accidental experiment with a prescription you still need in the morning.",
+        "South Bay workers often see multiple clinicians, primary care, psychiatry, pain management, without any single chart capturing cannabis use. Bring the topic to each relevant visit, especially after dose changes. If you use medical cannabis documentation for higher possession limits, keep that paperwork separate from adult-use shopping assumptions and still disclose other prescriptions. Fragmented care is normal here; fragmented honesty is what creates preventable interactions."
+      ],
+      "author": "Sienna Hart",
+      "beat": "Food, drink & consumer health",
+      "type": "Local guide",
+      "topic_date": "2026-09-16",
+      "published": "2026-09-16",
+      "updated": "2026-09-23",
+      "photo": "article-66",
+      "sources": [
+        [
+          "cannabis.ca.gov",
+          "https://www.cannabis.ca.gov/consumers/responsible-cannabis-use/"
+        ],
+        [
+          "cdph.ca.gov",
+          "https://www.cdph.ca.gov/Programs/CCDPHP/sapb/cannabis/Pages/Cannabis-Poisoning.aspx"
+        ],
+        [
+          "cannabis.ca.gov",
+          "https://www.cannabis.ca.gov/consumers/whats-legal/"
+        ]
+      ],
+      "import_number": 66,
+      "source_file": "66-cannabis-prescription-meds-ask-clinician.md"
+    },
+    {
+      "id": "pregnancy-nursing-shop-conversations",
+      "title": "Pregnancy, Nursing, and Why Shops Refuse Certain Sales Conversations",
+      "dek": "California consumer guidance is blunt: if you are pregnant, may be pregnant, or breastfeeding, do not consume cannabis, and talk to a doctor. Retail staff are not your obstetric team.",
+      "body": [
+        "Walk into a licensed San Jose dispensary and you will see plenty of wellness language on shelves: sleep gummies, balanced ratios, topicals with soft branding. What you should not expect is a budtender workshop on cannabis use during pregnancy or lactation. That refusal is not rudeness. It tracks state consumer guidance and the limits of retail training.",
+        "The Department of Cannabis Control’s responsible-use page states that if you are pregnant, may be pregnant, or breastfeeding, you should not consume cannabis and should talk to your doctor. CDPH cannabis materials similarly frame health decisions around clinical care rather than counter chat. Those messages exist because developing fetuses and infants are not tiny adults, and because evidence reviews used by public-health agencies urge caution even when anecdotes online sound reassuring. Morning-sickness folklore and sleep-deprivation tips do not override that consumer warning.",
+        "Shoppers sometimes push anyway, “my midwife said,” “I only vape at night,” “CBD is fine, right?” Licensed retailers still have reasons to keep the conversation short. Staff are not licensed to practice medicine. Product labels are not prenatal counseling. A sales floor that starts coaching pregnancy regimens creates liability and false confidence. The professional move is redirection: we cannot advise on that; please speak with your clinician; here is how adult-use purchases work for customers who are cleared to shop. Customers who respect that boundary make the room safer for everyone else waiting in line.",
+        "Partners and friends shopping on someone’s behalf should respect the same line. California allows adults 21 and older to purchase for themselves within possession and daily limits; turning a dispensary trip into proxy medical care for a pregnant partner is a bad plan. If a clinician has specifically addressed a medical-cannabis question, that guidance belongs in the clinic chart, not in a whispered budtender consult between flower jars. Do not pressure staff to validate a plan your obstetric team has not endorsed.",
+        "Public-health context also includes accidental exposure. Edibles that look like candy are a documented risk for children; nursing households should treat storage as seriously as medication cabinets. Child-resistant packaging helps only if adults actually reseal and lock products. Poison Control remains the right call at 1-800-222-1222 if a child may have ingested cannabis. Guests at baby showers and postpartum visits should keep bags zipped and elevated, hospitality is not an excuse for accessible purses on low tables.",
+        "None of this article diagnoses individual patients or claims every cannabinoid is identical. Topicals, for example, raise different exposure questions than inhaled flower or swallowed edibles, and even then, clinicians should lead. CBD marketing can blur lines; “hemp” labels and cannabis retail labels are not interchangeable permission slips for pregnancy. If a product is sold in an adult-use dispensary with THC, treat it as cannabis for household-safety purposes.",
+        "For San Jose’s shopper paper, the practical takeaway is cultural as much as legal. Respect staff who decline pregnancy advice. Do not shame people for asking careful questions, point them to clinicians. If you are planning a pregnancy, ask your doctor before you keep a heavy edible habit. If you are already pregnant or nursing, treat DCC’s “should not consume” language as the default consumer warning it is, and use medical appointments, not Instagram, for exceptions, alternatives, and symptom care. Postpartum mental health deserves clinical support; cannabis is not a stand-in for that care.",
+        "Legal adult-use cannabis is a regulated retail good. Prenatal and postpartum health is clinical care. Keeping those categories separate protects families and keeps licensed shops inside their lane, exactly where a responsible local marketplace needs them.",
+        "Family members can reduce harm by changing the environment instead of arguing about beliefs. Remove cannabis from shared surfaces before relatives with infants arrive. Offer to store products at another adult’s locked place during visits. If someone is using cannabis to cope with prenatal anxiety or postpartum depression, help them reach clinical mental-health support quickly rather than debating budtender folklore. Compassion and boundaries can coexist."
+      ],
+      "author": "Sienna Hart",
+      "beat": "Food, drink & consumer health",
+      "type": "Local guide",
+      "topic_date": "2026-09-18",
+      "published": "2026-09-18",
+      "updated": "2026-09-23",
+      "photo": "article-67",
+      "sources": [
+        [
+          "cannabis.ca.gov",
+          "https://www.cannabis.ca.gov/consumers/responsible-cannabis-use/"
+        ],
+        [
+          "cdph.ca.gov",
+          "https://www.cdph.ca.gov/Programs/CCDPHP/sapb/cannabis/Pages/Cannabis-Poisoning.aspx"
+        ],
+        [
+          "calpoison.org",
+          "https://calpoison.org/about-cannabis-poisoning"
+        ]
+      ],
+      "import_number": 67,
+      "source_file": "67-pregnancy-nursing-shop-conversations.md"
+    },
+    {
+      "id": "clones-home-grow-adjacent-questions",
+      "title": "Clones and Home-Grow Adjacent Questions, Without the Out-of-Town Promo Travelogue",
+      "dek": "Clone shopping raises practical questions for South Bay adults already allowed six plants at home. Stay local, lawful, and neighbor-aware, no road-trip advertisement required.",
+      "body": [
+        "Once San Jose adults learn they may grow up to six living plants at a private residence under California’s adult-use framework, the next questions arrive fast: Where do clones come from? How do you keep genetics healthy? What separates a hobby cupboard from a nuisance? This guide stays adjacent to home cultivation without turning into a tourism brochure for out-of-town nursery destinations.",
+        "Start with the legal frame you already know. The Department of Cannabis Control states that adults 21 and older may grow up to six plants at home, that local rules can be stricter, and that volatile solvents are off-limits for DIY concentrate making. Health and Safety Code section 11362.2 layers requirements about locked spaces and non-visibility from public places. San Jose renters and HOA residents must still clear leases and covenants. If outdoor grows are restricted where you live, a clone that needs a sunny patio is the wrong purchase.",
+        "Clones are cuttings rooted to continue a plant’s genetics. Hobbyists like them because they skip germination surprises and preserve a phenotype someone already liked. That convenience does not suspend plant counts: a clone is a living plant toward the six-plant cap once it is in your residence. Mothers, vegging plants, and flowering plants all count in ordinary adult-use math. If you are a medical patient with a physician recommendation for more plants, that is a different documentation lane, do not invent it casually.",
+        "Sourcing matters as much as horticulture. Buying from informal sellers who also push flower bags can land you in the same “know your source” problems discussed in enforcement stories: unknown pesticides, unknown pests, unknown legality of the commercial activity. Prefer channels that clearly operate within licensed nursery or retail rules applicable to your situation, and be wary of parking-lot cuttings with no accountability. Ask about integrated pest management. Inspect for mites, mildew, and stressed yellow leaves before you bring insects into a tent that sits ten feet from a neighbor’s window.",
+        "Home logistics decide success more than strain names. Clones need gentle light, stable humidity, and cleanliness. Overcrowding six plants in a closet without airflow grows mold, bad for lungs and for drywall. Electrical safety is not optional; cheap timers and overloaded power strips start fires. Water belongs in trays, not in shared ceilings. Odor control becomes critical the moment flowering begins, regardless of how cute the cutting looked in week one.",
+        "Neighbor etiquette remains the soft law of dense San Jose parcels. Tell roommates before a tent appears. Do not vent unfiltered air into a light well. If smell complaints start, fix filtration before arguing about Prop 64. Theft risk rises when people post grow flexes with recognizable house exteriors; keep your hobby offline or tightly private.",
+        "Why skip the out-of-town travelogue? Because most local readers need decision tools, not itineraries. A weekend drive will not fix a lease that bans cultivation. A famous nursery name will not neutralize an HOA fine. If growing does not fit your building, schedule, or relationships, licensed storefront flower remains the simpler adult-use product, tested, labeled, and free of tent maintenance.",
+        "Clone curiosity is reasonable. Treat it like starting any other household project with shared-air impacts: confirm you are allowed to grow, count plants honestly, source carefully, invest in odor and fire safety, and be ready to shut the project down if the building cannot support it. That is home-grow literacy without the road-trip ad.",
+        "Local shoppers can keep this guidance beside the other essentials of adult-use life in San Jose: verify sellers on SJPD’s registered cannabis businesses list, keep receipts, store products away from children and pets, and consume only on private property where household rules allow. Those habits will not settle every debate, but they keep ordinary weekends inside the lawful, lower-drama lane this market was built to support.",
+        "When details are unclear, slow down, verify with primary sources, and ask a qualified professional before improvising."
+      ],
+      "author": "Theo Mercado",
+      "beat": "Research, design & everyday use",
+      "type": "Local guide",
+      "topic_date": "2026-09-19",
+      "published": "2026-09-19",
+      "updated": "2026-09-23",
+      "photo": "article-71",
+      "sources": [
+        [
+          "cannabis.ca.gov",
+          "https://www.cannabis.ca.gov/consumers/whats-legal/"
+        ],
+        [
+          "leginfo.legislature.ca.gov",
+          "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=HSC&sectionNum=11362.2"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses"
+        ]
+      ],
+      "import_number": 71,
+      "source_file": "71-clones-home-grow-adjacent-questions.md"
+    },
+    {
+      "id": "rainy-season-harvest-supply-menus",
+      "title": "Rainy Season and Harvest Supply: Why Menus Shift in Fall",
+      "dek": "Autumn weather and harvest cycles change what licensed shelves emphasize. Shoppers who understand seasonality stop blaming their favorite counter for every missing SKU.",
+      "body": [
+        "South Bay summers bake cars and dry hillsides; fall brings the first serious rain odds and, for cannabis agriculture, the tail of outdoor harvest energy. Even shoppers who never set foot on a farm feel those cycles at the register: suddenly more fresh-frozen talk, different concentrate drops, flower batches rotating faster, and edible brands pushing holiday flavors.",
+        "California’s licensed supply chain is national-news quiet most days and local-menu loud in September and October. Outdoor and mixed-light harvests historically concentrate in fall, while indoor production hums year-round. Retailers mix both. When rains arrive early or mold pressure rises in growing regions, wholesale availability and quality sorting change. A budtender saying “we’re between batches” is often describing logistics, not indifference.",
+        "What should San Jose shoppers do with that knowledge? First, treat menus as living documents. Online inventory can lag. If a particular cultivar matters, call ahead or order for pickup when the retailer offers it. Second, be flexible on close substitutes, similar terpene families rather than an exact name. Third, inspect dates and packaging when you arrive; fall humidity swings can punish poorly stored flower at home even if the jar left the shop fine. Bring product indoors, avoid steaming bathrooms, and do not leave sealed bags in a hot trunk after the first warm storm clears.",
+        "Rainy-season logistics also affect shoppers directly. Industrial-corridor lots get slick. Downtown garage demand spikes when weather turns ugly. Delivery windows stretch when roads slow. If you depend on a van, place orders earlier in the day. If you drive, build minutes for careful parking rather than rushing through wet intersections with cash still in hand.",
+        "Harvest hype can push people toward impulse concentrates and limited drops. That is fine when it fits your budget and tolerance; it is less fine when you ignore label milligrams because the jar looks seasonal. Fall products still require the same responsible-use habits DCC promotes: start low with new edible recipes, do not drive impaired, and keep child-resistant packaging engaged at home.",
+        "Illicit “harvest specials” proliferate online each autumn. Ignore them. SJPD’s registered list remains the filter. Seasonal scarcity is not an excuse to buy untested product from a stranger’s trunk because the licensed shelf rotated. Weather already complicates agriculture; do not add unknown pesticides to the mix.",
+        "Home growers inside the six-plant cap feel fall differently: outdoor finishes, drying challenges, and odor spikes that annoy neighbors when windows close for rain. If you dry indoors, control moisture to avoid mold. If smell rises, improve filtration before the first complaint. Renters should remember lease rules still apply when harvest excitement peaks.",
+        "Menus will keep shifting after Halloween toward heavier holiday promotions. Use fall as practice for reading inventory like a local: ask what just arrived, what is ending, and what storage tips matter for the week’s weather. Cannabis retail in a capped city already limits choice; seasonality is another constraint. Working with it, rather than rage-refreshing an app, usually gets you a better jar and a drier pair of shoes.",
+        "Local shoppers can keep this guidance beside the other essentials of adult-use life in San Jose: verify sellers on SJPD’s registered cannabis businesses list, keep receipts, store products away from children and pets, and consume only on private property where household rules allow. Those habits will not settle every debate, but they keep ordinary weekends inside the lawful, lower-drama lane this market was built to support.",
+        "When details are unclear, slow down, verify with primary sources, and ask a qualified professional before improvising."
+      ],
+      "author": "Theo Mercado",
+      "beat": "Research, design & everyday use",
+      "type": "Local guide",
+      "topic_date": "2026-09-21",
+      "published": "2026-09-21",
+      "updated": "2026-09-23",
+      "photo": "article-76",
+      "sources": [
+        [
+          "cannabis.ca.gov",
+          "https://www.cannabis.ca.gov/consumers/whats-legal/"
+        ],
+        [
+          "cannabis.ca.gov",
+          "https://www.cannabis.ca.gov/consumers/responsible-cannabis-use/"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses"
+        ]
+      ],
+      "import_number": 76,
+      "source_file": "76-rainy-season-harvest-supply-menus.md"
+    },
+    {
+      "id": "mythbusting-all-sj-weed-same",
+      "title": "Mythbusting: All San Jose Weed Is the Same",
+      "dek": "A capped city market does not equal identical flower. Cultivation methods, freshness, testing, and storage still create real differences shoppers can learn to see.",
+      "body": [
+        "Spend enough time in San Jose cannabis conversations and you will hear the shrug: with so few storefronts, everything must be the same leftover corporate weed. Scarcity is real, ordinary new retail applications remain closed while equity pathways open limited doors, but scarcity is not uniformity.",
+        "Start with cultivation category. Indoor, greenhouse, and outdoor flower can differ in density, terpene intensity, and price even when THC percentages look similar on a menu board. Freshness matters more than many shoppers admit; a high-THC jar harvested ages ago can smoke harsher than a mid-THC jar packaged recently. Ask about pack dates. Look at trichome condition through clear packaging when possible. Smell, gently, within shop norms, for grassy degradation versus lively aroma.",
+        "Testing and labeling create another axis of difference. Licensed California products carry lab results for potency and screenings that illicit bags skip. Within the legal market, batch variation still exists. Two jars with the same strain name from different producers are not clones of each other. Modern hybrid genetics also blur old indica/sativa folk labels; effects tracking your own notes beats mythology.",
+        "Storage after purchase may erase good retail differences. Hot cars, steamy bathrooms, and opened jars in bright kitchens dull flower quickly in South Bay weather. The best shop in the city cannot protect product you cook in a glove box. Buy amounts you will finish. Use airtight storage away from heat.",
+        "Retail handling differs too. Shops with faster turnover may field fresher flower; slower shelves need more careful date checking. Pre-ground value bags, craft eighths, and infused products are different tools. Saying they are “the same” because they all contain THC is like saying every restaurant meal is the same because it contains calories.",
+        "Price gaps reflect taxes, brand positioning, and cultivation costs, not always a secret quality conspiracy. San Jose’s tax stack is heavy; a cheaper legal eighth is not automatically worse than a boutique jar, and a expensive jar is not automatically better. Compare aroma, moisture, grind behavior, and your own effect notes across two or three purchases instead of declaring the entire city solved.",
+        "Illicit product sometimes looks frosty in photos and still fails basic safety assumptions. Mythbusting “all legal weed is the same” does not require pretending illegal weed is romantic craft. It requires tasting the actual differences inside the regulated aisle: cultivars, batches, formats, and freshness.",
+        "San Jose’s limited storefront count can make menus feel repetitive if you only chase the same three brand tiles. Ask budtenders what changed this week. Try a different format before you decide the city has only one note. The market is capped. Your palate does not have to be.",
+        "Local shoppers can keep this guidance beside the other essentials of adult-use life in San Jose: verify sellers on SJPD’s registered cannabis businesses list, keep receipts, store products away from children and pets, and consume only on private property where household rules allow. Those habits will not settle every debate, but they keep ordinary weekends inside the lawful, lower-drama lane this market was built to support.",
+        "When details are unclear, slow down, verify with primary sources, and ask a qualified professional before improvising."
+      ],
+      "author": "Milo Reyes",
+      "beat": "Aroma, labels & products",
+      "type": "Local guide",
+      "topic_date": "2026-09-23",
+      "published": "2026-09-23",
+      "updated": "2026-09-23",
+      "photo": "article-85",
+      "sources": [
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/business-application-process"
+        ],
+        [
+          "cannabis.ca.gov",
+          "https://www.cannabis.ca.gov/consumers/whats-legal/"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses"
+        ]
+      ],
+      "import_number": 85,
+      "source_file": "85-mythbusting-all-sj-weed-same.md"
+    }
+  ]
+}

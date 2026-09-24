@@ -1,0 +1,775 @@
+{
+  "new_guides": {
+    "atlas": [
+      [
+        "edible-families",
+        "The edible field guide: look past the flavor.",
+        "The edible edit",
+        "A practical way to compare gummies, chocolate, mints and chews without relying on the package name.",
+        [
+          [
+            "Start with the unit you are comparing",
+            "An edible has at least three useful identities: its food format, its cannabinoid formulation and its package configuration. A gummy and a mint can have the same labeled THC amount while differing in ingredients, size and the number of pieces in the package. First write down the milligrams per piece, the number of pieces and the whole-package amount. A front-of-package number without its unit is not enough for a meaningful comparison."
+          ],
+          [
+            "Read a fictional shelf side by side",
+            "Imagine package A contains ten pieces labeled 5 mg THC each, and package B contains five pieces labeled 10 mg each. Both contain 50 mg in total, but they are not the same piece-level product. This arithmetic is an example for reading labels, not a suggested amount to consume. Next check whether additional cannabinoids are listed. A product with THC and CBD should not be summarized by its THC number alone."
+          ],
+          [
+            "Make room for the ingredient list",
+            "Texture and flavor are not the only food details. Look at the actual ingredient and allergen statements when checking a dietary preference. Do not infer that all products within one brand family share a recipe. Chocolate, gelatin-based gummies and pectin-based gummies are different food constructions, and a brand can offer more than one. The current package is more relevant than a photo from a different state or an old product announcement."
+          ],
+          [
+            "Use the brand family as a map",
+            "Kiva’s portfolio includes several distinct families, including Camino, Petra, Terra and Lost Farm. That relationship helps you navigate a menu; it does not make their packages interchangeable. Compare a specific California product with another specific California product. BAYLEAF’s shortlist groups documented formats so you can decide which profiles to read next. It is not an inventory feed or a recommendation of a personal serving."
+          ],
+          [
+            "Leave with a better question",
+            "A useful question is: “Can you show me the piece amount, total package amount and other cannabinoids on this exact version?” That invites a concrete answer. Save the brand names you want to investigate, then return to the current retailer menu for the exact items. Source basis: Kiva’s official portfolio and the California Department of Cannabis Control consumer and labeling resources linked on our Sources page."
+          ]
+        ]
+      ],
+      [
+        "device-compatibility",
+        "The five-minute hardware check.",
+        "Devices & formats",
+        "Sort out dry herb, pods, cartridges and all-in-one products before comparing a price.",
+        [
+          [
+            "Name the system before the brand",
+            "Start with what the hardware takes as its input. A dry-herb device takes loose flower. An oil-pod device takes its compatible pod. A cartridge system takes an appropriate cartridge and battery. An all-in-one combines oil and hardware in one product. A familiar manufacturer name does not mean these systems share consumables. PAX, for example, has both dry-herb products and an ERA pod ecosystem."
+          ],
+          [
+            "Write down the complete model",
+            "“I have a PAX” is less useful than the full device model. Record the exact device and the exact product you are researching, including generation or model qualifiers. Use the manufacturer’s compatibility information to check the pair. A menu thumbnail may show a battery for illustration even when the item for sale is only a pod. Read the item description for what is included in the box."
+          ],
+          [
+            "Compare like with like",
+            "A standalone consumable and a kit with reusable hardware have different upfront costs. If you already own compatible hardware, that changes the comparison. If you do not, include the required device in your research budget. Do not treat the lowest menu price as a complete setup without checking this. Capacity also needs a unit: the oil amount is separate from battery capacity and neither is a measure of how a product will feel."
+          ],
+          [
+            "Plan for the end of the product",
+            "Reusable hardware, an empty cartridge and a depleted all-in-one are different objects. Follow the manufacturer’s and local waste authority’s current handling guidance for batteries and cannabis vaping products. Do not assume that a small electronic device belongs in household recycling. California’s cannabis labeling resources include specific guidance on vape disposal language."
+          ],
+          [
+            "A checklist you can use at the counter",
+            "Bring the model name and ask: Is this the correct consumable? Is the battery included? What charging equipment does it require? Where are the official care and end-of-life instructions? This turns a broad brand preference into a compatibility check that can be answered. See the PAX profile and our official Sources page for the starting points."
+          ]
+        ]
+      ],
+      [
+        "brand-family-tree",
+        "Different names. Connected stories.",
+        "Brand culture",
+        "How to use brand relationships without confusing a parent company, a product family and a batch.",
+        [
+          [
+            "A name can sit at several levels",
+            "Cannabis menus mix company names, product families and individual product names in the same visual space. A family of gummy products may have a strong identity of its own while belonging to a larger confectionery business. Knowing that structure makes research easier: you can find a manufacturer’s full portfolio and then locate the exact family. It does not make all products in the portfolio identical."
+          ],
+          [
+            "The Kiva and Camino example",
+            "Kiva’s official portfolio includes Camino alongside Kiva chocolates, Petra, Terra and Lost Farm. BAYLEAF includes both Kiva and Camino because a consumer may encounter either name on a San Jose menu. When both appear in a shortlist, read them as different levels of the same documented family. We do not count their shared relationship as evidence of two independent manufacturers competing with each other."
+          ],
+          [
+            "The Connected and Alien Labs example",
+            "Connected’s published history discusses its Northern California cultivation roots and relationship with Alien Labs. That shared story is useful cultural context. A Connected package and an Alien Labs package still need their own product-level comparison: format, weight, packaging date and batch information. A corporate or cultivation relationship does not prove that two jars have the same contents or measured composition."
+          ],
+          [
+            "Keep the source date in view",
+            "Relationships, portfolios and product availability can change. Our source checks revisit the official pages monthly and display their status. A successful page check means the source was reachable; it is not a legal audit of ownership or a guarantee that every product line remains available. We identify relationships only to the level supported by the cited official account. When a source is unclear, uncertainty is more useful than an elaborate family tree built on guesswork."
+          ],
+          [
+            "Turn a relationship into a question",
+            "Ask whether the name you see identifies the manufacturer, a product family or a specific variant. Then ask which source describes the exact item you are buying. The answer helps you move from a brand story to verifiable package details. Our brand profiles link directly to the official histories so you can inspect the original wording yourself."
+          ]
+        ]
+      ]
+    ],
+    "terpenes": [
+      [
+        "terpene-panel-example",
+        "Read a terpene panel, one number at a time.",
+        "Worked example",
+        "An imaginary lab panel shows how units, missing values and totals fit together.",
+        [
+          [
+            "Begin with the report, not the cultivar name",
+            "Use a report that can be matched to the actual product and batch. Note the laboratory, sample or batch identifier and report date before copying individual values. A generic strain description cannot substitute for that match. This worked example uses invented numbers to explain arithmetic only; it is not a real product certificate or a quality benchmark."
+          ],
+          [
+            "Convert the units consistently",
+            "Suppose a panel reports limonene at 4 mg/g, myrcene at 2 mg/g and alpha-pinene at 1 mg/g. One percent equals 10 mg/g, so those values become 0.4%, 0.2% and 0.1%. The total of the three entered compounds is 0.7%, equivalent to 7 mg/g. Enter the three numbers in our converter with mg/g selected to reproduce this result. Do not combine some percentage values and some mg/g values in the same input mode."
+          ],
+          [
+            "Read the bar chart as a share of what you entered",
+            "Limonene accounts for about 57.1% of this entered three-compound total. That does not mean the product is 57.1% limonene. Its mass fraction in this example remains 0.4%. Our bars divide each entered value by the sum of entered values, while the numeric rows show the product-level concentrations. These two views answer different questions."
+          ],
+          [
+            "A blank is not a zero",
+            "If the report does not provide linalool, leave its field blank. A blank could reflect an unreported compound, a limited testing panel or information you have not copied yet. If a report uses ND, LOQ or another qualifier, consult its legend rather than translating the notation into a precise numeric zero. The converter intentionally counts entered fields and calls its sum the total of entered compounds."
+          ],
+          [
+            "Use the result to ask, not to predict",
+            "The arithmetic can help spot inconsistent units or compare panel structure. It cannot predict a person’s experience or establish overall product quality. Keep the original report alongside your calculations and ask the laboratory or retailer about unclear qualifiers. The compound records on our Sources page identify the molecules; they do not certify a specific package."
+          ]
+        ]
+      ],
+      [
+        "aroma-vocabulary",
+        "Build an aroma vocabulary that feels like yours.",
+        "Sensory field notes",
+        "Use everyday scent references to make a more precise description without inventing an effects score.",
+        [
+          [
+            "Start with a familiar reference",
+            "“Citrus” is a useful beginning, but citrus peel, juice and a sweet citrus candy are different mental references. Likewise, pine needles and dry wood share a broad neighborhood without being identical. Use ordinary food, herb and landscape memories to describe what a scent reminds you of. You do not need a laboratory vocabulary to record an observation clearly."
+          ],
+          [
+            "Choose a few descriptors rather than every descriptor",
+            "NOSE NOTES lets you select up to three aroma families. The limit makes the resulting card concise and easy to discuss. A citrus, floral and fresh combination might point you toward several overlapping compound profiles. The match uses any selected family, not a requirement that a single compound satisfy all three. The card is a record of your stated preferences, not a test of your sense of smell."
+          ],
+          [
+            "Separate liking from identification",
+            "You can like a pine-like smell without being able to identify alpha-pinene from smell alone. Real products are mixtures. Our categories provide a way to navigate published descriptions, while a batch-specific laboratory panel answers a chemical measurement question. Neither a flavor name nor a scent signature supplies a measured terpene concentration."
+          ],
+          [
+            "Make the conversation more specific",
+            "Try sharing your card with the prompt: “Which of these descriptions sounds most like you?” The recipient can open the same selection and change it to make their own. When comparing cards, talk about references rather than rankings. “I think of fresh orange peel” is more useful than saying one card is more advanced. No account, leaderboard or personal identity is required."
+          ],
+          [
+            "Bring the vocabulary back to the label",
+            "Once you have a few preferred words, explore the relevant compound pages and learn which names may appear on a panel. Keep alpha-pinene and beta-pinene distinct. Treat a descriptor match as a reason to investigate, and use the actual product documentation to find out what was measured. The editorial categories and chemical identifiers are explained on the Sources page."
+          ]
+        ]
+      ],
+      [
+        "terpene-myths",
+        "Five shortcuts that a terpene chart cannot justify.",
+        "Better interpretations",
+        "Learn where useful chemical information ends and an unsupported promise begins.",
+        [
+          [
+            "“The largest terpene decides everything”",
+            "The largest reported terpene is a fact about a particular panel, provided the units and sample are clear. It does not summarize every substance in a product or predict an individual response. Other measured and unmeasured components remain part of the product. Use a dominant value as a description of that report, not as a universal instruction."
+          ],
+          [
+            "“The strain name tells me the chemistry”",
+            "A name can be a helpful way to find a product, but it is not a batch certificate. Packages with the same cultivar name can originate from different harvests. A fruit word in the name is not a limonene measurement. If chemical composition matters to your comparison, match the actual package to its available laboratory documentation."
+          ],
+          [
+            "“A bigger total is always better”",
+            "A larger reported total is a larger reported total. It does not establish freshness, personal preference, safety or overall quality by itself. A total also depends on the panel: a sum across eight compounds is not automatically comparable with a sum across forty. Check which compounds were tested, which were included in the total and how values below reporting thresholds were handled."
+          ],
+          [
+            "“Shared formulas mean the same compound”",
+            "Several compounds can share a molecular formula while differing in structure. Alpha-pinene and beta-pinene should retain separate labels and values. Humulene may appear under its alternate name alpha-caryophyllene, which creates a different problem: counting the same compound twice. Record exact names and use the linked PubChem identifiers to resolve the reference."
+          ],
+          [
+            "“An aroma card is a wellness recommendation”",
+            "Our cards describe chosen vocabulary. They do not recommend treatment, dosing or a product for sleep, anxiety or pain. The shareable result deliberately stays with aromas and learning links. That makes it a useful conversation starter while keeping its claims aligned with the information entered. For health questions, seek appropriate professional guidance rather than treating a fragrance category as medical evidence."
+          ]
+        ]
+      ]
+    ],
+    "delivery": [
+      [
+        "apartment-delivery",
+        "The apartment handoff checklist.",
+        "Delivery details",
+        "A little preparation for a building entrance can prevent a lot of confusion at the door.",
+        [
+          [
+            "Use the exact destination at checkout",
+            "This guide only asks for your city. The retailer needs the actual address to confirm eligibility. Enter the street address and unit through the official delivery selector, then review what appears on the order. A city in the published service area is a starting point, not a promise that every destination or requested window can be served."
+          ],
+          [
+            "Explain access without publishing private details",
+            "If your building has controlled access, use the retailer’s approved order-instruction channel for the necessary handoff details. A building name or clear entrance description may be helpful. Do not put access codes, your full address or identification information into a public share card. DOORSTEP SJ deliberately excludes those fields from its share links."
+          ],
+          [
+            "Prepare the purchaser for the handoff",
+            "Purple Lotus’s published instructions call for the purchaser to be present with accepted identification. Do not assume a roommate, reception desk or neighbor can receive the order for you. Keep the phone associated with the order available for retailer communications and plan around the confirmed delivery window rather than a general same-day statement."
+          ],
+          [
+            "Treat the window as time you need to be available",
+            "A delivery saves a trip, but it still requires coordination. If you have another commitment that overlaps the window, resolve that with the retailer before placing or changing an order. Our pickup comparison asks for your own travel time so you can make the tradeoff visible. It does not estimate driver arrival or track a vehicle."
+          ],
+          [
+            "Use the checklist without storing personal data",
+            "Check the readiness items in the planner: address confirmation, availability, identification, payment and contact details. The checklist runs in your browser and is not transmitted to the retailer. The share card is a planning snapshot, not an order confirmation. Read the current official delivery page for any changes to handoff policy before relying on an older saved card."
+          ]
+        ]
+      ],
+      [
+        "delivery-discounts",
+        "Why a discount and a delivery minimum need two checks.",
+        "Cost clarity",
+        "A worked budget example shows which amounts belong in the planner and which the retailer must confirm.",
+        [
+          [
+            "Keep the product subtotal separate",
+            "A shopping bag can contain product prices, discounts, tax, a delivery fee and an optional tip. These are separate line items. Start with the product subtotal you are using for planning and keep the tax amount visible. The planner leaves tax blank until you supply a checkout amount; it does not apply a guessed combined tax percentage to every order."
+          ],
+          [
+            "Follow an invented example",
+            "Imagine a product subtotal of $60, a checkout tax amount of $12 and an optional $5 tip. Add the currently displayed delivery fee to calculate a planning total. If the published fee is $3.99, this example totals $80.99. The $12 tax is invented for the example and is not a tax quote or a rate that should be applied to another basket. Change the inputs to match your own checkout."
+          ],
+          [
+            "Ask how the minimum is applied",
+            "A discount may reduce a product subtotal, but the retailer decides how its delivery minimum is calculated. Do not assume that taxes, delivery fees or tips help an order qualify. The planner compares the entered subtotal with the published minimum and flags a shortfall. It explicitly leaves the qualification decision to the retailer because promotions can have their own conditions."
+          ],
+          [
+            "Compare fulfillment with the same assumptions",
+            "Use the delivery or pickup selector while keeping product subtotal, entered tax and tip visible. Pickup removes the published delivery fee in this planning calculation. It does not verify that a store has the same product price, inventory or tax outcome. If checkout changes any of those line items, update the inputs before interpreting the difference."
+          ],
+          [
+            "Share the assumptions with the total",
+            "The shareable plan includes city, fulfillment choice and the numeric planning inputs. A blank tax field remains blank when another person opens the link. That distinction matters: a before-tax subtotal should never appear as a final checkout amount. Saved cards include the source-check date, and the live page can change when the next monthly source refresh updates a published fee."
+          ]
+        ]
+      ],
+      [
+        "order-troubleshooting",
+        "When the menu, address or timing does not line up.",
+        "Before checkout",
+        "A practical sequence for resolving delivery uncertainty without treating a guide as a live order system.",
+        [
+          [
+            "Start with the fulfillment context",
+            "Confirm whether you are viewing delivery or pickup and which address or store is selected. Product availability can depend on that context. Looking at a familiar product page does not prove it is available for the delivery destination you intend to use. Begin the official order with the address selector, then review the current menu in that context."
+          ],
+          [
+            "If an address looks out of range",
+            "Purple Lotus’s published delivery instructions recommend using the delivery location selector when changing an address from the bag page produces an out-of-range error. Re-enter the address carefully through that selector. If the result remains unclear, contact the retailer through its official site. Our city lookup cannot override an address decision, and an unlisted city here is not an automatic rejection."
+          ],
+          [
+            "If a product disappears",
+            "Do not infer live inventory from this guide or a brand profile. A source check may establish that a brand appears in published navigation, but it does not reserve an item. Review the current menu and exact variant. Where a substitution is possible, compare the product details rather than treating another flavor, size or formulation as automatically equivalent."
+          ],
+          [
+            "If the timing no longer works",
+            "Use the retailer’s current order-support instructions for any change to an existing order. The planning tool cannot cancel, reroute or reschedule a delivery. Avoid relying on a saved card as evidence of an appointment: it records planning inputs, not a driver assignment or confirmed arrival. Keep any actual order reference in the retailer’s own communication channel."
+          ],
+          [
+            "If the total differs from your plan",
+            "Compare line by line: product subtotal, discounts, tax, fulfillment fee and optional tip. Correct the relevant planner input rather than forcing the checkout to match a prior estimate. This makes the tool useful for understanding a difference while preserving the retailer’s role as the source of the final quote. The Sources page explains what is refreshed monthly and what remains a checkout-only fact."
+          ]
+        ]
+      ]
+    ]
+  },
+  "brand_depth": {
+    "raw-garden": [
+      [
+        "Find the report that matches the item",
+        "Raw Garden publishes a lab-results lookup organized by product category. Start with the exact product and batch details instead of assuming that one certificate represents every item carrying the brand. Its farm story explains origin and process; a matching report answers a narrower measurement question. If the result you need is absent, the official lab-results page points shoppers toward customer support."
+      ],
+      [
+        "How to use this profile in San Jose",
+        "Add this name to a shortlist, then compare it with up to two other profiles. The selection is a reading list rather than a stock claim or paid ranking. Share its link to let another person open the same names and make their own edit. For availability, choose your intended location or delivery address in the retailer’s current menu; a monthly source refresh cannot establish what is on the shelf this minute."
+      ]
+    ],
+    "kiva": [
+      [
+        "Navigate the portfolio before the package",
+        "Kiva is useful to research at two levels: the company portfolio and the individual confectionery family. A chocolate bar, a Petra mint and a Camino gummy are not interchangeable descriptions. Start with the family that matches your preferred food format, then compare piece amounts, total package amounts and ingredients on the actual California item. The portfolio helps locate the right questions; it does not answer them for every package."
+      ],
+      [
+        "How to use this profile in San Jose",
+        "Add this name to a shortlist, then compare it with up to two other profiles. The selection is a reading list rather than a stock claim or paid ranking. Share its link to let another person open the same names and make their own edit. For availability, choose your intended location or delivery address in the retailer’s current menu; a monthly source refresh cannot establish what is on the shelf this minute."
+      ]
+    ],
+    "camino": [
+      [
+        "Separate the range from the variant",
+        "The Camino name can appear on gummies, sours and fruit chews. A flavor or experience-oriented name does not fully specify cannabinoid amounts or ingredients. When sharing this profile, add the exact variant you want to investigate in your own notes. The brand-level shortlist intentionally contains no dosage or effect recommendation. Use the current package and retailer listing to fill in those product details."
+      ],
+      [
+        "How to use this profile in San Jose",
+        "Add this name to a shortlist, then compare it with up to two other profiles. The selection is a reading list rather than a stock claim or paid ranking. Share its link to let another person open the same names and make their own edit. For availability, choose your intended location or delivery address in the retailer’s current menu; a monthly source refresh cannot establish what is on the shelf this minute."
+      ]
+    ],
+    "wyld": [
+      [
+        "Check the market before comparing pictures",
+        "A national brand website may show products from several regulated markets. A useful comparison begins by checking that both items belong to the California market and use the same package configuration. Then compare the labeled cannabinoid ratio and ingredient list. A familiar fruit flavor is a navigation cue, not evidence that every version has the same formulation."
+      ],
+      [
+        "How to use this profile in San Jose",
+        "Add this name to a shortlist, then compare it with up to two other profiles. The selection is a reading list rather than a stock claim or paid ranking. Share its link to let another person open the same names and make their own edit. For availability, choose your intended location or delivery address in the retailer’s current menu; a monthly source refresh cannot establish what is on the shelf this minute."
+      ]
+    ],
+    "pax": [
+      [
+        "Two systems deserve two separate questions",
+        "For a dry-herb device, ask which materials and accessories the exact model accepts. For a pod system, ask which pod and battery models are compatible. These questions come before flavor or branding. A low-priced pod can require separate hardware, while a hardware-only product may contain no cannabis. Confirm what is physically included before interpreting the listed price."
+      ],
+      [
+        "How to use this profile in San Jose",
+        "Add this name to a shortlist, then compare it with up to two other profiles. The selection is a reading list rather than a stock claim or paid ranking. Share its link to let another person open the same names and make their own edit. For availability, choose your intended location or delivery address in the retailer’s current menu; a monthly source refresh cannot establish what is on the shelf this minute."
+      ]
+    ],
+    "jeeter": [
+      [
+        "Read the construction of the product",
+        "A pre-roll label may describe flower, added extracts and other ingredients. Record whether the item is infused, how many units are included and whether the stated weight is per unit or per pack. Do not compare an infused multi-pack with a flower-only single unit as though the product names alone established equivalence. Hardware questions apply separately to all-in-one vape products."
+      ],
+      [
+        "How to use this profile in San Jose",
+        "Add this name to a shortlist, then compare it with up to two other profiles. The selection is a reading list rather than a stock claim or paid ranking. Share its link to let another person open the same names and make their own edit. For availability, choose your intended location or delivery address in the retailer’s current menu; a monthly source refresh cannot establish what is on the shelf this minute."
+      ]
+    ],
+    "connected": [
+      [
+        "A cultivation history is context for a batch",
+        "Connected’s official history is a starting point for understanding its Sacramento background and focus on cultivation. For a current jar, the practical next step is more specific: read the product format, package weight, date and available batch documentation. Historical reputation and a current measured value answer different questions. A useful shortlist preserves both without turning either into an unsupported quality score."
+      ],
+      [
+        "How to use this profile in San Jose",
+        "Add this name to a shortlist, then compare it with up to two other profiles. The selection is a reading list rather than a stock claim or paid ranking. Share its link to let another person open the same names and make their own edit. For availability, choose your intended location or delivery address in the retailer’s current menu; a monthly source refresh cannot establish what is on the shelf this minute."
+      ]
+    ],
+    "alien-labs": [
+      [
+        "A shared history does not merge two products",
+        "Alien Labs and Connected have a documented relationship, but shoppers encounter distinct names and individual packages. Keep the actual brand and product name attached to your comparison. If two jars share a cultivar name, use their own dates and reports rather than transferring the numbers from one to the other. The purpose of a brand family story is to orient research, not erase package-level differences."
+      ],
+      [
+        "How to use this profile in San Jose",
+        "Add this name to a shortlist, then compare it with up to two other profiles. The selection is a reading list rather than a stock claim or paid ranking. Share its link to let another person open the same names and make their own edit. For availability, choose your intended location or delivery address in the retailer’s current menu; a monthly source refresh cannot establish what is on the shelf this minute."
+      ]
+    ]
+  },
+  "terpene_depth": {
+    "limonene": [
+      [
+        "Where this fits in a scent signature",
+        "In NOSE NOTES, Limonene connects with citrus, fresh vocabulary. These are editorial browsing categories, not concentration measurements or a hierarchy of better and worse aromas. Select a family on the home page to see every profile tagged with it. Selecting more than one family broadens the results to any matching category, which is useful when you prefer a mixture of scent references."
+      ],
+      [
+        "A careful way to read the number",
+        "If Limonene appears on a report, copy its name, amount and unit together. For example, an invented value of 2 mg/g equals 0.2%, not 2%. Keep a missing value blank in the converter and preserve the laboratory’s explanation of any qualifiers. Compare the same compound across matched product reports only after checking their units and sample identities. A number is a measurement within that report, not a prediction of personal effects."
+      ]
+    ],
+    "myrcene": [
+      [
+        "Where this fits in a scent signature",
+        "In NOSE NOTES, Myrcene connects with earthy, herbal vocabulary. These are editorial browsing categories, not concentration measurements or a hierarchy of better and worse aromas. Select a family on the home page to see every profile tagged with it. Selecting more than one family broadens the results to any matching category, which is useful when you prefer a mixture of scent references."
+      ],
+      [
+        "A careful way to read the number",
+        "If Myrcene appears on a report, copy its name, amount and unit together. For example, an invented value of 2 mg/g equals 0.2%, not 2%. Keep a missing value blank in the converter and preserve the laboratory’s explanation of any qualifiers. Compare the same compound across matched product reports only after checking their units and sample identities. A number is a measurement within that report, not a prediction of personal effects."
+      ]
+    ],
+    "alpha-pinene": [
+      [
+        "Where this fits in a scent signature",
+        "In NOSE NOTES, Alpha-pinene connects with pine, fresh vocabulary. These are editorial browsing categories, not concentration measurements or a hierarchy of better and worse aromas. Select a family on the home page to see every profile tagged with it. Selecting more than one family broadens the results to any matching category, which is useful when you prefer a mixture of scent references."
+      ],
+      [
+        "A careful way to read the number",
+        "If Alpha-pinene appears on a report, copy its name, amount and unit together. For example, an invented value of 2 mg/g equals 0.2%, not 2%. Keep a missing value blank in the converter and preserve the laboratory’s explanation of any qualifiers. Compare the same compound across matched product reports only after checking their units and sample identities. A number is a measurement within that report, not a prediction of personal effects."
+      ]
+    ],
+    "linalool": [
+      [
+        "Where this fits in a scent signature",
+        "In NOSE NOTES, Linalool connects with floral, fresh vocabulary. These are editorial browsing categories, not concentration measurements or a hierarchy of better and worse aromas. Select a family on the home page to see every profile tagged with it. Selecting more than one family broadens the results to any matching category, which is useful when you prefer a mixture of scent references."
+      ],
+      [
+        "A careful way to read the number",
+        "If Linalool appears on a report, copy its name, amount and unit together. For example, an invented value of 2 mg/g equals 0.2%, not 2%. Keep a missing value blank in the converter and preserve the laboratory’s explanation of any qualifiers. Compare the same compound across matched product reports only after checking their units and sample identities. A number is a measurement within that report, not a prediction of personal effects."
+      ]
+    ],
+    "caryophyllene": [
+      [
+        "Where this fits in a scent signature",
+        "In NOSE NOTES, Beta-caryophyllene connects with spicy, woody vocabulary. These are editorial browsing categories, not concentration measurements or a hierarchy of better and worse aromas. Select a family on the home page to see every profile tagged with it. Selecting more than one family broadens the results to any matching category, which is useful when you prefer a mixture of scent references."
+      ],
+      [
+        "A careful way to read the number",
+        "If Beta-caryophyllene appears on a report, copy its name, amount and unit together. For example, an invented value of 2 mg/g equals 0.2%, not 2%. Keep a missing value blank in the converter and preserve the laboratory’s explanation of any qualifiers. Compare the same compound across matched product reports only after checking their units and sample identities. A number is a measurement within that report, not a prediction of personal effects."
+      ]
+    ],
+    "humulene": [
+      [
+        "Where this fits in a scent signature",
+        "In NOSE NOTES, Humulene connects with woody, earthy vocabulary. These are editorial browsing categories, not concentration measurements or a hierarchy of better and worse aromas. Select a family on the home page to see every profile tagged with it. Selecting more than one family broadens the results to any matching category, which is useful when you prefer a mixture of scent references."
+      ],
+      [
+        "A careful way to read the number",
+        "If Humulene appears on a report, copy its name, amount and unit together. For example, an invented value of 2 mg/g equals 0.2%, not 2%. Keep a missing value blank in the converter and preserve the laboratory’s explanation of any qualifiers. Compare the same compound across matched product reports only after checking their units and sample identities. A number is a measurement within that report, not a prediction of personal effects."
+      ]
+    ],
+    "terpinolene": [
+      [
+        "Where this fits in a scent signature",
+        "In NOSE NOTES, Terpinolene connects with herbal, pine, floral vocabulary. These are editorial browsing categories, not concentration measurements or a hierarchy of better and worse aromas. Select a family on the home page to see every profile tagged with it. Selecting more than one family broadens the results to any matching category, which is useful when you prefer a mixture of scent references."
+      ],
+      [
+        "A careful way to read the number",
+        "If Terpinolene appears on a report, copy its name, amount and unit together. For example, an invented value of 2 mg/g equals 0.2%, not 2%. Keep a missing value blank in the converter and preserve the laboratory’s explanation of any qualifiers. Compare the same compound across matched product reports only after checking their units and sample identities. A number is a measurement within that report, not a prediction of personal effects."
+      ]
+    ],
+    "beta-pinene": [
+      [
+        "Where this fits in a scent signature",
+        "In NOSE NOTES, Beta-pinene connects with pine, woody vocabulary. These are editorial browsing categories, not concentration measurements or a hierarchy of better and worse aromas. Select a family on the home page to see every profile tagged with it. Selecting more than one family broadens the results to any matching category, which is useful when you prefer a mixture of scent references."
+      ],
+      [
+        "A careful way to read the number",
+        "If Beta-pinene appears on a report, copy its name, amount and unit together. For example, an invented value of 2 mg/g equals 0.2%, not 2%. Keep a missing value blank in the converter and preserve the laboratory’s explanation of any qualifiers. Compare the same compound across matched product reports only after checking their units and sample identities. A number is a measurement within that report, not a prediction of personal effects."
+      ]
+    ]
+  },
+  "city_depth": {
+    "san-jose": [
+      [
+        "Compare the two pickup contexts",
+        "San Jose offers a useful delivery-versus-pickup decision because the sponsor publishes Commercial Street and downtown West Santa Clara Street pickup locations. Select the intended location in the official menu before comparing. Enter your own round-trip travel and parking estimates in our tool; it does not assume that either store is nearer or faster for your address."
+      ],
+      [
+        "What your shared city plan includes",
+        "The share link records the city, fulfillment choice, product subtotal, optional tip and any tax amount you enter. It never needs your street address or ID. Someone opening it can inspect the assumptions and edit their own copy. A downloaded card is a dated snapshot; the website’s next monthly refresh can update published policies, so confirm the current retailer terms before ordering."
+      ]
+    ],
+    "santa-clara": [
+      [
+        "Plan for a shared entrance",
+        "For a shared residential building, separate your address confirmation from the handoff plan. First ask the retailer to confirm the exact destination. Then use its approved instructions channel for entrance and unit details. A shared lobby does not mean another person can receive the order on your behalf."
+      ],
+      [
+        "What your shared city plan includes",
+        "The share link records the city, fulfillment choice, product subtotal, optional tip and any tax amount you enter. It never needs your street address or ID. Someone opening it can inspect the assumptions and edit their own copy. A downloaded card is a dated snapshot; the website’s next monthly refresh can update published policies, so confirm the current retailer terms before ordering."
+      ]
+    ],
+    "sunnyvale": [
+      [
+        "Compare the time commitment",
+        "A useful decision is whether you can remain available for the confirmed delivery window or would prefer a pickup trip you arrange yourself. Enter the round-trip minutes that apply to your own journey. The number is your planning assumption, not a route estimate, and the saved plan does not reserve a delivery slot."
+      ],
+      [
+        "What your shared city plan includes",
+        "The share link records the city, fulfillment choice, product subtotal, optional tip and any tax amount you enter. It never needs your street address or ID. Someone opening it can inspect the assumptions and edit their own copy. A downloaded card is a dated snapshot; the website’s next monthly refresh can update published policies, so confirm the current retailer terms before ordering."
+      ]
+    ],
+    "milpitas": [
+      [
+        "Check the selector before the basket",
+        "If an address produces an unexpected eligibility message, start again from the delivery location selector on the official site. The sponsor specifically describes this workflow for an address changed on the bag page. Do not keep adding items while assuming the fulfillment context has already changed."
+      ],
+      [
+        "What your shared city plan includes",
+        "The share link records the city, fulfillment choice, product subtotal, optional tip and any tax amount you enter. It never needs your street address or ID. Someone opening it can inspect the assumptions and edit their own copy. A downloaded card is a dated snapshot; the website’s next monthly refresh can update published policies, so confirm the current retailer terms before ordering."
+      ]
+    ],
+    "campbell": [
+      [
+        "Review discounts and qualification together",
+        "Before relying on a planning total, confirm how any discount affects the minimum. Our calculator compares your entered product subtotal with the published threshold and shows the gap when it falls short. It does not assume that a tip or tax amount helps qualify the basket."
+      ],
+      [
+        "What your shared city plan includes",
+        "The share link records the city, fulfillment choice, product subtotal, optional tip and any tax amount you enter. It never needs your street address or ID. Someone opening it can inspect the assumptions and edit their own copy. A downloaded card is a dated snapshot; the website’s next monthly refresh can update published policies, so confirm the current retailer terms before ordering."
+      ]
+    ],
+    "cupertino": [
+      [
+        "Confirm the item and the handoff together",
+        "A product you researched elsewhere may not appear in the menu for your current delivery context. Confirm the exact item after selecting the address, then check the window and accepted payment options. Keep the purchaser available with accepted identification rather than forwarding an order for someone else to receive."
+      ],
+      [
+        "What your shared city plan includes",
+        "The share link records the city, fulfillment choice, product subtotal, optional tip and any tax amount you enter. It never needs your street address or ID. Someone opening it can inspect the assumptions and edit their own copy. A downloaded card is a dated snapshot; the website’s next monthly refresh can update published policies, so confirm the current retailer terms before ordering."
+      ]
+    ]
+  },
+  "guide_depth": {},
+  "glossary": {
+    "atlas": [
+      [
+        "Batch",
+        "A particular production lot. Its documentation is more specific than a general brand story."
+      ],
+      [
+        "Product family",
+        "A named group within a company’s portfolio, such as Camino within Kiva."
+      ],
+      [
+        "Format",
+        "The physical product type, such as flower, edible, pod or pre-roll."
+      ],
+      [
+        "All-in-one",
+        "A product combining its oil and vaping hardware. Check charging and disposal instructions."
+      ],
+      [
+        "Pod",
+        "A consumable designed for a compatible pod device. Check the complete model name."
+      ],
+      [
+        "Infused pre-roll",
+        "A pre-roll with added cannabis material such as an extract; read the ingredient description."
+      ],
+      [
+        "COA",
+        "Certificate of analysis. Match it to the product or batch before using its measurements."
+      ],
+      [
+        "Cultivar",
+        "A named cultivated variety. Its name does not provide a fixed laboratory composition."
+      ],
+      [
+        "Package amount",
+        "The amount across the full package, which can differ from the amount in one piece."
+      ],
+      [
+        "Shortlist",
+        "A saved set of profiles to investigate, not a quality ranking or stock reservation."
+      ]
+    ],
+    "terpenes": [
+      [
+        "mg/g",
+        "Milligrams per gram. Divide by ten to express the same mass fraction as percent."
+      ],
+      [
+        "Percent",
+        "Parts per hundred. One percent equals 10 mg/g."
+      ],
+      [
+        "Aroma family",
+        "An editorial scent category used here to navigate compound profiles."
+      ],
+      [
+        "Isomer",
+        "A compound sharing a molecular formula with another but having a different arrangement."
+      ],
+      [
+        "Terpene panel",
+        "The set of terpene measurements included in a particular report."
+      ],
+      [
+        "Entered total",
+        "The sum of only the numeric values you put into our converter."
+      ],
+      [
+        "ND",
+        "Often used for not detected. Consult the report’s own definition and reporting limits."
+      ],
+      [
+        "LOQ",
+        "Limit of quantification. Consult the laboratory’s methods and report legend."
+      ],
+      [
+        "PubChem CID",
+        "A compound identifier in the public PubChem database."
+      ],
+      [
+        "Scent signature",
+        "Your selected aroma preferences. It does not predict effects or prescribe a product."
+      ]
+    ],
+    "delivery": [
+      [
+        "Published coverage",
+        "A retailer’s stated service area. An exact address still needs confirmation."
+      ],
+      [
+        "Product subtotal",
+        "The amount for products before separately listed tax, fee and tip."
+      ],
+      [
+        "Delivery minimum",
+        "A retailer’s qualifying threshold. Confirm how discounts affect it."
+      ],
+      [
+        "Planning total",
+        "A calculation from your inputs and the displayed fee, not a checkout quote."
+      ],
+      [
+        "Before tax",
+        "The tax field is blank, so no tax amount has been included."
+      ],
+      [
+        "Fulfillment",
+        "The way an order reaches you, such as delivery or pickup."
+      ],
+      [
+        "Handoff window",
+        "The confirmed period when the purchaser needs to be available for receipt."
+      ],
+      [
+        "Address selector",
+        "The retailer’s interface for choosing a delivery destination."
+      ],
+      [
+        "Optional tip",
+        "The gratuity amount you choose to include in your planning calculation."
+      ],
+      [
+        "Saved card",
+        "A dated snapshot of planning assumptions. It is not an order confirmation."
+      ]
+    ]
+  },
+  "quizzes": {
+    "atlas": [
+      {
+        "question": "Two packages share a cultivar name. What should you compare next?",
+        "choices": [
+          "The font on the label",
+          "Their specific batch information",
+          "Only the brand popularity"
+        ],
+        "answer": 1,
+        "explanation": "A cultivar name is not a fixed laboratory result. Use the actual package and batch information."
+      },
+      {
+        "question": "Camino belongs to which portfolio?",
+        "choices": [
+          "Kiva",
+          "PAX",
+          "Raw Garden"
+        ],
+        "answer": 0,
+        "explanation": "Kiva’s official portfolio includes Camino along with other confectionery families."
+      },
+      {
+        "question": "A pod looks like it fits. Is that enough?",
+        "choices": [
+          "Yes, appearances establish compatibility",
+          "Only if the color matches",
+          "No, check exact device and pod models"
+        ],
+        "answer": 2,
+        "explanation": "Device compatibility needs the manufacturer’s model-level information."
+      },
+      {
+        "question": "Ten 5 mg pieces and five 10 mg pieces have…",
+        "choices": [
+          "The same piece amount",
+          "The same total package amount",
+          "No comparable information"
+        ],
+        "answer": 1,
+        "explanation": "Both fictional packages total 50 mg, but the piece amounts differ. This is label arithmetic, not a serving recommendation."
+      },
+      {
+        "question": "What does this brand shortlist establish?",
+        "choices": [
+          "A list of profiles to research",
+          "Guaranteed local inventory",
+          "An independent quality ranking"
+        ],
+        "answer": 0,
+        "explanation": "The shortlist is a research aid. Stock and exact products require the retailer’s current menu."
+      }
+    ],
+    "terpenes": [
+      {
+        "question": "10 mg/g is equivalent to…",
+        "choices": [
+          "10%",
+          "1%",
+          "0.01%"
+        ],
+        "answer": 1,
+        "explanation": "Divide mg/g by ten to convert to percent."
+      },
+      {
+        "question": "A blank field in the converter means…",
+        "choices": [
+          "Unknown or not entered",
+          "Exactly zero",
+          "The compound cannot occur"
+        ],
+        "answer": 0,
+        "explanation": "Blank values stay unknown and are excluded from the entered total."
+      },
+      {
+        "question": "Alpha-pinene and beta-pinene should be…",
+        "choices": [
+          "Merged automatically",
+          "Treated as a brand name",
+          "Kept separately labeled"
+        ],
+        "answer": 2,
+        "explanation": "They are distinct compounds even though their molecular formulas match."
+      },
+      {
+        "question": "Selecting Citrus and Pine finds…",
+        "choices": [
+          "Profiles matching either category",
+          "Only products with measured levels of both",
+          "A prediction of your experience"
+        ],
+        "answer": 0,
+        "explanation": "The explorer uses any-match editorial aroma tags, not product measurements."
+      },
+      {
+        "question": "A bar marked 50% of the entered total means…",
+        "choices": [
+          "Half of the entire product",
+          "Half of the values summed in this panel entry",
+          "A quality score of 50"
+        ],
+        "answer": 1,
+        "explanation": "The share of entered terpenes is different from the compound’s mass percentage in a product."
+      }
+    ],
+    "delivery": [
+      {
+        "question": "A city appears in published coverage. What is still needed?",
+        "choices": [
+          "Nothing",
+          "Exact-address confirmation by the retailer",
+          "A public street-address share card"
+        ],
+        "answer": 1,
+        "explanation": "City-level coverage does not confirm every individual address or available window."
+      },
+      {
+        "question": "If the tax field is blank, the planner shows…",
+        "choices": [
+          "A before-tax planning subtotal",
+          "A tax-inclusive quote",
+          "A zero-tax eligibility decision"
+        ],
+        "answer": 0,
+        "explanation": "Blank tax is unknown, not a claim that no tax applies."
+      },
+      {
+        "question": "Who decides whether a discount affects the minimum?",
+        "choices": [
+          "This website",
+          "The share-card recipient",
+          "The retailer"
+        ],
+        "answer": 2,
+        "explanation": "The retailer confirms how its minimum and promotion conditions apply."
+      },
+      {
+        "question": "A saved delivery card is…",
+        "choices": [
+          "A confirmed order",
+          "A snapshot of planning inputs",
+          "A driver tracking link"
+        ],
+        "answer": 1,
+        "explanation": "The card does not reserve an order, inventory or delivery time."
+      },
+      {
+        "question": "What belongs in the share link?",
+        "choices": [
+          "Your identification number",
+          "Your building access code",
+          "City and planning amounts"
+        ],
+        "answer": 2,
+        "explanation": "Share cards exclude your full address, payment details and ID information."
+      }
+    ]
+  }
+}
