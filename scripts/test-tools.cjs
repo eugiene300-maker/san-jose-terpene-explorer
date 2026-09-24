@@ -1,0 +1,12 @@
+const assert=require('node:assert/strict');
+const m=require('../src/app.js');
+assert.deepEqual(m.budget({subtotal:60,tax:null,tip:0,fee:3.99,minimum:50,fulfillment:'delivery'}),{total:63.99,delivery:3.99,preTax:true,belowMinimum:false,gap:0});
+assert.equal(m.budget({subtotal:40,tax:5,tip:2,fee:3.99,minimum:50,fulfillment:'delivery'}).gap,10);
+assert.equal(m.budget({subtotal:60,tax:8.21,tip:0,fee:3.99,minimum:50,fulfillment:'pickup'}).total,68.21);
+assert.throws(()=>m.budget({subtotal:-1,tax:null,tip:0,fee:3.99,minimum:50,fulfillment:'delivery'}));
+assert.equal(m.lab({limonene:10,myrcene:5,humulene:null},'mgg').total,1.5);
+assert.equal(m.lab({limonene:1},'percent').rows[0].mgg,10);
+assert.equal(m.lab({limonene:0},'mgg').entered,1);
+assert.throws(()=>m.lab({limonene:80,myrcene:21},'percent'));
+assert.throws(()=>m.lab({limonene:NaN},'mgg'));
+console.log('Passed: delivery totals, minimum gap, pickup, negative-input rejection, unit conversion, zero values, over-100% rejection and NaN rejection.');
