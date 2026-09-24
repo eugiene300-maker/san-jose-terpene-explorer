@@ -1,0 +1,47 @@
+name: Refresh public data monthly
+on:
+  schedule:
+    - cron: '23 11 1 * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: source-refresh
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Fetch source data without discarding last good records
+        id: source
+        continue-on-error: true
+        run: python scripts/refresh.py
+      - name: Regenerate pages
+        env:
+          SITE_URL: ${{ vars.SITE_URL }}
+        run: python scripts/build.py
+      - name: Validate pages and links
+        run: python scripts/check.py
+      - name: Save refreshed data and pages
+        run: |
+          git config user.name 'Public data refresh'
+          git config user.email 'public-data-refresh@users.noreply.github.com'
+          git add data/live.json dist
+          if ! git diff --cached --quiet; then
+            git commit -m 'Refresh monthly public data and generated pages'
+            git push
+          fi
+      - name: Report source failures after preserving the status
+        if: steps.source.outcome == 'failure'
+        run: |
+          echo 'At least one source needs review. Last successful data was retained.'
+          exit 1
